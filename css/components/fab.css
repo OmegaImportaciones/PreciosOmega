@@ -1,0 +1,251 @@
+/* =========================================================
+   FLOATING ACTION BUTTONS (FAB)
+   Burbujas flotantes de contacto/redes, ancladas a la esquina
+   inferior derecha, siempre visibles sobre el contenido.
+   Orden de arriba hacia abajo: Ubicación, TikTok, Facebook,
+   WhatsApp (la de contacto principal, más grande y al final,
+   la más cercana al pulgar).
+========================================================= */
+
+.fab-stack {
+
+    position: fixed;
+
+    right:
+        calc(16px + env(safe-area-inset-right));
+
+    bottom:
+        calc(20px + env(safe-area-inset-bottom));
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    gap: 12px;
+
+    z-index: 50;
+
+}
+
+
+/* =========================
+   BUBBLE (base)
+========================= */
+
+.fab-button {
+
+    width: 52px;
+    height: 52px;
+
+    border-radius: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background:
+        var(--card-bg);
+
+    border:
+        0.5px solid var(--border-hairline);
+
+    box-shadow:
+        var(--shadow-lift);
+
+    text-decoration: none;
+
+    -webkit-tap-highlight-color: transparent;
+
+    transition:
+        var(--transition-main);
+
+    animation:
+        fab-enter 0.5s var(--ease-out) both;
+
+}
+
+@keyframes fab-enter {
+
+    from {
+        opacity: 0;
+        transform: translateY(10px) scale(0.9);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+
+}
+
+.fab-stack .fab-button:nth-child(1) { animation-delay: 0.05s; }
+.fab-stack .fab-button:nth-child(2) { animation-delay: 0.10s; }
+.fab-stack .fab-button:nth-child(3) { animation-delay: 0.15s; }
+.fab-stack .fab-button:nth-child(4) { animation-delay: 0.20s; }
+
+@media (prefers-reduced-motion: reduce) {
+
+    .fab-button {
+        animation: none;
+    }
+
+}
+
+.fab-button:active {
+
+    transform: scale(0.92);
+
+    background:
+        var(--card-bg-strong);
+
+}
+
+@media (hover: hover) {
+
+    .fab-button:hover {
+
+        background:
+            var(--card-bg-strong);
+
+    }
+
+}
+
+
+/* =========================
+   ICONS
+========================= */
+
+.fab-icon {
+
+    width: 26px;
+    height: 26px;
+
+    object-fit: contain;
+
+    border-radius: 6px;
+
+    user-select: none;
+
+    -webkit-user-drag: none;
+
+}
+
+/* El glifo de TikTok viene sin fondo (igual que en icons.css) */
+.fab-tiktok .fab-icon {
+
+    background: #000000;
+
+    border-radius: 50%;
+
+    padding: 5px;
+
+    box-sizing: border-box;
+
+}
+
+.fab-emoji {
+
+    font-size: 1.2rem;
+    line-height: 1;
+
+}
+
+
+/* =========================
+   WHATSAPP — acción principal
+   Ligeramente más grande + halo verde de marca
+   para que destaque como el canal de contacto directo.
+========================= */
+
+.fab-whatsapp {
+
+    width: 60px;
+    height: 60px;
+
+    box-shadow:
+        0 10px 24px rgba(52, 199, 89, 0.35),
+        var(--shadow-soft);
+
+}
+
+.fab-whatsapp .fab-icon {
+
+    width: 32px;
+    height: 32px;
+
+    border-radius: 8px;
+
+}
+
+.fab-whatsapp:active {
+
+    background:
+        rgba(52, 199, 89, 0.12);
+
+}
+
+
+/* =========================
+   PÁGINAS CON FAB
+   Deja aire abajo para que el stack no tape el
+   último contenido al llegar al final del scroll.
+========================= */
+
+.has-fab {
+
+    padding-bottom:
+        calc(180px + env(safe-area-inset-bottom)) !important;
+
+}
+
+
+/* =========================
+   MOBILE
+========================= */
+
+@media (max-width: 480px) {
+
+    .fab-stack {
+
+        right:
+            calc(14px + env(safe-area-inset-right));
+
+        bottom:
+            calc(16px + env(safe-area-inset-bottom));
+
+        gap: 10px;
+
+    }
+
+    .fab-button {
+
+        width: 48px;
+        height: 48px;
+
+    }
+
+    .fab-icon {
+
+        width: 23px;
+        height: 23px;
+
+    }
+
+    .fab-whatsapp {
+
+        width: 56px;
+        height: 56px;
+
+    }
+
+    .fab-whatsapp .fab-icon {
+
+        width: 29px;
+        height: 29px;
+
+    }
+
+}

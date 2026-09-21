@@ -1,0 +1,182 @@
+/* =========================
+   BUTTONS CONTAINER
+========================= */
+
+.buttons-container {
+
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+
+  gap: 10px;
+
+  position: relative;
+
+  z-index: 2;
+
+}
+
+/* =========================
+   MAIN BUTTON
+   Estilo "grouped list row" de iOS en modo claro:
+   relleno systemGray6, esquinas 16pt, sombra
+   casi imperceptible — la profundidad la da el
+   contraste tonal, no el blur pesado.
+========================= */
+
+.main-button {
+
+  width: 100%;
+
+  min-height: 56px;
+
+  padding: 14px 16px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  gap: 12px;
+
+  background:
+    var(--card-bg);
+
+  border:
+    0.5px solid var(--border-hairline);
+
+  border-radius:
+    var(--radius-main);
+
+  text-decoration: none;
+
+  color:
+    var(--text-primary);
+
+  font-family: var(--font-body);
+
+  font-size: 1.0625rem; /* 17pt — iOS body/headline size */
+
+  font-weight: 590;
+
+  letter-spacing: -0.01em;
+
+  transition:
+    var(--transition-main);
+
+  box-shadow:
+    var(--shadow-soft);
+
+  position: relative;
+
+  overflow: hidden;
+
+  isolation: isolate;
+
+  contain: layout style;
+
+  transform:
+    translateZ(0);
+
+  will-change:
+    transform;
+
+  z-index: 2;
+
+  -webkit-tap-highlight-color: transparent;
+
+  animation:
+    button-enter 0.5s var(--ease-out) both;
+
+}
+
+@keyframes button-enter {
+
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+}
+
+.buttons-container .main-button:nth-child(1) { animation-delay: 0.04s; }
+.buttons-container .main-button:nth-child(2) { animation-delay: 0.09s; }
+.buttons-container .main-button:nth-child(3) { animation-delay: 0.14s; }
+.buttons-container .main-button:nth-child(4) { animation-delay: 0.19s; }
+.buttons-container .main-button:nth-child(5) { animation-delay: 0.24s; }
+.buttons-container .main-button:nth-child(6) { animation-delay: 0.29s; }
+
+@media (prefers-reduced-motion: reduce) {
+
+  .main-button {
+    animation: none;
+  }
+
+}
+
+/* =========================
+   PRESS STATE (mobile-first)
+========================= */
+
+.main-button:active {
+
+  transform:
+    scale(0.98);
+
+  background:
+    var(--card-bg-strong);
+
+}
+
+/* =========================
+   HOVER (solo aporta en desktop/trackpad)
+========================= */
+
+@media (hover: hover) {
+
+  .main-button:hover {
+
+    background:
+      var(--card-bg-strong);
+
+  }
+
+}
+
+/* =========================
+   WHATSAPP ACCENT
+========================= */
+
+.main-button:nth-child(1):active {
+
+  background:
+    rgba(52, 199, 89, 0.1);
+
+}
+
+/* =========================
+   TIKTOK ACCENT
+========================= */
+
+.main-button:nth-child(3):active {
+
+  background:
+    rgba(48, 176, 199, 0.1);
+
+}
+
+/* =========================
+   FACEBOOK ACCENT
+========================= */
+
+.main-button:nth-child(4):active {
+
+  background:
+    rgba(0, 122, 255, 0.1);
+
+}

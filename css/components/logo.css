@@ -1,0 +1,130 @@
+/* =========================
+   LOGO FRAME
+   Contenedor decorativo que permite el barrido
+   de brillo sobre el isotipo cromado, sin tocar
+   la imagen original.
+========================= */
+
+.logo-frame {
+
+    position: relative;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    overflow: hidden;
+
+    border-radius: 28px;
+
+    animation:
+        logo-enter 0.7s var(--ease-out) both;
+
+}
+
+.logo-frame::after {
+
+    content: '';
+
+    position: absolute;
+
+    top: -20%;
+
+    left: -60%;
+
+    width: 40%;
+
+    height: 140%;
+
+    background:
+        linear-gradient(
+            100deg,
+            rgba(255, 255, 255, 0) 0%,
+            rgba(255, 255, 255, 0.9) 50%,
+            rgba(255, 255, 255, 0) 100%
+        );
+
+    mix-blend-mode: overlay;
+
+    pointer-events: none;
+
+    animation:
+        logo-shine 5s ease-in-out 1s infinite;
+
+}
+
+@keyframes logo-shine {
+
+    0% {
+        transform: translateX(0) skewX(-18deg);
+        opacity: 0;
+    }
+
+    8% {
+        opacity: 1;
+    }
+
+    28% {
+        transform: translateX(420%) skewX(-18deg);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(420%) skewX(-18deg);
+        opacity: 0;
+    }
+
+}
+
+@keyframes logo-enter {
+
+    from {
+        opacity: 0;
+        transform: translateY(10px) scale(0.97);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+
+}
+
+
+/* =========================
+   LOGO
+========================= */
+
+.logo {
+
+    width: 460px;
+    max-width: 148%;
+
+    object-fit: contain;
+
+    filter:
+      drop-shadow(
+        0 10px 24px rgba(0, 0, 0, 0.1)
+      );
+
+    user-select: none;
+
+    -webkit-user-drag: none;
+
+    margin-bottom: 2px;
+
+    position: relative;
+
+}
+
+
+@media (prefers-reduced-motion: reduce) {
+
+  .logo-frame,
+  .logo-frame::after {
+    animation: none;
+  }
+
+}

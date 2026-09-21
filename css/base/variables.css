@@ -1,0 +1,126 @@
+:root {
+
+  /* =========================
+     SURFACE — iOS light mode
+     (systemBackground / systemGray6)
+  ========================= */
+  --bg-primary: #ffffff;
+  --bg-elevated: #f2f2f7;      /* systemGray6 light — grouped cells */
+  --bg-elevated-2: #e5e5ea;    /* systemGray5 light — pressed state */
+  --bg-elevated-3: #d1d1d6;    /* systemGray4 light */
+
+  --card-bg: #f5f5f7;
+  --card-bg-strong: #ebebef;
+
+  /* Fondo translúcido con blur para navbars tipo "material" (iOS) */
+  --surface-blur: rgba(255, 255, 255, 0.78);
+
+  /* =========================
+     LABELS — iOS text colors (light)
+  ========================= */
+  --text-primary: #1d1d1f;
+  --text-secondary: rgba(60, 60, 67, 0.6);   /* secondaryLabel light */
+  --text-tertiary: rgba(60, 60, 67, 0.3);    /* tertiaryLabel light */
+
+  /* =========================
+     SEPARATORS
+  ========================= */
+  --separator: rgba(60, 60, 67, 0.29);
+  --border-color: rgba(0, 0, 0, 0.06);
+  --border-hairline: rgba(0, 0, 0, 0.06);
+
+  --button-hover: rgba(0, 0, 0, 0.035);
+  --button-pressed: rgba(0, 0, 0, 0.06);
+
+  /* =========================
+     SYSTEM COLORS (light palette)
+  ========================= */
+  --accent: #007aff;        /* systemBlue */
+  --accent-soft: #3395ff;
+  --accent-dim: rgba(0, 122, 255, 0.1);
+
+  --system-green: #34c759;
+  --system-red: #ff3b30;
+  --system-orange: #ff9500;
+  --system-teal: #30b0c7;
+  --system-purple: #af52de;
+
+  /* SHADOWS — soft, barely-there depth */
+  --shadow-soft: 0 1px 2px rgba(0, 0, 0, 0.04), 0 1px 1px rgba(0, 0, 0, 0.03);
+  --shadow-lift: 0 12px 28px rgba(0, 0, 0, 0.08), 0 2px 6px rgba(0, 0, 0, 0.04);
+  --shadow-glow: 0 0 24px rgba(0, 122, 255, 0.1);
+
+  /* RADIUS — iOS corner radii */
+  --radius-main: 16px;
+  --radius-soft: 12px;
+  --radius-pill: 999px;
+
+  /* TYPE — native system font stack renders as San Francisco on Apple devices */
+  --font-display: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --font-body: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+
+  /* TRANSITIONS — iOS spring-like easing */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-spring: cubic-bezier(0.34, 1.4, 0.4, 1);
+  --transition-main: transform 0.18s var(--ease-out),
+    background 0.18s ease,
+    box-shadow 0.18s ease,
+    border 0.18s ease;
+
+}
+
+
+/* =========================================================
+   MODO OSCURO — NEGRO REAL (AMOLED)
+   No es una "capa gris" tipo Facebook: el fondo y las
+   superficies son #000000 puro para que en pantallas OLED
+   los píxeles negros queden literalmente apagados. La
+   separación entre tarjetas/botones se logra con bordes y
+   overlays translúcidos blancos, no con grises intermedios.
+========================= */
+
+html[data-theme="dark"] {
+
+  /* SURFACE — negro puro, sin matices de gris */
+  --bg-primary: #000000;
+  --bg-elevated: #000000;
+  --bg-elevated-2: rgba(255, 255, 255, 0.06);
+  --bg-elevated-3: rgba(255, 255, 255, 0.1);
+
+  --card-bg: #000000;
+  --card-bg-strong: rgba(255, 255, 255, 0.08);
+
+  --surface-blur: rgba(0, 0, 0, 0.72);
+
+  /* LABELS — iOS text colors (dark) */
+  --text-primary: #ffffff;
+  --text-secondary: rgba(235, 235, 245, 0.6);
+  --text-tertiary: rgba(235, 235, 245, 0.3);
+
+  /* SEPARATORS — líneas, no rellenos */
+  --separator: rgba(255, 255, 255, 0.16);
+  --border-color: rgba(255, 255, 255, 0.14);
+  --border-hairline: rgba(255, 255, 255, 0.16);
+
+  --button-hover: rgba(255, 255, 255, 0.06);
+  --button-pressed: rgba(255, 255, 255, 0.1);
+
+  /* SYSTEM COLORS (paleta dark de iOS, más vívida sobre negro) */
+  --accent: #0a84ff;
+  --accent-soft: #409cff;
+  --accent-dim: rgba(10, 132, 255, 0.18);
+
+  --system-green: #30d158;
+  --system-red: #ff453a;
+  --system-orange: #ff9f0a;
+  --system-teal: #40c8e0;
+  --system-purple: #bf5af2;
+
+  /* SHADOWS — sobre negro puro una sombra negra es invisible;
+     usamos halos blancos muy tenues (borde) en su lugar. */
+  --shadow-soft: none;
+  --shadow-lift: 0 0 0 1px rgba(255, 255, 255, 0.07), 0 10px 24px rgba(0, 0, 0, 0.6);
+  --shadow-glow: 0 0 24px rgba(10, 132, 255, 0.22);
+
+}
+

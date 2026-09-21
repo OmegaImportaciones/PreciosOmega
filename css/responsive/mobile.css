@@ -1,0 +1,67 @@
+@media (max-width: 480px) {
+
+    body {
+
+      padding:
+        20px
+        16px
+        20px;
+
+    }
+
+    .container {
+
+      max-width: 100%;
+
+      gap: 16px;
+
+    }
+
+    .logo {
+
+      width: 300px;
+      max-width: 138%;
+
+      margin-bottom: 0;
+
+    }
+
+    .location-subtext {
+
+      font-size: 0.92rem;
+
+      margin-top: -12px;
+
+    }
+
+    .coming-title {
+
+      font-size: 1.55rem;
+
+    }
+
+    .coming-text {
+
+      font-size: 0.94rem;
+
+    }
+
+    .buttons-container {
+
+      gap: 9px;
+
+    }
+
+    .main-button {
+
+      min-height: 54px;
+
+      font-size: 1.03125rem;
+
+      border-radius: 16px;
+
+      padding: 13px 16px;
+
+    }
+
+  }

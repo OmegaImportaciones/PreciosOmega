@@ -1,0 +1,106 @@
+/* =========================================================
+   THEME TOGGLE
+========================================================= */
+
+
+/* =========================
+   FONDO ANIMADO (background.js)
+   Antes forzaba #ffffff por JS; ahora sigue a --bg-primary
+   para que el toggle también lo apague a negro real.
+========================= */
+
+.omega-bg {
+
+    background-color:
+        var(--bg-primary);
+
+    transition:
+        background-color 0.25s ease;
+
+}
+
+
+/* =========================
+   BOTÓN
+========================= */
+
+.theme-toggle {
+
+    position: fixed;
+
+    top:
+        calc(16px + env(safe-area-inset-top));
+
+    right:
+        calc(16px + env(safe-area-inset-right));
+
+    width: 44px;
+    height: 44px;
+
+    padding: 0;
+
+    border: 0.5px solid var(--border-hairline);
+    border-radius: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background:
+        var(--card-bg);
+
+    box-shadow:
+        var(--shadow-soft);
+
+    cursor: pointer;
+
+    z-index: 60;
+
+    -webkit-tap-highlight-color: transparent;
+
+    transition:
+        var(--transition-main);
+
+}
+
+.theme-toggle:active {
+
+    transform: scale(0.9);
+
+    background:
+        var(--card-bg-strong);
+
+}
+
+@media (hover: hover) {
+
+    .theme-toggle:hover {
+
+        background:
+            var(--card-bg-strong);
+
+    }
+
+}
+
+
+/* =========================
+   ÍCONO
+========================= */
+
+.theme-toggle-icon {
+
+    font-size: 1.15rem;
+
+    line-height: 1;
+
+    transition:
+        transform 0.35s var(--ease-spring);
+
+}
+
+html[data-theme="dark"] .theme-toggle-icon {
+
+    transform: rotate(180deg);
+
+}

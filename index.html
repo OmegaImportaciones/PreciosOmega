@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <!-- META -->
+    <meta charset="UTF-8" />
+
+    <!-- THEME INIT (evita parpadeo de tema equivocado al cargar) -->
+    <script>
+        (function () {
+            try {
+                if (localStorage.getItem('omega-theme') === 'dark') {
+                    document.documentElement.setAttribute('data-theme', 'dark');
+                    var m = document.querySelector('meta[name="theme-color"]');
+                    if (m) m.setAttribute('content', '#000000');
+                }
+            } catch (e) { }
+        })();
+    </script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+
+    <title>
+        OMEGA IMPORTACIONES
+    </title>
+
+    <meta name="description" content="Tecnología, gadgets y accesorios premium." />
+
+    <meta name="theme-color" content="#ffffff" />
+
+    <meta name="robots" content="index, follow" />
+
+
+    <!-- CANONICAL -->
+    <link rel="canonical" href="https://omegaimportaciones.github.io/Omega/" />
+
+
+    <!-- OPEN GRAPH -->
+    <meta property="og:title" content="OMEGA IMPORTACIONES">
+
+    <meta property="og:description" content="Tecnología, gadgets y accesorios premium.">
+
+    <meta property="og:image" content="https://omegaimportaciones.github.io/Omega/img/logo.png">
+
+    <meta property="og:url" content="https://omegaimportaciones.github.io/Omega/">
+
+    <meta property="og:site_name" content="OMEGA IMPORTACIONES">
+
+    <meta property="og:type" content="website">
+
+    <meta property="og:locale" content="es_BO">
+
+
+    <!-- TWITTER -->
+    <meta name="twitter:card" content="summary_large_image">
+
+    <meta name="twitter:title" content="OMEGA IMPORTACIONES">
+
+    <meta name="twitter:description" content="Tecnología, gadgets y accesorios premium.">
+
+    <meta name="twitter:image" content="https://omegaimportaciones.github.io/Omega/img/logo.png">
+
+
+    <!-- FAVICON -->
+    <link rel="icon" href="./img/favicon.png" type="image/png">
+
+
+    <!-- PRELOAD -->
+    <link rel="preload" as="image" href="./img/logo.png">
+
+
+    <!-- GOOGLE ANALYTICS -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PNVK91HBNP">
+    </script>
+
+    <script>
+
+        window.dataLayer =
+            window.dataLayer || [];
+
+        function gtag() {
+
+            dataLayer.push(arguments);
+
+        }
+
+        gtag(
+            'js',
+            new Date()
+        );
+
+        gtag(
+            'config',
+            'G-PNVK91HBNP',
+            {
+                page_title:
+                    document.title,
+
+                page_location:
+                    window.location.href
+            }
+        );
+
+    </script>
+
+
+    <!-- FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="./css/global.css?v=3" />
+
+</head>
+
+<body class="has-fab">
+
+    <!-- THEME TOGGLE -->
+    <button id="themeToggleButton" class="theme-toggle" type="button" aria-pressed="false"
+        aria-label="Cambiar a modo oscuro">
+
+        <span class="theme-toggle-icon">
+            🌙
+        </span>
+
+    </button>
+
+    <main class="container">
+
+        <!-- LOGO -->
+        <div class="logo-frame">
+            <img src="./img/logo.png" alt="Omega Importaciones" class="logo" draggable="false">
+        </div>
+
+
+        <!-- OPEN IN BROWSER -->
+        <section id="openBrowserContainer">
+
+            <button id="openBrowserButton" class="main-button" onclick="
+                    gtag(
+                        'event',
+                        'click_open_browser',
+                        {
+                            page: 'index',
+                            button: 'open_browser'
+                        }
+                    );
+                ">
+
+                <span class="emoji-icon">
+                    🌐
+                </span>
+
+                <span>
+                    Abrir en navegador
+                </span>
+
+            </button>
+
+        </section>
+
+
+        <!-- CATALOGO (PREVIEW) -->
+        <section class="carousel-section" id="catalogSection">
+
+            <div class="section-title">
+
+                🛒 Catálogo
+
+            </div>
+
+
+            <!-- CATALOG WRAPPER -->
+            <div class="carousel-wrapper" id="catalogWrapper">
+
+                <!-- CATALOG SLIDER -->
+                <div class="carousel-track" id="catalogContainer">
+                </div>
+
+            </div>
+
+
+            <!-- VER CATALOGO COMPLETO -->
+            <a href="./pages/catalogo.html" class="carousel-more-link" onclick="
+                    gtag(
+                        'event',
+                        'click_ver_catalogo_completo',
+                        {
+                            page: 'index',
+                            button: 'ver_catalogo_completo'
+                        }
+                    );
+                ">
+
+                Ver catálogo completo →
+
+            </a>
+
+        </section>
+
+    </main>
+
+
+    <!-- FLOATING ACTIONS -->
+    <div class="fab-stack" role="navigation" aria-label="Contacto y redes">
+
+        <!-- UBICACION -->
+        <a href="./pages/ubicacion.html" class="fab-button fab-location" aria-label="Cómo llegar" onclick="
+                gtag(
+                    'event',
+                    'click_ubicacion',
+                    {
+                        page: 'index',
+                        button: 'ubicacion'
+                    }
+                );
+            ">
+
+            <span class="fab-emoji">
+                📍
+            </span>
+
+        </a>
+
+
+        <!-- TIKTOK -->
+        <a href="https://www.tiktok.com/@omegaimportaciones" target="_blank" rel="noopener noreferrer"
+            class="fab-button fab-tiktok" aria-label="TikTok" onclick="
+                gtag(
+                    'event',
+                    'click_tiktok',
+                    {
+                        page: 'index',
+                        button: 'tiktok'
+                    }
+                );
+            ">
+
+            <img src="./img/t_logo.png" alt="" class="fab-icon" draggable="false">
+
+        </a>
+
+
+        <!-- FACEBOOK -->
+        <a href="https://www.facebook.com/share/1AATCSwqwf/?mibextid=wwXIfr" target="_blank"
+            rel="noopener noreferrer" class="fab-button fab-facebook" aria-label="Facebook" onclick="
+                gtag(
+                    'event',
+                    'click_facebook',
+                    {
+                        page: 'index',
+                        button: 'facebook'
+                    }
+                );
+            ">
+
+            <img src="./img/f_logo.png" alt="" class="fab-icon" draggable="false">
+
+        </a>
+
+
+        <!-- WHATSAPP -->
+        <a href="https://wa.me/59164216262?text=Hola,%20quiero%20información%20sobre%20sus%20productos"
+            target="_blank" rel="noopener noreferrer" class="fab-button fab-whatsapp" aria-label="WhatsApp"
+            onclick="
+                gtag(
+                    'event',
+                    'click_whatsapp',
+                    {
+                        page: 'index',
+                        button: 'whatsapp'
+                    }
+                );
+            ">
+
+            <img src="./img/w_logo.png" alt="" class="fab-icon" draggable="false">
+
+        </a>
+
+    </div>
+
+
+    <!-- SCRIPTS -->
+    <script src="./js/openBrowser.js">
+    </script>
+
+    <script src="./js/background.js">
+    </script>
+
+    <script src="./js/catalogPreview.js">
+    </script>
+
+    <script src="./js/themeToggle.js">
+    </script>
+
+</body>
+
+</html>

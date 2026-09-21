@@ -1,0 +1,353 @@
+/* =========================
+   PROMO SLIDER
+========================= */
+
+.promo-slider {
+
+    display: flex;
+
+    gap: 12px;
+
+    overflow-x: auto;
+
+    overflow-y: hidden;
+
+    scroll-snap-type: x mandatory;
+
+    scroll-behavior: smooth;
+
+    padding-bottom: 4px;
+
+    -webkit-overflow-scrolling: touch;
+
+    scrollbar-width: none;
+
+}
+
+.promo-slider::-webkit-scrollbar {
+
+    display: none;
+
+}
+
+
+/* =========================
+   PROMO CARD
+========================= */
+
+.promo-card {
+
+    flex: 0 0 calc((100% - 16px) / 3);
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 8px;
+
+    padding: 10px;
+
+    border-radius: 22px;
+
+    background:
+        linear-gradient(
+            145deg,
+            rgba(0,0,0,0.03),
+            rgba(0,0,0,0.01)
+        );
+
+    border: 1px solid var(--border-hairline);
+
+    backdrop-filter: blur(12px);
+
+    box-shadow:
+        0 8px 24px rgba(0,0,0,0.28);
+
+    scroll-snap-align: start;
+
+    text-decoration: none;
+
+    color: inherit;
+
+    cursor: pointer;
+
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease;
+
+}
+
+.promo-card:link,
+.promo-card:visited,
+.promo-card:hover,
+.promo-card:active {
+
+    text-decoration: none;
+
+    color: inherit;
+
+}
+
+.promo-card:active {
+
+    transform: scale(0.98);
+
+}
+
+/* =========================
+   PROMO IMAGE
+========================= */
+
+.promo-image {
+
+    width: 100%;
+
+    aspect-ratio: 1 / 1;
+
+    object-fit: cover;
+
+    border-radius: 16px;
+
+    background: rgba(0,0,0,0.04);
+
+    display: block;
+
+}
+
+
+/* =========================
+   PROMO INFO
+========================= */
+
+.promo-info {
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 4px;
+
+    min-width: 0;
+
+}
+
+
+/* =========================
+   PROMO TAG
+========================= */
+
+.promo-tag {
+
+    font-size: 0.62rem;
+    font-weight: 600;
+
+    color: var(--accent);
+
+    line-height: 1;
+
+}
+
+
+/* =========================
+   PROMO TITLE
+========================= */
+
+.promo-info h3 {
+
+    font-size: 0.82rem;
+    font-weight: 700;
+
+    color: var(--text-primary);
+
+    line-height: 1.15;
+
+    overflow: hidden;
+
+    display: -webkit-box;
+
+    -webkit-line-clamp: 2;
+
+    -webkit-box-orient: vertical;
+
+}
+
+
+/* =========================
+   PROMO DESCRIPTION
+========================= */
+
+.promo-info p {
+
+    font-size: 0.66rem;
+    font-weight: 500;
+
+    color: var(--text-secondary);
+
+    line-height: 1.25;
+
+    overflow: hidden;
+
+    display: -webkit-box;
+
+    -webkit-line-clamp: 2;
+
+    -webkit-box-orient: vertical;
+
+}
+
+
+/* =========================
+   PROMO CONTACT
+========================= */
+
+.promo-contact {
+
+    font-size: 0.72rem;
+    font-weight: 700;
+
+    color: var(--accent);
+
+    margin-top: 2px;
+
+    line-height: 1.2;
+
+}
+
+/* =========================
+   DESKTOP PROMOS
+========================= */
+
+@media (min-width: 1200px) {
+
+    /* =========================
+       PROMO SECTION
+    ========================= */
+
+    #promoSection {
+
+        max-width: 1200px;
+
+        margin-left: auto;
+
+        margin-right: auto;
+
+    }
+
+
+    /* =========================
+       PROMO SLIDER
+    ========================= */
+
+    .promo-slider {
+
+        gap: 18px;
+
+    }
+
+
+    /* =========================
+       PROMO CARD
+    ========================= */
+
+    .promo-card {
+
+        flex: 0 0 240px;
+
+        display: flex;
+
+        flex-direction: column;
+
+        padding: 16px;
+
+        gap: 12px;
+
+    }
+
+
+    /* =========================
+       PROMO IMAGE
+    ========================= */
+
+    .promo-image {
+
+        width: 100%;
+
+        height: 220px;
+
+        object-fit: contain;
+
+        aspect-ratio: unset;
+
+        border-radius: 20px;
+
+        background:
+            rgba(0,0,0,0.04);
+
+        padding: 10px;
+
+    }
+
+
+    /* =========================
+       PROMO INFO
+    ========================= */
+
+    .promo-info {
+
+        flex: 1;
+
+        gap: 6px;
+
+    }
+
+
+    /* =========================
+       PROMO TAG
+    ========================= */
+
+    .promo-tag {
+
+        font-size: 0.72rem;
+
+    }
+
+
+    /* =========================
+       PROMO TITLE
+    ========================= */
+
+    .promo-info h3 {
+
+        font-size: 0.98rem;
+
+        line-height: 1.2;
+
+    }
+
+
+    /* =========================
+       PROMO DESCRIPTION
+    ========================= */
+
+    .promo-info p {
+
+        font-size: 0.8rem;
+
+        line-height: 1.35;
+
+        -webkit-line-clamp: 3;
+
+    }
+
+
+    /* =========================
+       PROMO CONTACT
+    ========================= */
+
+    .promo-contact {
+
+        font-size: 0.82rem;
+
+        margin-top: 10px;
+
+    }
+
+}

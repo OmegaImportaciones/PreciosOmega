@@ -1,0 +1,561 @@
+/* =========================
+   HERO NAVBAR
+   Patrón "Large Title" de iOS: sin tarjeta,
+   sin borde — el título/branding vive
+   directamente sobre el fondo, como en
+   App Store, Música o Mensajes.
+========================= */
+
+.catalog-hero-navbar {
+
+    position: relative;
+
+    width: 100%;
+
+    max-width: 460px;
+
+    margin: 4px auto 0 auto;
+
+    padding: 6px 4px 4px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    gap: 18px;
+
+    box-sizing: border-box;
+
+    background: transparent;
+
+    border: none;
+
+    box-shadow: none;
+
+    z-index: 100;
+
+    opacity: 1;
+
+    transform:
+        translateY(0);
+
+    transition:
+        transform 0.5s var(--ease-out),
+        opacity 0.4s ease;
+
+}
+
+
+/* =========================
+   HERO HIDDEN
+========================= */
+
+.catalog-hero-navbar.hero-hidden {
+
+    opacity: 0;
+
+    transform:
+        translateY(-12px);
+
+    pointer-events: none;
+
+}
+
+
+/* =========================
+   HERO BACK
+   Chevron de "Volver" al estilo iOS,
+   sin caja — solo texto con tinte de acento.
+========================= */
+
+.catalog-hero-back {
+
+    align-self: flex-start;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    height: 30px;
+
+    padding: 0 4px;
+
+    border-radius: 8px;
+
+    background: transparent;
+
+    border: none;
+
+    color: var(--accent);
+
+    font-family: var(--font-body);
+
+    font-size: 1.0625rem;
+
+    font-weight: 500;
+
+    letter-spacing: -0.01em;
+
+    text-decoration: none;
+
+    white-space: nowrap;
+
+    transition:
+        opacity 0.2s ease;
+
+}
+
+.catalog-hero-back:active {
+
+    opacity: 0.4;
+
+}
+
+
+/* =========================
+   HERO BRAND
+========================= */
+
+.catalog-hero-brand {
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    line-height: 0;
+
+}
+
+
+/* =========================
+   HERO LOGO
+========================= */
+
+.catalog-hero-logo {
+
+    height: 156px;
+
+    width: auto;
+
+    display: block;
+
+    object-fit: contain;
+
+    filter:
+        drop-shadow(0 6px 16px rgba(0, 0, 0, 0.08));
+
+}
+
+
+/* =========================
+   HERO SEARCH WRAPPER
+========================= */
+
+.catalog-hero-search-wrapper {
+
+    width: 100%;
+
+}
+
+
+/* =========================
+   HERO SEARCH
+   Campo de búsqueda estilo iOS 13+:
+   relleno systemGray6, sin borde visible,
+   esquinas 10pt.
+========================= */
+
+.catalog-hero-search {
+
+    width: 100%;
+
+    height: 44px;
+
+    padding: 0 12px;
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 8px;
+
+    box-sizing: border-box;
+
+    border-radius: 10px;
+
+    background:
+        var(--card-bg);
+
+    border:
+        0.5px solid var(--border-hairline);
+
+    transition:
+        background 0.2s ease,
+        box-shadow 0.2s ease;
+
+}
+
+.catalog-hero-search:focus-within {
+
+    background:
+        var(--card-bg-strong);
+
+    box-shadow:
+        0 0 0 3px rgba(10, 132, 255, 0.28);
+
+}
+
+
+/* =========================
+   HERO SEARCH ICON
+========================= */
+
+.catalog-hero-search-icon {
+
+    width: 18px;
+
+    height: 18px;
+
+    flex-shrink: 0;
+
+    opacity: 0.5;
+
+    color: var(--text-primary);
+
+}
+
+
+/* =========================
+   HERO SEARCH INPUT
+========================= */
+
+.catalog-hero-search-input {
+
+    width: 100%;
+
+    min-width: 0;
+
+    border: none;
+
+    outline: none;
+
+    background: transparent;
+
+    color: var(--text-primary);
+
+    font-size: 1.0625rem;
+
+    font-weight: 400;
+
+    font-family: var(--font-body);
+
+    line-height: 1;
+
+}
+
+
+.catalog-hero-search-input::placeholder {
+
+    color:
+        var(--text-secondary);
+
+}
+
+
+
+/* =========================
+   COMPACT NAVBAR
+   Aquí sí vive el material translúcido con
+   blur/vibrancy real, como una barra de
+   navegación fija de iOS que flota sobre
+   el contenido al hacer scroll.
+========================= */
+
+.catalog-compact-navbar {
+
+    position: fixed;
+
+    top: max(10px, env(safe-area-inset-top));
+
+    left: 50%;
+
+    transform:
+        translateX(calc(-50% + 40px));
+
+    width: min(94%, 520px);
+
+    height: 52px;
+
+    padding: 0 8px;
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 8px;
+
+    box-sizing: border-box;
+
+    z-index: 999;
+
+    border-radius: 16px;
+
+    background:
+        var(--surface-blur);
+
+    border:
+        0.5px solid var(--border-hairline);
+
+    backdrop-filter:
+        blur(20px) saturate(180%);
+
+    -webkit-backdrop-filter:
+        blur(20px) saturate(180%);
+
+    box-shadow:
+        0 8px 24px rgba(0,0,0,0.08);
+
+    opacity: 0;
+
+    pointer-events: none;
+
+    transition:
+        transform 0.5s var(--ease-out),
+        opacity 0.4s ease;
+
+}
+
+
+/* =========================
+   COMPACT SHOW
+========================= */
+
+.catalog-compact-navbar.compact-visible {
+
+    opacity: 1;
+
+    pointer-events: auto;
+
+    transform:
+        translateX(-50%);
+
+}
+
+
+/* =========================
+   COMPACT BACK
+========================= */
+
+.catalog-compact-back {
+
+    height: 32px;
+
+    padding: 0 10px;
+
+    flex-shrink: 0;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    border-radius: 9px;
+
+    background:
+        rgba(0,0,0,0.045);
+
+    border: none;
+
+    color: var(--accent);
+
+    font-size: 1rem;
+
+    font-weight: 600;
+
+    text-decoration: none;
+
+    white-space: nowrap;
+
+}
+
+
+/* =========================
+   COMPACT BRAND
+========================= */
+
+.catalog-compact-brand {
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    line-height: 0;
+
+    flex-shrink: 0;
+
+}
+
+
+/* =========================
+   COMPACT LOGO
+========================= */
+
+.catalog-compact-logo {
+
+    height: 26px;
+
+    width: auto;
+
+    display: block;
+
+    object-fit: contain;
+
+}
+
+
+/* =========================
+   COMPACT SEARCH WRAPPER
+========================= */
+
+.catalog-compact-search-wrapper {
+
+    flex: 1;
+
+    min-width: 0;
+
+}
+
+
+/* =========================
+   COMPACT SEARCH
+========================= */
+
+.catalog-compact-search {
+
+    width: 100%;
+
+    height: 34px;
+
+    padding: 0 10px;
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 6px;
+
+    box-sizing: border-box;
+
+    border-radius: 9px;
+
+    background:
+        rgba(0,0,0,0.045);
+
+    border: none;
+
+}
+
+
+/* =========================
+   COMPACT SEARCH ICON
+========================= */
+
+.catalog-compact-search-icon {
+
+    width: 14px;
+
+    height: 14px;
+
+    flex-shrink: 0;
+
+    opacity: 0.55;
+
+    color: var(--text-primary);
+
+}
+
+
+/* =========================
+   COMPACT SEARCH INPUT
+========================= */
+
+.catalog-compact-search-input {
+
+    width: 100%;
+
+    min-width: 0;
+
+    border: none;
+
+    outline: none;
+
+    background: transparent;
+
+    color: var(--text-primary);
+
+    font-size: 0.85rem;
+
+    font-weight: 400;
+
+    font-family: var(--font-body);
+
+    line-height: 1;
+
+}
+
+
+.catalog-compact-search-input::placeholder {
+
+    color:
+        var(--text-secondary);
+
+}
+
+
+/* =========================
+   BODY OFFSET
+========================= */
+
+.container {
+
+    padding-top: 8px;
+
+}
+
+
+/* =========================
+   DESKTOP
+========================= */
+
+@media (min-width: 768px) {
+
+    .catalog-hero-navbar {
+
+        max-width: 620px;
+
+    }
+
+
+    .catalog-hero-logo {
+
+        height: 176px;
+
+    }
+
+
+    .catalog-compact-navbar {
+
+        max-width: 620px;
+
+    }
+
+}

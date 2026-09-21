@@ -1,0 +1,22 @@
+/* =========================
+   SECTION TITLES
+========================= */
+
+.section-title {
+
+    display: flex;
+    align-items: center;
+    gap: 6px;
+
+    font-family: var(--font-display);
+
+    font-size: 1.3125rem;
+    font-weight: 700;
+
+    letter-spacing: -0.015em;
+
+    color: var(--text-primary);
+
+    margin-bottom: 12px;
+
+}

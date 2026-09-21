@@ -1,0 +1,15 @@
+.location-subtext {
+
+    color: var(--text-secondary);
+
+    text-align: center;
+
+    font-size: 0.95rem;
+
+    line-height: 1.4;
+
+    margin-top: -14px;
+
+    margin-bottom: 2px;
+
+  }

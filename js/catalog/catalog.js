@@ -205,9 +205,17 @@ function createProductCardElement(product) {
                 ${product.producto}
             </h3>
 
-            <p class="product-price">
-                Bs ${precioMinimo} – Bs ${precioMaximo}
-            </p>
+            <div class="product-price-tags">
+
+                <span class="price-tag price-tag--max">
+                    Bs ${precioMaximo}
+                </span>
+
+                <span class="price-tag price-tag--min">
+                    Bs ${precioMinimo}
+                </span>
+
+            </div>
 
         </div>
     `;

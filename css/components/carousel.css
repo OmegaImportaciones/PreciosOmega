@@ -280,33 +280,29 @@
 
 
 /* =========================
-   PRICES
+   PRICE TAGS (chips)
+   Reutiliza .price-tag / .price-tag--max / .price-tag--min
+   definidos en pages/catalog/products.css (verde = precio
+   más alto, naranja = precio más bajo / mayorista).
 ========================= */
 
-.carousel-prices {
+.carousel-price-tags {
 
     display: flex;
 
-    flex-direction: column;
+    flex-wrap: wrap;
 
-    gap: 2px;
+    gap: 5px;
 
     margin-top: 4px;
 
 }
 
+.carousel-price-tags .price-tag {
 
-/* =========================
-   PRICE RANGE (mínimo – máximo)
-========================= */
+    font-size: 0.7rem;
 
-.carousel-price-range {
-
-    font-size: 0.82rem;
-
-    font-weight: 700;
-
-    color: var(--text-primary);
+    padding: 4px 8px;
 
 }
 
@@ -425,9 +421,11 @@
     }
 
 
-    .carousel-price-range {
+    .carousel-price-tags .price-tag {
 
-        font-size: 1rem;
+        font-size: 0.8rem;
+
+        padding: 5px 10px;
 
     }
 

@@ -235,10 +235,14 @@ function buildCatalogPreviewCard(product) {
                 ${product.producto}
             </h3>
 
-            <div class="carousel-prices">
+            <div class="carousel-price-tags">
 
-                <span class="carousel-price-range">
-                    Bs ${precioMinimo} – Bs ${precioMaximo}
+                <span class="price-tag price-tag--max">
+                    Bs ${precioMaximo}
+                </span>
+
+                <span class="price-tag price-tag--min">
+                    Bs ${precioMinimo}
                 </span>
 
             </div>

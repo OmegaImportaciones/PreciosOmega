@@ -80,14 +80,14 @@
     "producto": "SINTONIZADOR DE TV DIGITAL TOMATE",
     "minimo": 5,
     "estado": 1,
-    "precio2": "240.00",
-    "precio3": "235.00",
-    "precio4": "230.00",
-    "precio5": "198.00",
-    "precio6": "195.00",
-    "precio": "245.00",
-    "precio1": "245.00",
-    "cantidad_disponible": 33
+    "precio2": "140.00",
+    "precio3": "135.00",
+    "precio4": "130.00",
+    "precio5": "115.00",
+    "precio6": "110.00",
+    "precio": "145.00",
+    "precio1": "145.00",
+    "cantidad_disponible": 0
   },
   {
     "id": 12,
@@ -213,7 +213,7 @@
     "precio6": "77.00",
     "precio": "115.00",
     "precio1": "115.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 3
   },
   {
     "id": 32,
@@ -267,7 +267,7 @@
     "precio6": "55.00",
     "precio": "85.00",
     "precio1": "85.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 11
   },
   {
     "id": 42,
@@ -339,7 +339,7 @@
     "precio6": "100.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 4
   },
   {
     "id": 48,
@@ -411,7 +411,7 @@
     "precio6": "210.00",
     "precio": "280.00",
     "precio1": "280.00",
-    "cantidad_disponible": 36
+    "cantidad_disponible": 40
   },
   {
     "id": 56,
@@ -1077,7 +1077,7 @@
     "precio6": "102.00",
     "precio": "130.00",
     "precio1": "130.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 18
   },
   {
     "id": 130,
@@ -1437,7 +1437,7 @@
     "precio6": "178.00",
     "precio": "178.00",
     "precio1": "178.00",
-    "cantidad_disponible": 0
+    "cantidad_disponible": 1
   },
   {
     "id": 162,
@@ -1527,7 +1527,7 @@
     "precio6": "150.00",
     "precio": "220.00",
     "precio1": "220.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 4
   },
   {
     "id": 173,
@@ -2733,7 +2733,7 @@
     "precio6": "17.00",
     "precio": "41.00",
     "precio1": "41.00",
-    "cantidad_disponible": 15
+    "cantidad_disponible": 16
   },
   {
     "id": 307,
@@ -3093,7 +3093,7 @@
     "precio6": "125.00",
     "precio": "125.00",
     "precio1": "125.00",
-    "cantidad_disponible": 5
+    "cantidad_disponible": 7
   },
   {
     "id": 348,
@@ -3219,7 +3219,7 @@
     "precio6": "13.00",
     "precio": "31.00",
     "precio1": "31.00",
-    "cantidad_disponible": 18
+    "cantidad_disponible": 19
   },
   {
     "id": 377,
@@ -3489,7 +3489,7 @@
     "precio6": "22.00",
     "precio": "75.00",
     "precio1": "75.00",
-    "cantidad_disponible": 10
+    "cantidad_disponible": 23
   },
   {
     "id": 409,
@@ -4317,7 +4317,7 @@
     "precio6": "200.00",
     "precio": "255.00",
     "precio1": "255.00",
-    "cantidad_disponible": 5
+    "cantidad_disponible": 6
   },
   {
     "id": 526,
@@ -5145,7 +5145,7 @@
     "precio6": "187.00",
     "precio": "225.00",
     "precio1": "225.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 4
   },
   {
     "id": 718,
@@ -6963,7 +6963,7 @@
     "precio6": "100.00",
     "precio": "140.00",
     "precio1": "140.00",
-    "cantidad_disponible": 13
+    "cantidad_disponible": 17
   },
   {
     "id": 889,
@@ -7863,7 +7863,7 @@
     "precio6": "22.00",
     "precio": "50.00",
     "precio1": "50.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 7
   },
   {
     "id": 967,
@@ -11049,7 +11049,7 @@
     "precio6": "310.00",
     "precio": "350.00",
     "precio1": "350.00",
-    "cantidad_disponible": 27
+    "cantidad_disponible": 28
   },
   {
     "id": 1210,
@@ -12759,7 +12759,7 @@
     "precio6": "1080.00",
     "precio": "1140.00",
     "precio1": "1140.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 4
   },
   {
     "id": 1330,
@@ -13245,7 +13245,7 @@
     "precio6": "44.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 12
   },
   {
     "id": 1364,
@@ -13371,7 +13371,7 @@
     "precio6": "248.00",
     "precio": "300.00",
     "precio1": "300.00",
-    "cantidad_disponible": 30
+    "cantidad_disponible": 31
   },
   {
     "id": 1372,
@@ -14055,7 +14055,7 @@
     "precio6": "115.00",
     "precio": "180.00",
     "precio1": "180.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 2
   },
   {
     "id": 1413,
@@ -14415,7 +14415,7 @@
     "precio6": "18.00",
     "precio": "42.00",
     "precio1": "42.00",
-    "cantidad_disponible": 27
+    "cantidad_disponible": 28
   },
   {
     "id": 1434,
@@ -15927,7 +15927,7 @@
     "precio6": "540.00",
     "precio": "590.00",
     "precio1": "590.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 9
   },
   {
     "id": 1529,
@@ -16107,7 +16107,7 @@
     "precio6": "19.00",
     "precio": "58.00",
     "precio1": "58.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 13
   },
   {
     "id": 1539,
@@ -16377,7 +16377,7 @@
     "precio6": "710.00",
     "precio": "750.00",
     "precio1": "750.00",
-    "cantidad_disponible": 17
+    "cantidad_disponible": 18
   },
   {
     "id": 1554,
@@ -16971,7 +16971,7 @@
     "precio6": "90.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 9
   },
   {
     "id": 1589,
@@ -17241,7 +17241,7 @@
     "precio6": "300.00",
     "precio": "350.00",
     "precio1": "350.00",
-    "cantidad_disponible": 26
+    "cantidad_disponible": 27
   },
   {
     "id": 1605,
@@ -17504,14 +17504,14 @@
     "producto": "INTERCOMUNICADOR HANDY KNUP KP-M0007S",
     "minimo": 10,
     "estado": 1,
-    "precio2": "195.00",
-    "precio3": "190.00",
-    "precio4": "190.00",
-    "precio5": "160.00",
-    "precio6": "155.00",
-    "precio": "200.00",
-    "precio1": "200.00",
-    "cantidad_disponible": 32
+    "precio2": "185.00",
+    "precio3": "180.00",
+    "precio4": "175.00",
+    "precio5": "150.00",
+    "precio6": "145.00",
+    "precio": "190.00",
+    "precio1": "190.00",
+    "cantidad_disponible": 0
   },
   {
     "id": 1620,
@@ -18141,7 +18141,7 @@
     "precio6": "59.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 23
+    "cantidad_disponible": 24
   },
   {
     "id": 1655,
@@ -18411,7 +18411,7 @@
     "precio6": "420.00",
     "precio": "450.00",
     "precio1": "450.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 5
   },
   {
     "id": 1670,
@@ -19365,7 +19365,7 @@
     "precio6": "630.00",
     "precio": "660.00",
     "precio1": "660.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 9
   },
   {
     "id": 1723,
@@ -19671,7 +19671,7 @@
     "precio6": "15.00",
     "precio": "45.00",
     "precio1": "45.00",
-    "cantidad_disponible": 22
+    "cantidad_disponible": 28
   },
   {
     "id": 1740,
@@ -20172,10 +20172,10 @@
     "precio3": "65.00",
     "precio4": "60.00",
     "precio5": "55.00",
-    "precio6": "53.00",
+    "precio6": "50.00",
     "precio": "75.00",
     "precio1": "75.00",
-    "cantidad_disponible": 33
+    "cantidad_disponible": 15
   },
   {
     "id": 1769,
@@ -20301,7 +20301,7 @@
     "precio6": "775.00",
     "precio": "795.00",
     "precio1": "795.00",
-    "cantidad_disponible": 20
+    "cantidad_disponible": 9
   },
   {
     "id": 1776,
@@ -20499,7 +20499,7 @@
     "precio6": "75.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 18
   },
   {
     "id": 1787,
@@ -20841,7 +20841,7 @@
     "precio6": "1335.00",
     "precio": "1400.00",
     "precio1": "1400.00",
-    "cantidad_disponible": 27
+    "cantidad_disponible": 30
   },
   {
     "id": 1806,
@@ -20913,7 +20913,7 @@
     "precio6": "523.00",
     "precio": "545.00",
     "precio1": "545.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 14
   },
   {
     "id": 1810,
@@ -21104,14 +21104,14 @@
     "producto": "CONTADOR DE BILLETES YESIDO AL-6300",
     "minimo": 10,
     "estado": 1,
-    "precio2": "950.00",
-    "precio3": "940.00",
-    "precio4": "930.00",
+    "precio2": "960.00",
+    "precio3": "950.00",
+    "precio4": "940.00",
     "precio5": "880.00",
     "precio6": "870.00",
-    "precio": "960.00",
-    "precio1": "960.00",
-    "cantidad_disponible": 9
+    "precio": "970.00",
+    "precio1": "970.00",
+    "cantidad_disponible": 0
   },
   {
     "id": 1821,
@@ -21129,7 +21129,7 @@
     "precio6": "17.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 5
   },
   {
     "id": 1822,
@@ -21705,7 +21705,7 @@
     "precio6": "615.00",
     "precio": "650.00",
     "precio1": "650.00",
-    "cantidad_disponible": 15
+    "cantidad_disponible": 16
   },
   {
     "id": 1854,
@@ -21723,7 +21723,7 @@
     "precio6": "2800.00",
     "precio": "2900.00",
     "precio1": "2900.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 3
   },
   {
     "id": 1855,
@@ -21813,7 +21813,7 @@
     "precio6": "1125.00",
     "precio": "1200.00",
     "precio1": "1200.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 3
   },
   {
     "id": 1860,
@@ -22083,7 +22083,7 @@
     "precio6": "410.00",
     "precio": "440.00",
     "precio1": "440.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 4
   },
   {
     "id": 1875,
@@ -22299,7 +22299,7 @@
     "precio6": "68.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 13
+    "cantidad_disponible": 16
   },
   {
     "id": 1888,
@@ -22515,7 +22515,7 @@
     "precio6": "19.00",
     "precio": "68.00",
     "precio1": "68.00",
-    "cantidad_disponible": 82
+    "cantidad_disponible": 83
   },
   {
     "id": 1901,
@@ -22641,7 +22641,7 @@
     "precio6": "10.00",
     "precio": "40.00",
     "precio1": "40.00",
-    "cantidad_disponible": 335
+    "cantidad_disponible": 336
   },
   {
     "id": 1908,
@@ -22659,7 +22659,7 @@
     "precio6": "13.00",
     "precio": "30.00",
     "precio1": "30.00",
-    "cantidad_disponible": 188
+    "cantidad_disponible": 191
   },
   {
     "id": 1909,
@@ -22983,7 +22983,7 @@
     "precio6": "10.00",
     "precio": "30.00",
     "precio1": "30.00",
-    "cantidad_disponible": 0
+    "cantidad_disponible": 2
   },
   {
     "id": 1927,
@@ -23235,7 +23235,7 @@
     "precio6": "140.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 19
+    "cantidad_disponible": 20
   },
   {
     "id": 1941,
@@ -23325,7 +23325,7 @@
     "precio6": "90.00",
     "precio": "140.00",
     "precio1": "140.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 5
   },
   {
     "id": 1946,
@@ -23955,7 +23955,7 @@
     "precio6": "1680.00",
     "precio": "1780.00",
     "precio1": "1780.00",
-    "cantidad_disponible": 0
+    "cantidad_disponible": 2
   },
   {
     "id": 1982,
@@ -24099,7 +24099,7 @@
     "precio6": "90.00",
     "precio": "110.00",
     "precio1": "110.00",
-    "cantidad_disponible": 26
+    "cantidad_disponible": 27
   },
   {
     "id": 1990,
@@ -24146,14 +24146,14 @@
     "producto": "PROYECTOR MULTIMEDIA ANDROID 13 FHD 2RAM 8ROM 5000L TOMATE MPR-2041",
     "minimo": 10,
     "estado": 1,
-    "precio2": "665.00",
-    "precio3": "660.00",
-    "precio4": "655.00",
-    "precio5": "610.00",
-    "precio6": "605.00",
-    "precio": "670.00",
-    "precio1": "670.00",
-    "cantidad_disponible": 15
+    "precio2": "450.00",
+    "precio3": "440.00",
+    "precio4": "430.00",
+    "precio5": "410.00",
+    "precio6": "405.00",
+    "precio": "460.00",
+    "precio1": "460.00",
+    "cantidad_disponible": 0
   },
   {
     "id": 1993,
@@ -24261,7 +24261,7 @@
     "precio6": "52.00",
     "precio": "80.00",
     "precio1": "80.00",
-    "cantidad_disponible": 17
+    "cantidad_disponible": 19
   },
   {
     "id": 1999,
@@ -24765,7 +24765,7 @@
     "precio6": "400.00",
     "precio": "440.00",
     "precio1": "440.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 4
   },
   {
     "id": 2027,
@@ -24873,7 +24873,7 @@
     "precio6": "225.00",
     "precio": "265.00",
     "precio1": "265.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 12
   },
   {
     "id": 2033,
@@ -25053,7 +25053,7 @@
     "precio6": "215.00",
     "precio": "245.00",
     "precio1": "245.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 11
   },
   {
     "id": 2043,
@@ -25089,7 +25089,7 @@
     "precio6": "135.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 23
+    "cantidad_disponible": 24
   },
   {
     "id": 2045,
@@ -25316,14 +25316,14 @@
     "producto": "INTERCOMUNICADOR HANDY BOAFENG BF-777S",
     "minimo": 10,
     "estado": 1,
-    "precio2": "225.00",
-    "precio3": "220.00",
-    "precio4": "215.00",
-    "precio5": "185.00",
-    "precio6": "180.00",
-    "precio": "230.00",
-    "precio1": "230.00",
-    "cantidad_disponible": 24
+    "precio2": "195.00",
+    "precio3": "190.00",
+    "precio4": "185.00",
+    "precio5": "152.00",
+    "precio6": "150.00",
+    "precio": "200.00",
+    "precio1": "200.00",
+    "cantidad_disponible": 0
   },
   {
     "id": 2058,
@@ -25467,7 +25467,7 @@
     "precio6": "185.00",
     "precio": "230.00",
     "precio1": "230.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 23
   },
   {
     "id": 2066,
@@ -25485,7 +25485,7 @@
     "precio6": "140.00",
     "precio": "180.00",
     "precio1": "180.00",
-    "cantidad_disponible": 9
+    "cantidad_disponible": 12
   },
   {
     "id": 2067,
@@ -25521,7 +25521,7 @@
     "precio6": "37.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 23
+    "cantidad_disponible": 27
   },
   {
     "id": 2069,
@@ -25557,7 +25557,7 @@
     "precio6": "23.00",
     "precio": "50.00",
     "precio1": "50.00",
-    "cantidad_disponible": 57
+    "cantidad_disponible": 58
   },
   {
     "id": 2071,
@@ -25935,7 +25935,7 @@
     "precio6": "48.00",
     "precio": "75.00",
     "precio1": "75.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 6
   },
   {
     "id": 2092,
@@ -26097,7 +26097,7 @@
     "precio6": "305.00",
     "precio": "360.00",
     "precio1": "360.00",
-    "cantidad_disponible": 25
+    "cantidad_disponible": 26
   },
   {
     "id": 2101,
@@ -26115,7 +26115,7 @@
     "precio6": "185.00",
     "precio": "220.00",
     "precio1": "220.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 5
   },
   {
     "id": 2102,
@@ -26205,7 +26205,7 @@
     "precio6": "35.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 7
   },
   {
     "id": 2107,
@@ -26223,7 +26223,7 @@
     "precio6": "190.00",
     "precio": "250.00",
     "precio1": "250.00",
-    "cantidad_disponible": 25
+    "cantidad_disponible": 29
   },
   {
     "id": 2108,
@@ -26511,7 +26511,7 @@
     "precio6": "35.00",
     "precio": "70.00",
     "precio1": "70.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 9
   },
   {
     "id": 2124,
@@ -26547,7 +26547,7 @@
     "precio6": "145.00",
     "precio": "185.00",
     "precio1": "185.00",
-    "cantidad_disponible": 31
+    "cantidad_disponible": 32
   },
   {
     "id": 2126,
@@ -26565,7 +26565,7 @@
     "precio6": "318.00",
     "precio": "370.00",
     "precio1": "370.00",
-    "cantidad_disponible": 24
+    "cantidad_disponible": 26
   },
   {
     "id": 2127,
@@ -26648,14 +26648,14 @@
     "producto": "GLUCOMETRO TOMATE MTM-023",
     "minimo": 10,
     "estado": 1,
-    "precio2": "155.00",
-    "precio3": "150.00",
-    "precio4": "145.00",
-    "precio5": "120.00",
-    "precio6": "117.00",
-    "precio": "160.00",
-    "precio1": "160.00",
-    "cantidad_disponible": 27
+    "precio2": "145.00",
+    "precio3": "140.00",
+    "precio4": "135.00",
+    "precio5": "105.00",
+    "precio6": "100.00",
+    "precio": "150.00",
+    "precio1": "150.00",
+    "cantidad_disponible": 0
   },
   {
     "id": 2132,
@@ -26720,14 +26720,14 @@
     "producto": "DISCO SSD PORTABLE EXTERNO TIPO C LENOVO PS85 1TB",
     "minimo": 10,
     "estado": 1,
-    "precio2": "1710.00",
-    "precio3": "1700.00",
-    "precio4": "1695.00",
-    "precio5": "1655.00",
-    "precio6": "1650.00",
-    "precio": "1720.00",
-    "precio1": "1720.00",
-    "cantidad_disponible": 14
+    "precio2": "1560.00",
+    "precio3": "1550.00",
+    "precio4": "1545.00",
+    "precio5": "1500.00",
+    "precio6": "1495.00",
+    "precio": "1570.00",
+    "precio1": "1570.00",
+    "cantidad_disponible": 0
   },
   {
     "id": 2136,
@@ -26889,7 +26889,7 @@
     "precio6": "342.00",
     "precio": "390.00",
     "precio1": "390.00",
-    "cantidad_disponible": 11
+    "cantidad_disponible": 12
   },
   {
     "id": 2145,
@@ -26925,7 +26925,7 @@
     "precio6": "290.00",
     "precio": "350.00",
     "precio1": "350.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 13
   },
   {
     "id": 2147,
@@ -26961,7 +26961,7 @@
     "precio6": "42.00",
     "precio": "85.00",
     "precio1": "85.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 14
   },
   {
     "id": 2149,
@@ -27303,7 +27303,7 @@
     "precio6": "415.00",
     "precio": "460.00",
     "precio1": "460.00",
-    "cantidad_disponible": 50
+    "cantidad_disponible": 56
   },
   {
     "id": 2169,
@@ -27429,7 +27429,7 @@
     "precio6": "45.00",
     "precio": "110.00",
     "precio1": "110.00",
-    "cantidad_disponible": 30
+    "cantidad_disponible": 31
   },
   {
     "id": 2176,
@@ -27573,7 +27573,7 @@
     "precio6": "10.00",
     "precio": "25.00",
     "precio1": "25.00",
-    "cantidad_disponible": 42
+    "cantidad_disponible": 43
   },
   {
     "id": 2184,
@@ -27609,7 +27609,7 @@
     "precio6": "505.00",
     "precio": "545.00",
     "precio1": "545.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 11
   },
   {
     "id": 2186,
@@ -27645,7 +27645,7 @@
     "precio6": "340.00",
     "precio": "400.00",
     "precio1": "400.00",
-    "cantidad_disponible": 0
+    "cantidad_disponible": 1
   },
   {
     "id": 2188,
@@ -27699,7 +27699,7 @@
     "precio6": "230.00",
     "precio": "280.00",
     "precio1": "280.00",
-    "cantidad_disponible": 15
+    "cantidad_disponible": 17
   },
   {
     "id": 2191,
@@ -27753,7 +27753,7 @@
     "precio6": "230.00",
     "precio": "300.00",
     "precio1": "300.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 7
   },
   {
     "id": 2194,
@@ -27807,7 +27807,7 @@
     "precio6": "28.00",
     "precio": "75.00",
     "precio1": "75.00",
-    "cantidad_disponible": 36
+    "cantidad_disponible": 38
   },
   {
     "id": 2197,
@@ -27825,7 +27825,7 @@
     "precio6": "45.00",
     "precio": "110.00",
     "precio1": "110.00",
-    "cantidad_disponible": 13
+    "cantidad_disponible": 14
   },
   {
     "id": 2198,
@@ -27843,7 +27843,7 @@
     "precio6": "560.00",
     "precio": "600.00",
     "precio1": "600.00",
-    "cantidad_disponible": 62
+    "cantidad_disponible": 63
   },
   {
     "id": 2200,
@@ -27861,7 +27861,7 @@
     "precio6": "58.00",
     "precio": "80.00",
     "precio1": "80.00",
-    "cantidad_disponible": 27
+    "cantidad_disponible": 28
   },
   {
     "id": 2201,
@@ -27969,7 +27969,7 @@
     "precio6": "25.00",
     "precio": "75.00",
     "precio1": "75.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 10
   },
   {
     "id": 2207,
@@ -28005,7 +28005,7 @@
     "precio6": "115.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 14
+    "cantidad_disponible": 13
   },
   {
     "id": 2209,
@@ -28023,7 +28023,7 @@
     "precio6": "45.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 18
+    "cantidad_disponible": 19
   },
   {
     "id": 2210,
@@ -28095,7 +28095,7 @@
     "precio6": "83.00",
     "precio": "140.00",
     "precio1": "140.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 13
   },
   {
     "id": 2214,
@@ -28131,7 +28131,7 @@
     "precio6": "45.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 0
+    "cantidad_disponible": 1
   },
   {
     "id": 2216,
@@ -28149,7 +28149,7 @@
     "precio6": "37.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 5
   },
   {
     "id": 2217,
@@ -28167,7 +28167,7 @@
     "precio6": "52.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 5
   },
   {
     "id": 2218,
@@ -28185,7 +28185,7 @@
     "precio6": "1100.00",
     "precio": "1180.00",
     "precio1": "1180.00",
-    "cantidad_disponible": 0
+    "cantidad_disponible": 2
   },
   {
     "id": 2219,
@@ -28545,7 +28545,7 @@
     "precio6": "460.00",
     "precio": "510.00",
     "precio1": "510.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 4
   },
   {
     "id": 2239,
@@ -28563,7 +28563,7 @@
     "precio6": "415.00",
     "precio": "450.00",
     "precio1": "450.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 20
   },
   {
     "id": 2240,
@@ -28653,7 +28653,7 @@
     "precio6": "435.00",
     "precio": "480.00",
     "precio1": "480.00",
-    "cantidad_disponible": 11
+    "cantidad_disponible": 12
   },
   {
     "id": 2245,
@@ -28725,7 +28725,7 @@
     "precio6": "185.00",
     "precio": "230.00",
     "precio1": "230.00",
-    "cantidad_disponible": 10
+    "cantidad_disponible": 11
   },
   {
     "id": 2249,
@@ -28852,131 +28852,5 @@
     "precio": "0.00",
     "precio1": "0.00",
     "cantidad_disponible": 0
-  },
-  {
-    "id": 2256,
-    "imagen": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/default.png",
-    "codigo": "MSD SONY 64GB",
-    "producto": "MSD SONY 64GB",
-    "minimo": 10,
-    "estado": 1,
-    "precio2": "155.00",
-    "precio3": "150.00",
-    "precio4": "145.00",
-    "precio5": "102.00",
-    "precio6": "100.00",
-    "precio": "160.00",
-    "precio1": "160.00",
-    "cantidad_disponible": 10
-  },
-  {
-    "id": 2257,
-    "imagen": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/default.png",
-    "codigo": "MTM-024P",
-    "producto": "TIRAS LANCETAS PARA PRUEBA DE GLUCOSA TOMATE MTM-024P",
-    "minimo": 10,
-    "estado": 1,
-    "precio2": "135.00",
-    "precio3": "130.00",
-    "precio4": "125.00",
-    "precio5": "102.00",
-    "precio6": "100.00",
-    "precio": "140.00",
-    "precio1": "140.00",
-    "cantidad_disponible": 24
-  },
-  {
-    "id": 2258,
-    "imagen": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/default.png",
-    "codigo": "K2203TMN",
-    "producto": "TECLADO MINI KEYBOARD TOMATE K2203TMN",
-    "minimo": 10,
-    "estado": 1,
-    "precio2": "83.00",
-    "precio3": "80.00",
-    "precio4": "78.00",
-    "precio5": "55.00",
-    "precio6": "54.00",
-    "precio": "85.00",
-    "precio1": "85.00",
-    "cantidad_disponible": 50
-  },
-  {
-    "id": 2259,
-    "imagen": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/default.png",
-    "codigo": "MIC847",
-    "producto": "MICROFONO INALAMBRICO CANCELACION DE RUIDO LAVALIER TOMATE MIC847",
-    "minimo": 10,
-    "estado": 1,
-    "precio2": "245.00",
-    "precio3": "240.00",
-    "precio4": "235.00",
-    "precio5": "198.00",
-    "precio6": "195.00",
-    "precio": "250.00",
-    "precio1": "250.00",
-    "cantidad_disponible": 35
-  },
-  {
-    "id": 2260,
-    "imagen": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/default.png",
-    "codigo": "KP-2064",
-    "producto": "TACLADO GAMER USB RETRO ILUMINADO ESPAÑOL KNUP KP-2064",
-    "minimo": 10,
-    "estado": 1,
-    "precio2": "115.00",
-    "precio3": "110.00",
-    "precio4": "105.00",
-    "precio5": "70.00",
-    "precio6": "68.00",
-    "precio": "120.00",
-    "precio1": "120.00",
-    "cantidad_disponible": 29
-  },
-  {
-    "id": 2261,
-    "imagen": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/default.png",
-    "codigo": "KP-RO795",
-    "producto": "PARLANTE PARA PC 2.1 BT/ RADIO/ MSD/ USB 45W RMS KNUP KP-RO795",
-    "minimo": 10,
-    "estado": 1,
-    "precio2": "345.00",
-    "precio3": "340.00",
-    "precio4": "335.00",
-    "precio5": "320.00",
-    "precio6": "315.00",
-    "precio": "350.00",
-    "precio1": "350.00",
-    "cantidad_disponible": 10
-  },
-  {
-    "id": 2262,
-    "imagen": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/default.png",
-    "codigo": "KP-SP028 PLUS",
-    "producto": "CONSOLA DE JUEGOS MANDOS INALAMBRICOS KNUP KP-SP028 PLUS",
-    "minimo": 10,
-    "estado": 1,
-    "precio2": "235.00",
-    "precio3": "230.00",
-    "precio4": "225.00",
-    "precio5": "185.00",
-    "precio6": "180.00",
-    "precio": "240.00",
-    "precio1": "240.00",
-    "cantidad_disponible": 13
   }
 ]

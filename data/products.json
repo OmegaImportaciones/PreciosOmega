@@ -8,13 +8,13 @@
     "producto": "MI TV STICK XIAOMI FHD",
     "minimo": 5,
     "estado": 1,
-    "precio2": "465.00",
-    "precio3": "460.00",
-    "precio4": "460.00",
-    "precio5": "446.00",
-    "precio6": "444.00",
-    "precio": "470.00",
-    "precio1": "470.00",
+    "precio2": "485.00",
+    "precio3": "480.00",
+    "precio4": "475.00",
+    "precio5": "455.00",
+    "precio6": "450.00",
+    "precio": "490.00",
+    "precio1": "490.00",
     "cantidad_disponible": 0
   },
   {
@@ -87,7 +87,7 @@
     "precio6": "195.00",
     "precio": "245.00",
     "precio1": "245.00",
-    "cantidad_disponible": 33
+    "cantidad_disponible": 34
   },
   {
     "id": 12,
@@ -339,7 +339,7 @@
     "precio6": "100.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 48,
@@ -897,7 +897,7 @@
     "precio6": "18.00",
     "precio": "55.00",
     "precio1": "55.00",
-    "cantidad_disponible": 19
+    "cantidad_disponible": 17
   },
   {
     "id": 112,
@@ -1610,13 +1610,13 @@
     "producto": "CORTA PICOS XIAOMI CON USB ALLARGADOR",
     "minimo": 5,
     "estado": 1,
-    "precio2": "130.00",
-    "precio3": "120.00",
-    "precio4": "110.00",
-    "precio5": "90.00",
-    "precio6": "85.00",
-    "precio": "140.00",
-    "precio1": "140.00",
+    "precio2": "105.00",
+    "precio3": "100.00",
+    "precio4": "95.00",
+    "precio5": "85.00",
+    "precio6": "80.00",
+    "precio": "110.00",
+    "precio1": "110.00",
     "cantidad_disponible": 2
   },
   {
@@ -3068,13 +3068,13 @@
     "producto": "LAPIZ XIAOMI REACARGABLE PEN STYLUS",
     "minimo": 5,
     "estado": 1,
-    "precio2": "215.00",
-    "precio3": "210.00",
-    "precio4": "205.00",
-    "precio5": "178.00",
-    "precio6": "175.00",
-    "precio": "220.00",
-    "precio1": "220.00",
+    "precio2": "205.00",
+    "precio3": "200.00",
+    "precio4": "195.00",
+    "precio5": "175.00",
+    "precio6": "170.00",
+    "precio": "210.00",
+    "precio1": "210.00",
     "cantidad_disponible": 22
   },
   {
@@ -3489,7 +3489,7 @@
     "precio6": "22.00",
     "precio": "75.00",
     "precio1": "75.00",
-    "cantidad_disponible": 10
+    "cantidad_disponible": 9
   },
   {
     "id": 409,
@@ -3734,13 +3734,13 @@
     "producto": "BOLIGRAFO XIAOMI NORMAL",
     "minimo": 5,
     "estado": 1,
-    "precio2": "5.00",
+    "precio2": "8.00",
     "precio3": "5.00",
     "precio4": "5.00",
     "precio5": "5.00",
     "precio6": "5.00",
-    "precio": "5.00",
-    "precio1": "5.00",
+    "precio": "10.00",
+    "precio1": "10.00",
     "cantidad_disponible": 15
   },
   {
@@ -5577,7 +5577,7 @@
     "precio6": "80.00",
     "precio": "110.00",
     "precio1": "110.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 763,
@@ -5847,7 +5847,7 @@
     "precio6": "17.00",
     "precio": "40.00",
     "precio1": "40.00",
-    "cantidad_disponible": 69
+    "cantidad_disponible": 68
   },
   {
     "id": 797,
@@ -6797,11 +6797,11 @@
     "precio2": "280.00",
     "precio3": "275.00",
     "precio4": "270.00",
-    "precio5": "248.00",
-    "precio6": "245.00",
+    "precio5": "250.00",
+    "precio6": "247.00",
     "precio": "285.00",
     "precio1": "285.00",
-    "cantidad_disponible": 19
+    "cantidad_disponible": 18
   },
   {
     "id": 878,
@@ -8864,13 +8864,13 @@
     "producto": "ROUTER XIAOMI 300MBPS 4C",
     "minimo": 5,
     "estado": 1,
-    "precio2": "170.00",
-    "precio3": "160.00",
-    "precio4": "150.00",
-    "precio5": "135.00",
-    "precio6": "130.00",
-    "precio": "180.00",
-    "precio1": "180.00",
+    "precio2": "245.00",
+    "precio3": "240.00",
+    "precio4": "235.00",
+    "precio5": "220.00",
+    "precio6": "215.00",
+    "precio": "250.00",
+    "precio1": "250.00",
     "cantidad_disponible": 0
   },
   {
@@ -13580,13 +13580,13 @@
     "producto": "MODEM ROUTER A CHIP CUDY LT400 4G LTE",
     "minimo": 5,
     "estado": 1,
-    "precio2": "635.00",
-    "precio3": "630.00",
-    "precio4": "625.00",
-    "precio5": "595.00",
-    "precio6": "590.00",
-    "precio": "640.00",
-    "precio1": "640.00",
+    "precio2": "655.00",
+    "precio3": "650.00",
+    "precio4": "645.00",
+    "precio5": "615.00",
+    "precio6": "610.00",
+    "precio": "660.00",
+    "precio1": "660.00",
     "cantidad_disponible": 15
   },
   {
@@ -14973,7 +14973,7 @@
     "precio6": "58.00",
     "precio": "134.00",
     "precio1": "134.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 3
   },
   {
     "id": 1470,
@@ -15920,13 +15920,13 @@
     "producto": "CAMARA SEGURIDAD XIAOMI EXTERIOR PTZ CW400",
     "minimo": 10,
     "estado": 1,
-    "precio2": "580.00",
-    "precio3": "570.00",
-    "precio4": "560.00",
-    "precio5": "545.00",
-    "precio6": "540.00",
-    "precio": "590.00",
-    "precio1": "590.00",
+    "precio2": "605.00",
+    "precio3": "600.00",
+    "precio4": "595.00",
+    "precio5": "575.00",
+    "precio6": "570.00",
+    "precio": "610.00",
+    "precio1": "610.00",
     "cantidad_disponible": 7
   },
   {
@@ -16118,13 +16118,13 @@
     "producto": "REPETIDOR WIFI XIAOMI N300",
     "minimo": 10,
     "estado": 1,
-    "precio2": "145.00",
-    "precio3": "140.00",
-    "precio4": "140.00",
-    "precio5": "120.00",
-    "precio6": "115.00",
-    "precio": "150.00",
-    "precio1": "150.00",
+    "precio2": "155.00",
+    "precio3": "150.00",
+    "precio4": "145.00",
+    "precio5": "129.00",
+    "precio6": "127.00",
+    "precio": "160.00",
+    "precio1": "160.00",
     "cantidad_disponible": 0
   },
   {
@@ -16359,7 +16359,7 @@
     "precio6": "19.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 15
   },
   {
     "id": 1553,
@@ -16370,13 +16370,13 @@
     "producto": "MODEM ROUTER A CHIP CUDY DUAL BAND LTE LT500",
     "minimo": 10,
     "estado": 1,
-    "precio2": "745.00",
-    "precio3": "740.00",
-    "precio4": "735.00",
-    "precio5": "715.00",
-    "precio6": "710.00",
-    "precio": "750.00",
-    "precio1": "750.00",
+    "precio2": "765.00",
+    "precio3": "760.00",
+    "precio4": "755.00",
+    "precio5": "730.00",
+    "precio6": "725.00",
+    "precio": "770.00",
+    "precio1": "770.00",
     "cantidad_disponible": 17
   },
   {
@@ -17234,13 +17234,13 @@
     "producto": "CAMARA IP WIFI XIAOMI C301 2K",
     "minimo": 10,
     "estado": 1,
-    "precio2": "345.00",
-    "precio3": "330.00",
-    "precio4": "325.00",
-    "precio5": "305.00",
-    "precio6": "300.00",
-    "precio": "350.00",
-    "precio1": "350.00",
+    "precio2": "355.00",
+    "precio3": "350.00",
+    "precio4": "345.00",
+    "precio5": "315.00",
+    "precio6": "310.00",
+    "precio": "360.00",
+    "precio1": "360.00",
     "cantidad_disponible": 26
   },
   {
@@ -18375,7 +18375,7 @@
     "precio6": "160.00",
     "precio": "190.00",
     "precio1": "190.00",
-    "cantidad_disponible": 22
+    "cantidad_disponible": 21
   },
   {
     "id": 1668,
@@ -18681,7 +18681,7 @@
     "precio6": "225.00",
     "precio": "280.00",
     "precio1": "280.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 10
   },
   {
     "id": 1685,
@@ -19023,7 +19023,7 @@
     "precio6": "105.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 55
+    "cantidad_disponible": 47
   },
   {
     "id": 1704,
@@ -19322,13 +19322,13 @@
     "producto": "CAMARA DE SEGURIDAD TAPO 2K C520WS",
     "minimo": 10,
     "estado": 1,
-    "precio2": "595.00",
-    "precio3": "590.00",
-    "precio4": "585.00",
+    "precio2": "605.00",
+    "precio3": "600.00",
+    "precio4": "595.00",
     "precio5": "565.00",
     "precio6": "564.00",
-    "precio": "600.00",
-    "precio1": "600.00",
+    "precio": "610.00",
+    "precio1": "610.00",
     "cantidad_disponible": 1
   },
   {
@@ -19358,13 +19358,13 @@
     "producto": "CAMARA DE SEGURIDAD TAPO 2K C225",
     "minimo": 10,
     "estado": 1,
-    "precio2": "655.00",
-    "precio3": "650.00",
-    "precio4": "645.00",
+    "precio2": "665.00",
+    "precio3": "660.00",
+    "precio4": "655.00",
     "precio5": "635.00",
     "precio6": "630.00",
-    "precio": "660.00",
-    "precio1": "660.00",
+    "precio": "670.00",
+    "precio1": "670.00",
     "cantidad_disponible": 8
   },
   {
@@ -19376,13 +19376,13 @@
     "producto": "CAMARA DE SEGURIDAD TAPO 2K C210 Y C11",
     "minimo": 10,
     "estado": 1,
-    "precio2": "295.00",
-    "precio3": "290.00",
-    "precio4": "285.00",
+    "precio2": "305.00",
+    "precio3": "300.00",
+    "precio4": "295.00",
     "precio5": "265.00",
     "precio6": "260.00",
-    "precio": "300.00",
-    "precio1": "300.00",
+    "precio": "310.00",
+    "precio1": "310.00",
     "cantidad_disponible": 0
   },
   {
@@ -20294,13 +20294,13 @@
     "producto": "XIAOMI MI BOX S 3RA GENERACION",
     "minimo": 10,
     "estado": 1,
-    "precio2": "790.00",
-    "precio3": "785.00",
-    "precio4": "780.00",
-    "precio5": "775.00",
-    "precio6": "775.00",
-    "precio": "795.00",
-    "precio1": "795.00",
+    "precio2": "817.00",
+    "precio3": "815.00",
+    "precio4": "813.00",
+    "precio5": "810.00",
+    "precio6": "808.00",
+    "precio": "820.00",
+    "precio1": "820.00",
     "cantidad_disponible": 20
   },
   {
@@ -21039,7 +21039,7 @@
     "precio6": "28.00",
     "precio": "58.00",
     "precio1": "58.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 2
   },
   {
     "id": 1817,
@@ -21698,13 +21698,13 @@
     "producto": "XIAOMI TV STICK 2ND GENERACION 4K",
     "minimo": 10,
     "estado": 1,
-    "precio2": "645.00",
-    "precio3": "640.00",
-    "precio4": "635.00",
-    "precio5": "620.00",
-    "precio6": "615.00",
-    "precio": "650.00",
-    "precio1": "650.00",
+    "precio2": "665.00",
+    "precio3": "660.00",
+    "precio4": "655.00",
+    "precio5": "642.00",
+    "precio6": "640.00",
+    "precio": "670.00",
+    "precio1": "670.00",
     "cantidad_disponible": 15
   },
   {
@@ -21716,13 +21716,13 @@
     "producto": "PROYECTOR XIAOMI L1 PRO EU",
     "minimo": 10,
     "estado": 1,
-    "precio2": "2890.00",
-    "precio3": "2880.00",
-    "precio4": "2870.00",
-    "precio5": "2810.00",
-    "precio6": "2800.00",
-    "precio": "2900.00",
-    "precio1": "2900.00",
+    "precio2": "3110.00",
+    "precio3": "3100.00",
+    "precio4": "3090.00",
+    "precio5": "3070.00",
+    "precio6": "3060.00",
+    "precio": "3120.00",
+    "precio1": "3120.00",
     "cantidad_disponible": 2
   },
   {
@@ -22364,13 +22364,13 @@
     "producto": "PROYECTOR XIAOMI L1 EU",
     "minimo": 10,
     "estado": 1,
-    "precio2": "2090.00",
-    "precio3": "2080.00",
-    "precio4": "2070.00",
-    "precio5": "2065.00",
-    "precio6": "2065.00",
-    "precio": "2100.00",
-    "precio1": "2100.00",
+    "precio2": "2140.00",
+    "precio3": "2130.00",
+    "precio4": "2120.00",
+    "precio5": "2075.00",
+    "precio6": "2070.00",
+    "precio": "2150.00",
+    "precio1": "2150.00",
     "cantidad_disponible": 0
   },
   {
@@ -22515,7 +22515,7 @@
     "precio6": "19.00",
     "precio": "68.00",
     "precio1": "68.00",
-    "cantidad_disponible": 82
+    "cantidad_disponible": 80
   },
   {
     "id": 1901,
@@ -22641,7 +22641,7 @@
     "precio6": "10.00",
     "precio": "40.00",
     "precio1": "40.00",
-    "cantidad_disponible": 335
+    "cantidad_disponible": 334
   },
   {
     "id": 1908,
@@ -23048,13 +23048,13 @@
     "producto": "PARLANTE BLUETOOTH XIAOMI BLUETOOTH SPEAKER MINI",
     "minimo": 10,
     "estado": 1,
-    "precio2": "275.00",
-    "precio3": "270.00",
-    "precio4": "265.00",
-    "precio5": "24.00",
-    "precio6": "235.00",
-    "precio": "280.00",
-    "precio1": "280.00",
+    "precio2": "285.00",
+    "precio3": "280.00",
+    "precio4": "275.00",
+    "precio5": "250.00",
+    "precio6": "245.00",
+    "precio": "290.00",
+    "precio1": "290.00",
     "cantidad_disponible": 1
   },
   {
@@ -23102,13 +23102,13 @@
     "producto": "CAMARA DE SEGURIDAD XIAOMI C201",
     "minimo": 10,
     "estado": 1,
-    "precio2": "275.00",
-    "precio3": "270.00",
-    "precio4": "265.00",
-    "precio5": "245.00",
-    "precio6": "240.00",
-    "precio": "280.00",
-    "precio1": "280.00",
+    "precio2": "295.00",
+    "precio3": "290.00",
+    "precio4": "285.00",
+    "precio5": "265.00",
+    "precio6": "263.00",
+    "precio": "300.00",
+    "precio1": "300.00",
     "cantidad_disponible": 9
   },
   {
@@ -23235,7 +23235,7 @@
     "precio6": "140.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 19
+    "cantidad_disponible": 17
   },
   {
     "id": 1941,
@@ -23343,7 +23343,7 @@
     "precio6": "90.00",
     "precio": "115.00",
     "precio1": "115.00",
-    "cantidad_disponible": 17
+    "cantidad_disponible": 16
   },
   {
     "id": 1947,
@@ -24243,7 +24243,7 @@
     "precio6": "750.00",
     "precio": "800.00",
     "precio1": "800.00",
-    "cantidad_disponible": 26
+    "cantidad_disponible": 25
   },
   {
     "id": 1998,
@@ -24261,7 +24261,7 @@
     "precio6": "52.00",
     "precio": "80.00",
     "precio1": "80.00",
-    "cantidad_disponible": 17
+    "cantidad_disponible": 16
   },
   {
     "id": 1999,
@@ -24758,14 +24758,14 @@
     "producto": "CAMARA DE SEGURIDAD XIAOMI EXTERIOR CW100 DUAL",
     "minimo": 10,
     "estado": 1,
-    "precio2": "435.00",
-    "precio3": "430.00",
-    "precio4": "425.00",
-    "precio5": "405.00",
-    "precio6": "400.00",
-    "precio": "440.00",
-    "precio1": "440.00",
-    "cantidad_disponible": 3
+    "precio2": "445.00",
+    "precio3": "440.00",
+    "precio4": "435.00",
+    "precio5": "415.00",
+    "precio6": "410.00",
+    "precio": "450.00",
+    "precio1": "450.00",
+    "cantidad_disponible": 1
   },
   {
     "id": 2027,
@@ -24850,7 +24850,7 @@
     "estado": 1,
     "precio2": "280.00",
     "precio3": "270.00",
-    "precio4": "260.00",
+    "precio4": "265.00",
     "precio5": "250.00",
     "precio6": "245.00",
     "precio": "290.00",
@@ -24873,7 +24873,7 @@
     "precio6": "225.00",
     "precio": "265.00",
     "precio1": "265.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 6
   },
   {
     "id": 2033,
@@ -24909,7 +24909,7 @@
     "precio6": "128.00",
     "precio": "190.00",
     "precio1": "190.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 2035,
@@ -25046,13 +25046,13 @@
     "producto": "CAMARA IP WIFI XIAOMI C100",
     "minimo": 10,
     "estado": 1,
-    "precio2": "240.00",
-    "precio3": "235.00",
-    "precio4": "230.00",
-    "precio5": "218.00",
-    "precio6": "215.00",
-    "precio": "245.00",
-    "precio1": "245.00",
+    "precio2": "250.00",
+    "precio3": "245.00",
+    "precio4": "240.00",
+    "precio5": "228.00",
+    "precio6": "225.00",
+    "precio": "255.00",
+    "precio1": "255.00",
     "cantidad_disponible": 6
   },
   {
@@ -25478,14 +25478,14 @@
     "producto": "LOCALIZADOR RASTREADOR XIAOMI TAG 1 PACK",
     "minimo": 10,
     "estado": 1,
-    "precio2": "175.00",
-    "precio3": "170.00",
-    "precio4": "165.00",
-    "precio5": "145.00",
-    "precio6": "140.00",
-    "precio": "180.00",
-    "precio1": "180.00",
-    "cantidad_disponible": 9
+    "precio2": "185.00",
+    "precio3": "180.00",
+    "precio4": "175.00",
+    "precio5": "147.00",
+    "precio6": "145.00",
+    "precio": "190.00",
+    "precio1": "190.00",
+    "cantidad_disponible": 17
   },
   {
     "id": 2067,
@@ -25969,8 +25969,8 @@
     "precio4": "4950.00",
     "precio5": "4900.00",
     "precio6": "4890.00",
-    "precio": "4880.00",
-    "precio1": "4880.00",
+    "precio": "4980.00",
+    "precio1": "4980.00",
     "cantidad_disponible": 0
   },
   {
@@ -26018,13 +26018,13 @@
     "producto": "DRON DJI AVATA 2 FLY SMART COMBO (THREE BATTERIES)",
     "minimo": 10,
     "estado": 1,
-    "precio2": "10770.00",
-    "precio3": "10750.00",
-    "precio4": "10740.00",
-    "precio5": "10600.00",
-    "precio6": "10590.00",
-    "precio": "10780.00",
-    "precio1": "10780.00",
+    "precio2": "11770.00",
+    "precio3": "11750.00",
+    "precio4": "11740.00",
+    "precio5": "11600.00",
+    "precio6": "11590.00",
+    "precio": "11780.00",
+    "precio1": "11780.00",
     "cantidad_disponible": 0
   },
   {
@@ -26054,13 +26054,13 @@
     "producto": "AUDIFONO BLUETOOTH XIAOMI REDMI BUDS 8 ACTIVE",
     "minimo": 10,
     "estado": 1,
-    "precio2": "215.00",
-    "precio3": "210.00",
-    "precio4": "205.00",
-    "precio5": "175.00",
-    "precio6": "170.00",
-    "precio": "220.00",
-    "precio1": "220.00",
+    "precio2": "225.00",
+    "precio3": "220.00",
+    "precio4": "215.00",
+    "precio5": "185.00",
+    "precio6": "180.00",
+    "precio": "230.00",
+    "precio1": "230.00",
     "cantidad_disponible": 0
   },
   {
@@ -26090,13 +26090,13 @@
     "producto": "CAMARA XIAOMI WIFI SMART 360 C302",
     "minimo": 10,
     "estado": 1,
-    "precio2": "355.00",
-    "precio3": "350.00",
-    "precio4": "345.00",
-    "precio5": "310.00",
-    "precio6": "305.00",
-    "precio": "360.00",
-    "precio1": "360.00",
+    "precio2": "365.00",
+    "precio3": "360.00",
+    "precio4": "355.00",
+    "precio5": "330.00",
+    "precio6": "325.00",
+    "precio": "370.00",
+    "precio1": "370.00",
     "cantidad_disponible": 25
   },
   {
@@ -26205,7 +26205,7 @@
     "precio6": "35.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 5
   },
   {
     "id": 2107,
@@ -26885,8 +26885,8 @@
     "precio2": "385.00",
     "precio3": "380.00",
     "precio4": "375.00",
-    "precio5": "345.00",
-    "precio6": "342.00",
+    "precio5": "355.00",
+    "precio6": "352.00",
     "precio": "390.00",
     "precio1": "390.00",
     "cantidad_disponible": 11
@@ -27375,7 +27375,7 @@
     "precio6": "102.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 10
+    "cantidad_disponible": 8
   },
   {
     "id": 2173,
@@ -27602,13 +27602,13 @@
     "producto": "MI TV STICK XIAOMI FHD 2da GENERACION",
     "minimo": 10,
     "estado": 1,
-    "precio2": "540.00",
-    "precio3": "535.00",
-    "precio4": "530.00",
-    "precio5": "510.00",
-    "precio6": "505.00",
-    "precio": "545.00",
-    "precio1": "545.00",
+    "precio2": "550.00",
+    "precio3": "545.00",
+    "precio4": "540.00",
+    "precio5": "527.00",
+    "precio6": "524.00",
+    "precio": "555.00",
+    "precio1": "555.00",
     "cantidad_disponible": 16
   },
   {
@@ -27692,13 +27692,13 @@
     "producto": "POWER BANK XIAOMI CABLE INTEGRADO TIPO A DE 10000MAH 33W",
     "minimo": 10,
     "estado": 1,
-    "precio2": "275.00",
-    "precio3": "270.00",
-    "precio4": "265.00",
-    "precio5": "235.00",
-    "precio6": "230.00",
-    "precio": "280.00",
-    "precio1": "280.00",
+    "precio2": "305.00",
+    "precio3": "300.00",
+    "precio4": "295.00",
+    "precio5": "255.00",
+    "precio6": "250.00",
+    "precio": "310.00",
+    "precio1": "310.00",
     "cantidad_disponible": 15
   },
   {
@@ -27843,7 +27843,7 @@
     "precio6": "560.00",
     "precio": "600.00",
     "precio1": "600.00",
-    "cantidad_disponible": 62
+    "cantidad_disponible": 61
   },
   {
     "id": 2200,
@@ -28178,13 +28178,13 @@
     "producto": "MONITOR FHD XIAOMI 23.8 PULGADAS A24i 2026",
     "minimo": 10,
     "estado": 1,
-    "precio2": "1170.00",
-    "precio3": "1160.00",
-    "precio4": "1150.00",
-    "precio5": "1110.00",
-    "precio6": "1100.00",
-    "precio": "1180.00",
-    "precio1": "1180.00",
+    "precio2": "1210.00",
+    "precio3": "1200.00",
+    "precio4": "1190.00",
+    "precio5": "1150.00",
+    "precio6": "1145.00",
+    "precio": "1220.00",
+    "precio1": "1220.00",
     "cantidad_disponible": 0
   },
   {
@@ -28196,13 +28196,13 @@
     "producto": "MONITOR FHD XIAOMI 27 PULGADAS A27i 2026",
     "minimo": 10,
     "estado": 1,
-    "precio2": "1390.00",
-    "precio3": "1380.00",
-    "precio4": "1370.00",
-    "precio5": "1320.00",
-    "precio6": "1310.00",
-    "precio": "1400.00",
-    "precio1": "1400.00",
+    "precio2": "1490.00",
+    "precio3": "1480.00",
+    "precio4": "1470.00",
+    "precio5": "1420.00",
+    "precio6": "1410.00",
+    "precio": "1500.00",
+    "precio1": "1500.00",
     "cantidad_disponible": 0
   },
   {
@@ -28235,8 +28235,8 @@
     "precio2": "910.00",
     "precio3": "900.00",
     "precio4": "890.00",
-    "precio5": "860.00",
-    "precio6": "855.00",
+    "precio5": "870.00",
+    "precio6": "865.00",
     "precio": "920.00",
     "precio1": "920.00",
     "cantidad_disponible": 6
@@ -28250,13 +28250,13 @@
     "producto": "MOCHILA XIAOMI BUSINESS BACKPACK GL",
     "minimo": 10,
     "estado": 1,
-    "precio2": "790.00",
-    "precio3": "780.00",
-    "precio4": "770.00",
+    "precio2": "800.00",
+    "precio3": "790.00",
+    "precio4": "780.00",
     "precio5": "750.00",
     "precio6": "745.00",
-    "precio": "800.00",
-    "precio1": "800.00",
+    "precio": "810.00",
+    "precio1": "810.00",
     "cantidad_disponible": 4
   },
   {
@@ -28268,13 +28268,13 @@
     "producto": "MOCHILA XIAOMI ROLL TOP CASUAL BACKPACK GL",
     "minimo": 10,
     "estado": 1,
-    "precio2": "570.00",
-    "precio3": "560.00",
-    "precio4": "550.00",
-    "precio5": "535.00",
-    "precio6": "530.00",
-    "precio": "580.00",
-    "precio1": "580.00",
+    "precio2": "580.00",
+    "precio3": "570.00",
+    "precio4": "560.00",
+    "precio5": "540.00",
+    "precio6": "535.00",
+    "precio": "590.00",
+    "precio1": "590.00",
     "cantidad_disponible": 4
   },
   {
@@ -28286,13 +28286,13 @@
     "producto": "LICUADORA XIAOMI BLENDER EU",
     "minimo": 10,
     "estado": 1,
-    "precio2": "725.00",
-    "precio3": "720.00",
-    "precio4": "715.00",
-    "precio5": "670.00",
-    "precio6": "665.00",
-    "precio": "730.00",
-    "precio1": "730.00",
+    "precio2": "755.00",
+    "precio3": "750.00",
+    "precio4": "745.00",
+    "precio5": "700.00",
+    "precio6": "695.00",
+    "precio": "760.00",
+    "precio1": "760.00",
     "cantidad_disponible": 2
   },
   {
@@ -28304,13 +28304,13 @@
     "producto": "LICUADORA XIAOMI BLENDER PRO EU",
     "minimo": 10,
     "estado": 1,
-    "precio2": "895.00",
-    "precio3": "890.00",
-    "precio4": "885.00",
-    "precio5": "840.00",
-    "precio6": "835.00",
-    "precio": "900.00",
-    "precio1": "900.00",
+    "precio2": "915.00",
+    "precio3": "910.00",
+    "precio4": "905.00",
+    "precio5": "860.00",
+    "precio6": "855.00",
+    "precio": "920.00",
+    "precio1": "920.00",
     "cantidad_disponible": 1
   },
   {
@@ -28340,13 +28340,13 @@
     "producto": "TOMA TODO XIAOMI TRITAN WATER BOTTLE",
     "minimo": 10,
     "estado": 1,
-    "precio2": "155.00",
-    "precio3": "150.00",
-    "precio4": "145.00",
-    "precio5": "125.00",
-    "precio6": "120.00",
-    "precio": "160.00",
-    "precio1": "160.00",
+    "precio2": "165.00",
+    "precio3": "160.00",
+    "precio4": "155.00",
+    "precio5": "135.00",
+    "precio6": "130.00",
+    "precio": "170.00",
+    "precio1": "170.00",
     "cantidad_disponible": 6
   },
   {
@@ -28358,13 +28358,13 @@
     "producto": "JARRA ELECTRICA XIAOMI SMART KETTLE 2 PRO EU",
     "minimo": 10,
     "estado": 1,
-    "precio2": "540.00",
-    "precio3": "535.00",
-    "precio4": "530.00",
-    "precio5": "490.00",
-    "precio6": "485.00",
-    "precio": "545.00",
-    "precio1": "545.00",
+    "precio2": "560.00",
+    "precio3": "555.00",
+    "precio4": "550.00",
+    "precio5": "510.00",
+    "precio6": "505.00",
+    "precio": "565.00",
+    "precio1": "565.00",
     "cantidad_disponible": 2
   },
   {
@@ -28394,13 +28394,13 @@
     "producto": "HUMIDIFICADOR DIFUSOR XIAOMI SMART SCENT DIFFUSER",
     "minimo": 10,
     "estado": 1,
-    "precio2": "245.00",
-    "precio3": "240.00",
-    "precio4": "235.00",
-    "precio5": "215.00",
-    "precio6": "210.00",
-    "precio": "250.00",
-    "precio1": "250.00",
+    "precio2": "255.00",
+    "precio3": "250.00",
+    "precio4": "245.00",
+    "precio5": "225.00",
+    "precio6": "220.00",
+    "precio": "260.00",
+    "precio1": "260.00",
     "cantidad_disponible": 7
   },
   {
@@ -28412,13 +28412,13 @@
     "producto": "JARRA ELECTRICA XIAOMI DOUBLE WALL ELECTRIC KETTLE S1",
     "minimo": 10,
     "estado": 1,
-    "precio2": "380.00",
-    "precio3": "370.00",
-    "precio4": "365.00",
-    "precio5": "350.00",
-    "precio6": "340.00",
-    "precio": "390.00",
-    "precio1": "390.00",
+    "precio2": "410.00",
+    "precio3": "400.00",
+    "precio4": "395.00",
+    "precio5": "370.00",
+    "precio6": "365.00",
+    "precio": "420.00",
+    "precio1": "420.00",
     "cantidad_disponible": 3
   },
   {
@@ -28430,13 +28430,13 @@
     "producto": "SMARTWATCH XIAOMI S5 46mm",
     "minimo": 10,
     "estado": 1,
-    "precio2": "1790.00",
-    "precio3": "1780.00",
-    "precio4": "1770.00",
-    "precio5": "1760.00",
-    "precio6": "1755.00",
-    "precio": "1800.00",
-    "precio1": "1800.00",
+    "precio2": "1835.00",
+    "precio3": "1830.00",
+    "precio4": "1825.00",
+    "precio5": "1800.00",
+    "precio6": "1795.00",
+    "precio": "1840.00",
+    "precio1": "1840.00",
     "cantidad_disponible": 1
   },
   {
@@ -28507,8 +28507,8 @@
     "precio4": "655.00",
     "precio5": "610.00",
     "precio6": "605.00",
-    "precio": "67.00",
-    "precio1": "67.00",
+    "precio": "670.00",
+    "precio1": "670.00",
     "cantidad_disponible": 0
   },
   {
@@ -28556,14 +28556,14 @@
     "producto": "SMARTWATCH XIAOMI REDMI WATCH 6 ACTIVE",
     "minimo": 10,
     "estado": 1,
-    "precio2": "445.00",
-    "precio3": "440.00",
-    "precio4": "435.00",
-    "precio5": "420.00",
-    "precio6": "415.00",
-    "precio": "450.00",
-    "precio1": "450.00",
-    "cantidad_disponible": 16
+    "precio2": "465.00",
+    "precio3": "460.00",
+    "precio4": "455.00",
+    "precio5": "435.00",
+    "precio6": "430.00",
+    "precio": "470.00",
+    "precio1": "470.00",
+    "cantidad_disponible": 15
   },
   {
     "id": 2240,
@@ -28574,13 +28574,13 @@
     "producto": "SMARTWATCH XIAOMI REDMI WATCH 6 LITE",
     "minimo": 10,
     "estado": 1,
-    "precio2": "655.00",
-    "precio3": "650.00",
-    "precio4": "645.00",
-    "precio5": "630.00",
-    "precio6": "628.00",
-    "precio": "660.00",
-    "precio1": "660.00",
+    "precio2": "675.00",
+    "precio3": "670.00",
+    "precio4": "665.00",
+    "precio5": "645.00",
+    "precio6": "640.00",
+    "precio": "680.00",
+    "precio1": "680.00",
     "cantidad_disponible": 20
   },
   {
@@ -28855,7 +28855,7 @@
   },
   {
     "id": 2256,
-    "imagen": "https://apiback.aswin-smart.com/images/default.png",
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ab1dc2f9f4b3.png",
     "imagen2": "https://apiback.aswin-smart.com/images/default.png",
     "imagen3": "https://apiback.aswin-smart.com/images/default.png",
     "codigo": "MSD SONY 64GB",
@@ -28869,11 +28869,11 @@
     "precio6": "100.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 10
+    "cantidad_disponible": 7
   },
   {
     "id": 2257,
-    "imagen": "https://apiback.aswin-smart.com/images/default.png",
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ab1dbd55ca6a.png",
     "imagen2": "https://apiback.aswin-smart.com/images/default.png",
     "imagen3": "https://apiback.aswin-smart.com/images/default.png",
     "codigo": "MTM-024P",
@@ -28891,11 +28891,11 @@
   },
   {
     "id": 2258,
-    "imagen": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/default.png",
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ab1db0fa039d.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ab1db101e8e52.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ab1db1064e823.png",
     "codigo": "K2203TMN",
-    "producto": "TECLADO MINI KEYBOARD TOMATE K2203TMN",
+    "producto": "TECLADO INALAMBRICO Y BT MINI KEYBOARD TOMATE K2203TMN",
     "minimo": 10,
     "estado": 1,
     "precio2": "83.00",
@@ -28909,9 +28909,9 @@
   },
   {
     "id": 2259,
-    "imagen": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/default.png",
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ab1d979734c2.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ab1d979f0d352.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ab1d97a1a8c43.png",
     "codigo": "MIC847",
     "producto": "MICROFONO INALAMBRICO CANCELACION DE RUIDO LAVALIER TOMATE MIC847",
     "minimo": 10,
@@ -28927,9 +28927,9 @@
   },
   {
     "id": 2260,
-    "imagen": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/default.png",
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ab1d7d293613.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ab1d7d305fd22.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ab1d7d32b4313.png",
     "codigo": "KP-2064",
     "producto": "TACLADO GAMER USB RETRO ILUMINADO ESPAÑOL KNUP KP-2064",
     "minimo": 10,
@@ -28945,9 +28945,9 @@
   },
   {
     "id": 2261,
-    "imagen": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/default.png",
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ab1d4ebd2da5.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ab1d4ec31ff42.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ab1d4ec4771d3.png",
     "codigo": "KP-RO795",
     "producto": "PARLANTE PARA PC 2.1 BT/ RADIO/ MSD/ USB 45W RMS KNUP KP-RO795",
     "minimo": 10,
@@ -28963,9 +28963,9 @@
   },
   {
     "id": 2262,
-    "imagen": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/default.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/default.png",
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ab1d3471a5cb.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ab1d347646a02.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ab1d347771323.png",
     "codigo": "KP-SP028 PLUS",
     "producto": "CONSOLA DE JUEGOS MANDOS INALAMBRICOS KNUP KP-SP028 PLUS",
     "minimo": 10,

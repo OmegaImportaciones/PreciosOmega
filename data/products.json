@@ -87,7 +87,7 @@
     "precio6": "195.00",
     "precio": "245.00",
     "precio1": "245.00",
-    "cantidad_disponible": 34
+    "cantidad_disponible": 27
   },
   {
     "id": 12,
@@ -267,7 +267,7 @@
     "precio6": "55.00",
     "precio": "85.00",
     "precio1": "85.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 3
   },
   {
     "id": 42,
@@ -321,7 +321,7 @@
     "precio6": "69.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 45
+    "cantidad_disponible": 44
   },
   {
     "id": 45,
@@ -6963,7 +6963,7 @@
     "precio6": "100.00",
     "precio": "140.00",
     "precio1": "140.00",
-    "cantidad_disponible": 13
+    "cantidad_disponible": 3
   },
   {
     "id": 889,
@@ -11049,7 +11049,7 @@
     "precio6": "310.00",
     "precio": "350.00",
     "precio1": "350.00",
-    "cantidad_disponible": 27
+    "cantidad_disponible": 21
   },
   {
     "id": 1210,
@@ -11355,7 +11355,7 @@
     "precio6": "660.00",
     "precio": "690.00",
     "precio1": "690.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 1228,
@@ -13101,7 +13101,7 @@
     "precio6": "154.00",
     "precio": "238.00",
     "precio1": "238.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1355,
@@ -13245,7 +13245,7 @@
     "precio6": "44.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 3
   },
   {
     "id": 1364,
@@ -20301,7 +20301,7 @@
     "precio6": "808.00",
     "precio": "820.00",
     "precio1": "820.00",
-    "cantidad_disponible": 20
+    "cantidad_disponible": 16
   },
   {
     "id": 1776,
@@ -21140,13 +21140,13 @@
     "producto": "VAPERS VPRO ORIGINAL 24000 PUFF",
     "minimo": 10,
     "estado": 1,
-    "precio2": "205.00",
-    "precio3": "200.00",
-    "precio4": "195.00",
-    "precio5": "180.00",
-    "precio6": "175.00",
-    "precio": "210.00",
-    "precio1": "210.00",
+    "precio2": "245.00",
+    "precio3": "240.00",
+    "precio4": "135.00",
+    "precio5": "210.00",
+    "precio6": "205.00",
+    "precio": "250.00",
+    "precio1": "250.00",
     "cantidad_disponible": 31
   },
   {
@@ -23343,7 +23343,7 @@
     "precio6": "90.00",
     "precio": "115.00",
     "precio1": "115.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 15
   },
   {
     "id": 1947,
@@ -25557,7 +25557,7 @@
     "precio6": "23.00",
     "precio": "50.00",
     "precio1": "50.00",
-    "cantidad_disponible": 57
+    "cantidad_disponible": 45
   },
   {
     "id": 2071,
@@ -27249,7 +27249,7 @@
     "precio6": "493.00",
     "precio": "540.00",
     "precio1": "540.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 2
   },
   {
     "id": 2166,
@@ -27303,7 +27303,7 @@
     "precio6": "450.00",
     "precio": "490.00",
     "precio1": "490.00",
-    "cantidad_disponible": 50
+    "cantidad_disponible": 48
   },
   {
     "id": 2169,
@@ -27861,7 +27861,7 @@
     "precio6": "58.00",
     "precio": "80.00",
     "precio1": "80.00",
-    "cantidad_disponible": 27
+    "cantidad_disponible": 25
   },
   {
     "id": 2201,
@@ -28635,7 +28635,7 @@
     "precio6": "65.00",
     "precio": "115.00",
     "precio1": "115.00",
-    "cantidad_disponible": 18
+    "cantidad_disponible": 17
   },
   {
     "id": 2244,
@@ -28887,7 +28887,7 @@
     "precio6": "100.00",
     "precio": "140.00",
     "precio1": "140.00",
-    "cantidad_disponible": 23
+    "cantidad_disponible": 20
   },
   {
     "id": 2258,

@@ -80,14 +80,14 @@
     "producto": "SINTONIZADOR DE TV DIGITAL TOMATE",
     "minimo": 5,
     "estado": 1,
-    "precio2": "240.00",
-    "precio3": "235.00",
-    "precio4": "230.00",
-    "precio5": "198.00",
-    "precio6": "195.00",
-    "precio": "245.00",
-    "precio1": "245.00",
-    "cantidad_disponible": 14
+    "precio2": "265.00",
+    "precio3": "260.00",
+    "precio4": "255.00",
+    "precio5": "242.00",
+    "precio6": "240.00",
+    "precio": "270.00",
+    "precio1": "270.00",
+    "cantidad_disponible": 10
   },
   {
     "id": 12,
@@ -411,7 +411,7 @@
     "precio6": "210.00",
     "precio": "280.00",
     "precio1": "280.00",
-    "cantidad_disponible": 35
+    "cantidad_disponible": 25
   },
   {
     "id": 56,
@@ -501,7 +501,7 @@
     "precio6": "28.00",
     "precio": "75.00",
     "precio1": "75.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 78,
@@ -1473,7 +1473,7 @@
     "precio6": "415.00",
     "precio": "450.00",
     "precio1": "450.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 166,
@@ -3489,7 +3489,7 @@
     "precio6": "22.00",
     "precio": "75.00",
     "precio1": "75.00",
-    "cantidad_disponible": 9
+    "cantidad_disponible": 7
   },
   {
     "id": 409,
@@ -5541,7 +5541,7 @@
     "precio6": "115.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 15
   },
   {
     "id": 761,
@@ -7089,7 +7089,7 @@
     "precio6": "34.00",
     "precio": "52.00",
     "precio1": "52.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 900,
@@ -9411,7 +9411,7 @@
     "precio6": "165.00",
     "precio": "230.00",
     "precio1": "230.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 1071,
@@ -11355,7 +11355,7 @@
     "precio6": "660.00",
     "precio": "690.00",
     "precio1": "690.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1228,
@@ -14631,7 +14631,7 @@
     "precio6": "370.00",
     "precio": "420.00",
     "precio1": "420.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 0
   },
   {
     "id": 1449,
@@ -15927,7 +15927,7 @@
     "precio6": "570.00",
     "precio": "610.00",
     "precio1": "610.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 5
   },
   {
     "id": 1529,
@@ -16737,7 +16737,7 @@
     "precio6": "120.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1575,
@@ -17511,7 +17511,7 @@
     "precio6": "155.00",
     "precio": "200.00",
     "precio1": "200.00",
-    "cantidad_disponible": 24
+    "cantidad_disponible": 13
   },
   {
     "id": 1620,
@@ -18357,7 +18357,7 @@
     "precio6": "130.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 14
+    "cantidad_disponible": 13
   },
   {
     "id": 1667,
@@ -18681,7 +18681,7 @@
     "precio6": "225.00",
     "precio": "280.00",
     "precio1": "280.00",
-    "cantidad_disponible": 10
+    "cantidad_disponible": 6
   },
   {
     "id": 1685,
@@ -18807,7 +18807,7 @@
     "precio6": "17.00",
     "precio": "41.00",
     "precio1": "41.00",
-    "cantidad_disponible": 15
+    "cantidad_disponible": 14
   },
   {
     "id": 1692,
@@ -19383,7 +19383,7 @@
     "precio6": "260.00",
     "precio": "310.00",
     "precio1": "310.00",
-    "cantidad_disponible": 0
+    "cantidad_disponible": 1
   },
   {
     "id": 1724,
@@ -20301,7 +20301,7 @@
     "precio6": "808.00",
     "precio": "820.00",
     "precio1": "820.00",
-    "cantidad_disponible": 14
+    "cantidad_disponible": 6
   },
   {
     "id": 1776,
@@ -20330,13 +20330,13 @@
     "producto": "AUDIFONO BLUETOOTH QCY CROSSKY C30",
     "minimo": 10,
     "estado": 1,
-    "precio2": "365.00",
-    "precio3": "360.00",
-    "precio4": "355.00",
-    "precio5": "350.00",
-    "precio6": "350.00",
-    "precio": "370.00",
-    "precio1": "370.00",
+    "precio2": "405.00",
+    "precio3": "400.00",
+    "precio4": "395.00",
+    "precio5": "375.00",
+    "precio6": "372.00",
+    "precio": "410.00",
+    "precio1": "410.00",
     "cantidad_disponible": 2
   },
   {
@@ -20499,7 +20499,7 @@
     "precio6": "75.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 8
   },
   {
     "id": 1787,
@@ -20841,7 +20841,7 @@
     "precio6": "1445.00",
     "precio": "1500.00",
     "precio1": "1500.00",
-    "cantidad_disponible": 27
+    "cantidad_disponible": 26
   },
   {
     "id": 1806,
@@ -21417,7 +21417,7 @@
     "precio6": "1410.00",
     "precio": "1500.00",
     "precio1": "1500.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1838,
@@ -21705,7 +21705,7 @@
     "precio6": "640.00",
     "precio": "670.00",
     "precio1": "670.00",
-    "cantidad_disponible": 14
+    "cantidad_disponible": 13
   },
   {
     "id": 1854,
@@ -22821,7 +22821,7 @@
     "precio6": "415.00",
     "precio": "450.00",
     "precio1": "450.00",
-    "cantidad_disponible": 10
+    "cantidad_disponible": 8
   },
   {
     "id": 1918,
@@ -23109,7 +23109,7 @@
     "precio6": "263.00",
     "precio": "300.00",
     "precio1": "300.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 4
   },
   {
     "id": 1934,
@@ -23235,7 +23235,7 @@
     "precio6": "140.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 13
   },
   {
     "id": 1941,
@@ -23793,7 +23793,7 @@
     "precio6": "4025.00",
     "precio": "4090.00",
     "precio1": "4090.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 3
   },
   {
     "id": 1973,
@@ -24236,13 +24236,13 @@
     "producto": "PROYECTOR MULTIMEDIA ANDROID 13 2K 2RAM 8ROM 9000L TOMATE MPR-2042",
     "minimo": 10,
     "estado": 1,
-    "precio2": "790.00",
-    "precio3": "780.00",
-    "precio4": "770.00",
-    "precio5": "755.00",
-    "precio6": "750.00",
-    "precio": "800.00",
-    "precio1": "800.00",
+    "precio2": "805.00",
+    "precio3": "800.00",
+    "precio4": "795.00",
+    "precio5": "765.00",
+    "precio6": "760.00",
+    "precio": "810.00",
+    "precio1": "810.00",
     "cantidad_disponible": 25
   },
   {
@@ -24873,7 +24873,7 @@
     "precio6": "225.00",
     "precio": "265.00",
     "precio1": "265.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 6
   },
   {
     "id": 2033,
@@ -25071,7 +25071,7 @@
     "precio6": "62.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 31
+    "cantidad_disponible": 25
   },
   {
     "id": 2044,
@@ -25449,7 +25449,7 @@
     "precio6": "175.00",
     "precio": "200.00",
     "precio1": "200.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 15
   },
   {
     "id": 2065,
@@ -25557,7 +25557,7 @@
     "precio6": "23.00",
     "precio": "50.00",
     "precio1": "50.00",
-    "cantidad_disponible": 45
+    "cantidad_disponible": 21
   },
   {
     "id": 2071,
@@ -25647,7 +25647,7 @@
     "precio6": "7300.00",
     "precio": "7400.00",
     "precio1": "7400.00",
-    "cantidad_disponible": 9
+    "cantidad_disponible": 5
   },
   {
     "id": 2076,
@@ -25755,7 +25755,7 @@
     "precio6": "13.00",
     "precio": "40.00",
     "precio1": "40.00",
-    "cantidad_disponible": 15
+    "cantidad_disponible": 12
   },
   {
     "id": 2082,
@@ -26565,7 +26565,7 @@
     "precio6": "318.00",
     "precio": "370.00",
     "precio1": "370.00",
-    "cantidad_disponible": 24
+    "cantidad_disponible": 23
   },
   {
     "id": 2127,
@@ -26673,7 +26673,7 @@
     "precio6": "145.00",
     "precio": "185.00",
     "precio1": "185.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 3
   },
   {
     "id": 2133,
@@ -26799,7 +26799,7 @@
     "precio6": "120.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 7
   },
   {
     "id": 2140,
@@ -26961,7 +26961,7 @@
     "precio6": "42.00",
     "precio": "85.00",
     "precio1": "85.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 11
   },
   {
     "id": 2149,
@@ -27303,7 +27303,7 @@
     "precio6": "450.00",
     "precio": "490.00",
     "precio1": "490.00",
-    "cantidad_disponible": 48
+    "cantidad_disponible": 47
   },
   {
     "id": 2169,
@@ -27753,7 +27753,7 @@
     "precio6": "230.00",
     "precio": "300.00",
     "precio1": "300.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 4
   },
   {
     "id": 2194,
@@ -28005,7 +28005,7 @@
     "precio6": "115.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 14
+    "cantidad_disponible": 13
   },
   {
     "id": 2209,
@@ -28329,7 +28329,7 @@
     "precio6": "320.00",
     "precio": "355.00",
     "precio1": "355.00",
-    "cantidad_disponible": 13
+    "cantidad_disponible": 11
   },
   {
     "id": 2227,
@@ -28545,7 +28545,7 @@
     "precio6": "460.00",
     "precio": "510.00",
     "precio1": "510.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 2239,
@@ -28563,7 +28563,7 @@
     "precio6": "430.00",
     "precio": "470.00",
     "precio1": "470.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 3
   },
   {
     "id": 2240,
@@ -28635,7 +28635,7 @@
     "precio6": "65.00",
     "precio": "115.00",
     "precio1": "115.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 11
   },
   {
     "id": 2244,
@@ -28653,7 +28653,7 @@
     "precio6": "435.00",
     "precio": "480.00",
     "precio1": "480.00",
-    "cantidad_disponible": 11
+    "cantidad_disponible": 10
   },
   {
     "id": 2245,
@@ -28671,7 +28671,7 @@
     "precio6": "360.00",
     "precio": "400.00",
     "precio1": "400.00",
-    "cantidad_disponible": 9
+    "cantidad_disponible": 10
   },
   {
     "id": 2246,

@@ -181,7 +181,7 @@ function createProductCardElement(product) {
             : '';
 
     const precioMinimo =
-        Number(product.precio6).toFixed(2);
+        Number(product.precio5).toFixed(2);
 
     const precioMaximo =
         Number(product.precio1).toFixed(2);

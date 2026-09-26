@@ -180,11 +180,14 @@ function createProductCardElement(product) {
             ? `<span class="product-badge-new-stock">Nuevo</span>`
             : '';
 
-    const precioMinimo =
-        Number(product.precio5).toFixed(2);
+    const precio3 =
+        Number(product.precio3).toFixed(2);
 
-    const precioMaximo =
-        Number(product.precio1).toFixed(2);
+    const precio4 =
+        Number(product.precio4).toFixed(2);
+
+    const precio5 =
+        Number(product.precio5).toFixed(2);
 
     article.innerHTML = `
         <div class="product-media">
@@ -207,12 +210,16 @@ function createProductCardElement(product) {
 
             <div class="product-price-tags">
 
-                <span class="price-tag price-tag--max">
-                    Bs ${precioMaximo}
+                <span class="price-tag price-tag--green">
+                    Bs ${precio3}
                 </span>
 
-                <span class="price-tag price-tag--min">
-                    Bs ${precioMinimo}
+                <span class="price-tag price-tag--orange">
+                    Bs ${precio4}
+                </span>
+
+                <span class="price-tag price-tag--red">
+                    Bs ${precio5}
                 </span>
 
             </div>

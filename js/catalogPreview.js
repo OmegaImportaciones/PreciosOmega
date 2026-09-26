@@ -1,7 +1,7 @@
 /* =========================================================
    CATÁLOGO (PREVIEW EN HOME) — CARRUSEL INFORMATIVO CON EL
    DATASET COMPLETO DEL CATÁLOGO (products.json), MOSTRANDO
-   EL RANGO DE PRECIO (precio6 mínimo – precio1 máximo).
+   PRECIO3 (verde), PRECIO4 (naranja) Y PRECIO5 (rojo).
 ========================================================= */
 
 
@@ -212,11 +212,14 @@ function buildCatalogPreviewCard(product) {
             ? '🆕 Nuevo'
             : '🛒 Catálogo';
 
-    const precioMinimo =
-        Number(product.precio6).toFixed(2);
+    const precio3 =
+        Number(product.precio3).toFixed(2);
 
-    const precioMaximo =
-        Number(product.precio1).toFixed(2);
+    const precio4 =
+        Number(product.precio4).toFixed(2);
+
+    const precio5 =
+        Number(product.precio5).toFixed(2);
 
     card.innerHTML = `
 
@@ -237,12 +240,16 @@ function buildCatalogPreviewCard(product) {
 
             <div class="carousel-price-tags">
 
-                <span class="price-tag price-tag--max">
-                    Bs ${precioMaximo}
+                <span class="price-tag price-tag--green">
+                    Bs ${precio3}
                 </span>
 
-                <span class="price-tag price-tag--min">
-                    Bs ${precioMinimo}
+                <span class="price-tag price-tag--orange">
+                    Bs ${precio4}
+                </span>
+
+                <span class="price-tag price-tag--red">
+                    Bs ${precio5}
                 </span>
 
             </div>

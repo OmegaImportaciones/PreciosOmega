@@ -211,8 +211,7 @@
 
 /* =========================
    PRECIOS (chips tipo botón)
-   Verde = precio más alto (venta individual)
-   Naranja = precio más bajo (compra por mayor)
+   Verde = precio3, Naranja = precio4, Rojo = precio5
 ========================= */
 
 .product-price-tags {
@@ -253,15 +252,21 @@
 
 }
 
-.price-tag--max {
+.price-tag--green {
 
     background: var(--system-green);
 
 }
 
-.price-tag--min {
+.price-tag--orange {
 
     background: var(--system-orange);
+
+}
+
+.price-tag--red {
+
+    background: var(--system-red);
 
 }
 

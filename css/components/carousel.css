@@ -281,9 +281,9 @@
 
 /* =========================
    PRICE TAGS (chips)
-   Reutiliza .price-tag / .price-tag--max / .price-tag--min
-   definidos en pages/catalog/products.css (verde = precio
-   más alto, naranja = precio más bajo / mayorista).
+   Reutiliza .price-tag / .price-tag--green / .price-tag--orange
+   / .price-tag--red definidos en pages/catalog/products.css
+   (precio3, precio4, precio5 respectivamente).
 ========================= */
 
 .carousel-price-tags {

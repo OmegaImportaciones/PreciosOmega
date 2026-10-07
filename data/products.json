@@ -87,7 +87,7 @@
     "precio6": "240.00",
     "precio": "270.00",
     "precio1": "270.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 3
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@
     "precio6": "118.00",
     "precio": "180.00",
     "precio1": "180.00",
-    "cantidad_disponible": 10
+    "cantidad_disponible": 7
   },
   {
     "id": 21,
@@ -321,7 +321,7 @@
     "precio6": "69.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 37
+    "cantidad_disponible": 28
   },
   {
     "id": 45,
@@ -411,7 +411,7 @@
     "precio6": "210.00",
     "precio": "280.00",
     "precio1": "280.00",
-    "cantidad_disponible": 18
+    "cantidad_disponible": 9
   },
   {
     "id": 56,
@@ -807,7 +807,7 @@
     "precio6": "26.00",
     "precio": "45.00",
     "precio1": "45.00",
-    "cantidad_disponible": 54
+    "cantidad_disponible": 52
   },
   {
     "id": 106,
@@ -1077,7 +1077,7 @@
     "precio6": "102.00",
     "precio": "130.00",
     "precio1": "130.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 2
   },
   {
     "id": 130,
@@ -1203,7 +1203,7 @@
     "precio6": "115.00",
     "precio": "145.00",
     "precio1": "145.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 140,
@@ -1419,7 +1419,7 @@
     "precio6": "8.00",
     "precio": "31.00",
     "precio1": "31.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 7
   },
   {
     "id": 159,
@@ -1527,7 +1527,7 @@
     "precio6": "150.00",
     "precio": "220.00",
     "precio1": "220.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 5
   },
   {
     "id": 173,
@@ -1887,7 +1887,7 @@
     "precio6": "40.00",
     "precio": "65.00",
     "precio1": "65.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 5
   },
   {
     "id": 231,
@@ -2157,7 +2157,7 @@
     "precio6": "34.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 11
   },
   {
     "id": 251,
@@ -2877,7 +2877,7 @@
     "precio6": "51.00",
     "precio": "70.00",
     "precio1": "70.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 5
   },
   {
     "id": 325,
@@ -3309,7 +3309,7 @@
     "precio6": "18.00",
     "precio": "52.00",
     "precio1": "52.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 2
   },
   {
     "id": 388,
@@ -3579,7 +3579,7 @@
     "precio6": "87.00",
     "precio": "140.00",
     "precio1": "140.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 2
   },
   {
     "id": 423,
@@ -3615,7 +3615,7 @@
     "precio6": "260.00",
     "precio": "315.00",
     "precio1": "315.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 4
   },
   {
     "id": 426,
@@ -3813,7 +3813,7 @@
     "precio6": "1.00",
     "precio": "105.00",
     "precio1": "105.00",
-    "cantidad_disponible": 647
+    "cantidad_disponible": 645
   },
   {
     "id": 452,
@@ -4317,7 +4317,7 @@
     "precio6": "200.00",
     "precio": "255.00",
     "precio1": "255.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 2
   },
   {
     "id": 526,
@@ -5145,7 +5145,7 @@
     "precio6": "187.00",
     "precio": "225.00",
     "precio1": "225.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 718,
@@ -5433,7 +5433,7 @@
     "precio6": "220.00",
     "precio": "265.00",
     "precio1": "265.00",
-    "cantidad_disponible": 15
+    "cantidad_disponible": 14
   },
   {
     "id": 750,
@@ -5541,7 +5541,7 @@
     "precio6": "115.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 14
+    "cantidad_disponible": 12
   },
   {
     "id": 761,
@@ -5721,7 +5721,7 @@
     "precio6": "25.00",
     "precio": "55.00",
     "precio1": "55.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 0
   },
   {
     "id": 786,
@@ -6794,14 +6794,14 @@
     "producto": "REPETIDOR DE WIFI XIAOMI DUAL BAND AC1200",
     "minimo": 5,
     "estado": 1,
-    "precio2": "280.00",
-    "precio3": "275.00",
-    "precio4": "270.00",
-    "precio5": "250.00",
-    "precio6": "247.00",
-    "precio": "285.00",
-    "precio1": "285.00",
-    "cantidad_disponible": 16
+    "precio2": "275.00",
+    "precio3": "270.00",
+    "precio4": "265.00",
+    "precio5": "245.00",
+    "precio6": "243.00",
+    "precio": "280.00",
+    "precio1": "280.00",
+    "cantidad_disponible": 9
   },
   {
     "id": 878,
@@ -6873,7 +6873,7 @@
     "precio6": "146.00",
     "precio": "146.00",
     "precio1": "146.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 882,
@@ -6963,7 +6963,7 @@
     "precio6": "100.00",
     "precio": "140.00",
     "precio1": "140.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 0
   },
   {
     "id": 889,
@@ -7269,7 +7269,7 @@
     "precio6": "10.00",
     "precio": "35.00",
     "precio1": "35.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 6
   },
   {
     "id": 916,
@@ -9231,7 +9231,7 @@
     "precio6": "2495.00",
     "precio": "2580.00",
     "precio1": "2580.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1060,
@@ -9555,7 +9555,7 @@
     "precio6": "40.00",
     "precio": "70.00",
     "precio1": "70.00",
-    "cantidad_disponible": 24
+    "cantidad_disponible": 14
   },
   {
     "id": 1080,
@@ -9861,7 +9861,7 @@
     "precio6": "32.00",
     "precio": "85.00",
     "precio1": "85.00",
-    "cantidad_disponible": 31
+    "cantidad_disponible": 30
   },
   {
     "id": 1103,
@@ -11049,7 +11049,7 @@
     "precio6": "310.00",
     "precio": "350.00",
     "precio1": "350.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 10
   },
   {
     "id": 1210,
@@ -11355,7 +11355,7 @@
     "precio6": "660.00",
     "precio": "690.00",
     "precio1": "690.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 0
   },
   {
     "id": 1228,
@@ -11787,7 +11787,7 @@
     "precio6": "30.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 6
   },
   {
     "id": 1263,
@@ -12741,7 +12741,7 @@
     "precio6": "87.00",
     "precio": "115.00",
     "precio1": "115.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 3
   },
   {
     "id": 1328,
@@ -12831,7 +12831,7 @@
     "precio6": "530.00",
     "precio": "580.00",
     "precio1": "580.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1335,
@@ -12975,7 +12975,7 @@
     "precio6": "209.00",
     "precio": "282.00",
     "precio1": "282.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 6
   },
   {
     "id": 1346,
@@ -13245,7 +13245,7 @@
     "precio6": "44.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 2
   },
   {
     "id": 1364,
@@ -13353,7 +13353,7 @@
     "precio6": "12.00",
     "precio": "30.00",
     "precio1": "30.00",
-    "cantidad_disponible": 24
+    "cantidad_disponible": 23
   },
   {
     "id": 1371,
@@ -13371,7 +13371,7 @@
     "precio6": "248.00",
     "precio": "300.00",
     "precio1": "300.00",
-    "cantidad_disponible": 30
+    "cantidad_disponible": 23
   },
   {
     "id": 1372,
@@ -14055,7 +14055,7 @@
     "precio6": "115.00",
     "precio": "180.00",
     "precio1": "180.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1413,
@@ -14595,7 +14595,7 @@
     "precio6": "215.00",
     "precio": "260.00",
     "precio1": "260.00",
-    "cantidad_disponible": 10
+    "cantidad_disponible": 9
   },
   {
     "id": 1447,
@@ -14937,7 +14937,7 @@
     "precio6": "8.00",
     "precio": "25.00",
     "precio1": "25.00",
-    "cantidad_disponible": 93
+    "cantidad_disponible": 90
   },
   {
     "id": 1468,
@@ -15927,7 +15927,7 @@
     "precio6": "570.00",
     "precio": "610.00",
     "precio1": "610.00",
-    "cantidad_disponible": 11
+    "cantidad_disponible": 9
   },
   {
     "id": 1529,
@@ -16100,13 +16100,13 @@
     "producto": "CABLE USB IPHONE LIGTHNING CAJA BLANCA",
     "minimo": 10,
     "estado": 1,
-    "precio2": "55.00",
-    "precio3": "52.00",
-    "precio4": "48.00",
-    "precio5": "20.00",
-    "precio6": "19.00",
-    "precio": "58.00",
-    "precio1": "58.00",
+    "precio2": "35.00",
+    "precio3": "30.00",
+    "precio4": "25.00",
+    "precio5": "15.00",
+    "precio6": "13.00",
+    "precio": "40.00",
+    "precio1": "40.00",
     "cantidad_disponible": 12
   },
   {
@@ -16377,7 +16377,7 @@
     "precio6": "725.00",
     "precio": "770.00",
     "precio1": "770.00",
-    "cantidad_disponible": 17
+    "cantidad_disponible": 16
   },
   {
     "id": 1554,
@@ -16431,7 +16431,7 @@
     "precio6": "445.00",
     "precio": "490.00",
     "precio1": "490.00",
-    "cantidad_disponible": 10
+    "cantidad_disponible": 9
   },
   {
     "id": 1557,
@@ -16442,14 +16442,14 @@
     "producto": "CABLE LELONG 3 EN 1 V8 TIPO C Y LIGHTNING LE-662",
     "minimo": 10,
     "estado": 1,
-    "precio2": "42.00",
-    "precio3": "37.00",
-    "precio4": "31.00",
+    "precio2": "35.00",
+    "precio3": "30.00",
+    "precio4": "28.00",
     "precio5": "20.00",
     "precio6": "19.00",
-    "precio": "48.00",
-    "precio1": "48.00",
-    "cantidad_disponible": 82
+    "precio": "40.00",
+    "precio1": "40.00",
+    "cantidad_disponible": 81
   },
   {
     "id": 1558,
@@ -16737,7 +16737,7 @@
     "precio6": "120.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1575,
@@ -16971,7 +16971,7 @@
     "precio6": "90.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 4
   },
   {
     "id": 1589,
@@ -17205,7 +17205,7 @@
     "precio6": "105.00",
     "precio": "140.00",
     "precio1": "140.00",
-    "cantidad_disponible": 0
+    "cantidad_disponible": 1
   },
   {
     "id": 1603,
@@ -17241,7 +17241,7 @@
     "precio6": "310.00",
     "precio": "360.00",
     "precio1": "360.00",
-    "cantidad_disponible": 23
+    "cantidad_disponible": 18
   },
   {
     "id": 1605,
@@ -17511,7 +17511,7 @@
     "precio6": "155.00",
     "precio": "200.00",
     "precio1": "200.00",
-    "cantidad_disponible": 21
+    "cantidad_disponible": 12
   },
   {
     "id": 1620,
@@ -18015,7 +18015,7 @@
     "precio6": "115.00",
     "precio": "155.00",
     "precio1": "155.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 1648,
@@ -18141,7 +18141,7 @@
     "precio6": "59.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 23
+    "cantidad_disponible": 21
   },
   {
     "id": 1655,
@@ -18537,7 +18537,7 @@
     "precio6": "48.00",
     "precio": "79.00",
     "precio1": "79.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 0
   },
   {
     "id": 1677,
@@ -18681,7 +18681,7 @@
     "precio6": "225.00",
     "precio": "280.00",
     "precio1": "280.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 2
   },
   {
     "id": 1685,
@@ -18825,7 +18825,7 @@
     "precio6": "30.00",
     "precio": "55.00",
     "precio1": "55.00",
-    "cantidad_disponible": 41
+    "cantidad_disponible": 33
   },
   {
     "id": 1693,
@@ -19023,7 +19023,7 @@
     "precio6": "105.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 45
+    "cantidad_disponible": 41
   },
   {
     "id": 1704,
@@ -19329,7 +19329,7 @@
     "precio6": "564.00",
     "precio": "610.00",
     "precio1": "610.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 3
   },
   {
     "id": 1721,
@@ -19664,13 +19664,13 @@
     "producto": "CABLE IPHONE LIGHTNING PSS-CB423 1M",
     "minimo": 10,
     "estado": 1,
-    "precio2": "40.00",
-    "precio3": "35.00",
-    "precio4": "30.00",
-    "precio5": "17.00",
-    "precio6": "15.00",
-    "precio": "45.00",
-    "precio1": "45.00",
+    "precio2": "35.00",
+    "precio3": "30.00",
+    "precio4": "25.00",
+    "precio5": "15.00",
+    "precio6": "13.00",
+    "precio": "40.00",
+    "precio1": "40.00",
     "cantidad_disponible": 21
   },
   {
@@ -19880,13 +19880,13 @@
     "producto": "SOPORTE GIMBAL 3 EJES SK062",
     "minimo": 10,
     "estado": 1,
-    "precio2": "897.00",
-    "precio3": "884.00",
-    "precio4": "870.00",
-    "precio5": "783.00",
-    "precio6": "776.00",
-    "precio": "909.00",
-    "precio1": "909.00",
+    "precio2": "720.00",
+    "precio3": "710.00",
+    "precio4": "700.00",
+    "precio5": "650.00",
+    "precio6": "645.00",
+    "precio": "730.00",
+    "precio1": "730.00",
     "cantidad_disponible": 1
   },
   {
@@ -20265,7 +20265,7 @@
     "precio6": "490.00",
     "precio": "560.00",
     "precio1": "560.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 1774,
@@ -20301,7 +20301,7 @@
     "precio6": "825.00",
     "precio": "850.00",
     "precio1": "850.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 2
   },
   {
     "id": 1776,
@@ -20499,7 +20499,7 @@
     "precio6": "75.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 1
   },
   {
     "id": 1787,
@@ -20517,7 +20517,7 @@
     "precio6": "50.00",
     "precio": "80.00",
     "precio1": "80.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1788,
@@ -20733,7 +20733,7 @@
     "precio6": "44.00",
     "precio": "85.00",
     "precio1": "85.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 4
   },
   {
     "id": 1800,
@@ -20769,7 +20769,7 @@
     "precio6": "395.00",
     "precio": "470.00",
     "precio1": "470.00",
-    "cantidad_disponible": 0
+    "cantidad_disponible": 1
   },
   {
     "id": 1802,
@@ -20834,14 +20834,14 @@
     "producto": "PARLANTE BLUETOOTH JBL CHARGE 6",
     "minimo": 10,
     "estado": 1,
-    "precio2": "1490.00",
-    "precio3": "1480.00",
-    "precio4": "1470.00",
-    "precio5": "1450.00",
-    "precio6": "1445.00",
-    "precio": "1500.00",
-    "precio1": "1500.00",
-    "cantidad_disponible": 21
+    "precio2": "1480.00",
+    "precio3": "1470.00",
+    "precio4": "1460.00",
+    "precio5": "1430.00",
+    "precio6": "1425.00",
+    "precio": "1490.00",
+    "precio1": "1490.00",
+    "cantidad_disponible": 13
   },
   {
     "id": 1806,
@@ -20895,7 +20895,7 @@
     "precio6": "29.00",
     "precio": "70.00",
     "precio1": "70.00",
-    "cantidad_disponible": 17
+    "cantidad_disponible": 15
   },
   {
     "id": 1809,
@@ -20913,7 +20913,7 @@
     "precio6": "523.00",
     "precio": "545.00",
     "precio1": "545.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 11
   },
   {
     "id": 1810,
@@ -20967,7 +20967,7 @@
     "precio6": "735.00",
     "precio": "800.00",
     "precio1": "800.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1813,
@@ -21039,7 +21039,7 @@
     "precio6": "28.00",
     "precio": "58.00",
     "precio1": "58.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 1817,
@@ -21111,7 +21111,7 @@
     "precio6": "870.00",
     "precio": "960.00",
     "precio1": "960.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 8
   },
   {
     "id": 1821,
@@ -21122,14 +21122,14 @@
     "producto": "CABLE TIPO C A TIPO C LELONG 60W LE-678CC y LE.692CC",
     "minimo": 10,
     "estado": 1,
-    "precio2": "55.00",
-    "precio3": "50.00",
-    "precio4": "45.00",
-    "precio5": "18.00",
-    "precio6": "17.00",
-    "precio": "60.00",
-    "precio1": "60.00",
-    "cantidad_disponible": 3
+    "precio2": "45.00",
+    "precio3": "40.00",
+    "precio4": "35.00",
+    "precio5": "15.00",
+    "precio6": "14.00",
+    "precio": "50.00",
+    "precio1": "50.00",
+    "cantidad_disponible": 2
   },
   {
     "id": 1822,
@@ -21327,7 +21327,7 @@
     "precio6": "270.00",
     "precio": "300.00",
     "precio1": "300.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 2
   },
   {
     "id": 1833,
@@ -21518,13 +21518,13 @@
     "producto": "GIMBAL 3 EJES CON MICROFONO Y CAMARA TOKQI M03",
     "minimo": 10,
     "estado": 1,
-    "precio2": "1348.00",
-    "precio3": "1338.00",
-    "precio4": "1327.00",
-    "precio5": "1296.00",
-    "precio6": "1291.00",
-    "precio": "1359.00",
-    "precio1": "1359.00",
+    "precio2": "1290.00",
+    "precio3": "1280.00",
+    "precio4": "1270.00",
+    "precio5": "1240.00",
+    "precio6": "1235.00",
+    "precio": "1300.00",
+    "precio1": "1300.00",
     "cantidad_disponible": 0
   },
   {
@@ -21698,14 +21698,14 @@
     "producto": "XIAOMI TV STICK 2ND GENERACION 4K",
     "minimo": 10,
     "estado": 1,
-    "precio2": "665.00",
-    "precio3": "660.00",
-    "precio4": "655.00",
-    "precio5": "642.00",
-    "precio6": "640.00",
-    "precio": "670.00",
-    "precio1": "670.00",
-    "cantidad_disponible": 19
+    "precio2": "655.00",
+    "precio3": "650.00",
+    "precio4": "645.00",
+    "precio5": "633.00",
+    "precio6": "630.00",
+    "precio": "660.00",
+    "precio1": "660.00",
+    "cantidad_disponible": 18
   },
   {
     "id": 1854,
@@ -21723,7 +21723,7 @@
     "precio6": "3060.00",
     "precio": "3120.00",
     "precio1": "3120.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1855,
@@ -21795,7 +21795,7 @@
     "precio6": "175.00",
     "precio": "205.00",
     "precio1": "205.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1859,
@@ -21885,7 +21885,7 @@
     "precio6": "148.00",
     "precio": "190.00",
     "precio1": "190.00",
-    "cantidad_disponible": 9
+    "cantidad_disponible": 8
   },
   {
     "id": 1864,
@@ -21939,7 +21939,7 @@
     "precio6": "175.00",
     "precio": "200.00",
     "precio1": "200.00",
-    "cantidad_disponible": 11
+    "cantidad_disponible": 10
   },
   {
     "id": 1867,
@@ -22299,7 +22299,7 @@
     "precio6": "68.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 9
   },
   {
     "id": 1888,
@@ -22364,13 +22364,13 @@
     "producto": "PROYECTOR XIAOMI L1 EU",
     "minimo": 10,
     "estado": 1,
-    "precio2": "2140.00",
-    "precio3": "2130.00",
-    "precio4": "2120.00",
-    "precio5": "2075.00",
-    "precio6": "2070.00",
-    "precio": "2150.00",
-    "precio1": "2150.00",
+    "precio2": "2120.00",
+    "precio3": "2110.00",
+    "precio4": "2100.00",
+    "precio5": "2070.00",
+    "precio6": "2065.00",
+    "precio": "2130.00",
+    "precio1": "2130.00",
     "cantidad_disponible": 0
   },
   {
@@ -22389,7 +22389,7 @@
     "precio6": "273.00",
     "precio": "300.00",
     "precio1": "300.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1894,
@@ -22544,13 +22544,13 @@
     "producto": "LUZ DECORATIVA DE PARED AGUILA RECARGABLE LELONG LE-ZT523",
     "minimo": 10,
     "estado": 1,
-    "precio2": "152.00",
-    "precio3": "146.00",
-    "precio4": "142.00",
-    "precio5": "121.00",
-    "precio6": "118.00",
-    "precio": "157.00",
-    "precio1": "157.00",
+    "precio2": "145.00",
+    "precio3": "140.00",
+    "precio4": "135.00",
+    "precio5": "120.00",
+    "precio6": "115.00",
+    "precio": "150.00",
+    "precio1": "150.00",
     "cantidad_disponible": 11
   },
   {
@@ -22569,7 +22569,7 @@
     "precio6": "48.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 23
+    "cantidad_disponible": 27
   },
   {
     "id": 1904,
@@ -22634,13 +22634,13 @@
     "producto": "CABLE AGRANEL LIGHTNING IPHONE DE 1.20M LELONG LE-654L",
     "minimo": 10,
     "estado": 1,
-    "precio2": "35.00",
-    "precio3": "30.00",
-    "precio4": "25.00",
-    "precio5": "12.00",
+    "precio2": "30.00",
+    "precio3": "25.00",
+    "precio4": "20.00",
+    "precio5": "11.00",
     "precio6": "10.00",
-    "precio": "40.00",
-    "precio1": "40.00",
+    "precio": "35.00",
+    "precio1": "35.00",
     "cantidad_disponible": 334
   },
   {
@@ -22677,7 +22677,7 @@
     "precio6": "418.00",
     "precio": "440.00",
     "precio1": "440.00",
-    "cantidad_disponible": 5
+    "cantidad_disponible": 7
   },
   {
     "id": 1910,
@@ -22706,13 +22706,13 @@
     "producto": "ADAPTADOR DE LIGHTNING A JACK 3.5 CON CARGA KNUP KP-AD001",
     "minimo": 10,
     "estado": 1,
-    "precio2": "35.00",
-    "precio3": "30.00",
+    "precio2": "28.00",
+    "precio3": "25.00",
     "precio4": "25.00",
     "precio5": "20.00",
     "precio6": "18.00",
-    "precio": "40.00",
-    "precio1": "40.00",
+    "precio": "30.00",
+    "precio1": "30.00",
     "cantidad_disponible": 137
   },
   {
@@ -22785,7 +22785,7 @@
     "precio6": "90.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 51
+    "cantidad_disponible": 54
   },
   {
     "id": 1916,
@@ -22929,7 +22929,7 @@
     "precio6": "148.00",
     "precio": "199.00",
     "precio1": "199.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 2
   },
   {
     "id": 1924,
@@ -23217,7 +23217,7 @@
     "precio6": "309.00",
     "precio": "330.00",
     "precio1": "330.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1940,
@@ -23235,7 +23235,7 @@
     "precio6": "140.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 13
+    "cantidad_disponible": 17
   },
   {
     "id": 1941,
@@ -23318,14 +23318,14 @@
     "producto": "AUDIFONO PARA SORDERA TOMATE TO-ZT2422",
     "minimo": 10,
     "estado": 1,
-    "precio2": "135.00",
-    "precio3": "130.00",
-    "precio4": "125.00",
-    "precio5": "95.00",
-    "precio6": "90.00",
-    "precio": "140.00",
-    "precio1": "140.00",
-    "cantidad_disponible": 1
+    "precio2": "145.00",
+    "precio3": "140.00",
+    "precio4": "135.00",
+    "precio5": "100.00",
+    "precio6": "98.00",
+    "precio": "150.00",
+    "precio1": "150.00",
+    "cantidad_disponible": 6
   },
   {
     "id": 1946,
@@ -23469,7 +23469,7 @@
     "precio6": "145.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 11
+    "cantidad_disponible": 7
   },
   {
     "id": 1954,
@@ -24022,7 +24022,7 @@
     "estado": 1,
     "precio2": "45.00",
     "precio3": "40.00",
-    "precio4": "38.00",
+    "precio4": "35.00",
     "precio5": "30.00",
     "precio6": "27.00",
     "precio": "50.00",
@@ -24153,7 +24153,7 @@
     "precio6": "605.00",
     "precio": "670.00",
     "precio1": "670.00",
-    "cantidad_disponible": 15
+    "cantidad_disponible": 14
   },
   {
     "id": 1993,
@@ -24243,7 +24243,7 @@
     "precio6": "760.00",
     "precio": "810.00",
     "precio1": "810.00",
-    "cantidad_disponible": 24
+    "cantidad_disponible": 22
   },
   {
     "id": 1998,
@@ -24369,7 +24369,7 @@
     "precio6": "107.00",
     "precio": "145.00",
     "precio1": "145.00",
-    "cantidad_disponible": 9
+    "cantidad_disponible": 7
   },
   {
     "id": 2005,
@@ -24855,7 +24855,7 @@
     "precio6": "245.00",
     "precio": "290.00",
     "precio1": "290.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 4
   },
   {
     "id": 2032,
@@ -25053,7 +25053,7 @@
     "precio6": "225.00",
     "precio": "255.00",
     "precio1": "255.00",
-    "cantidad_disponible": 11
+    "cantidad_disponible": 10
   },
   {
     "id": 2043,
@@ -25071,7 +25071,7 @@
     "precio6": "62.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 25
+    "cantidad_disponible": 23
   },
   {
     "id": 2044,
@@ -25089,7 +25089,7 @@
     "precio6": "135.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 22
+    "cantidad_disponible": 20
   },
   {
     "id": 2045,
@@ -25215,7 +25215,7 @@
     "precio6": "117.00",
     "precio": "150.00",
     "precio1": "150.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 0
   },
   {
     "id": 2052,
@@ -25287,7 +25287,7 @@
     "precio6": "82.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 36
+    "cantidad_disponible": 35
   },
   {
     "id": 2056,
@@ -25323,7 +25323,7 @@
     "precio6": "180.00",
     "precio": "230.00",
     "precio1": "230.00",
-    "cantidad_disponible": 23
+    "cantidad_disponible": 18
   },
   {
     "id": 2058,
@@ -25341,7 +25341,7 @@
     "precio6": "230.00",
     "precio": "260.00",
     "precio1": "260.00",
-    "cantidad_disponible": 29
+    "cantidad_disponible": 22
   },
   {
     "id": 2059,
@@ -25449,7 +25449,7 @@
     "precio6": "175.00",
     "precio": "200.00",
     "precio1": "200.00",
-    "cantidad_disponible": 15
+    "cantidad_disponible": 10
   },
   {
     "id": 2065,
@@ -25467,7 +25467,7 @@
     "precio6": "185.00",
     "precio": "230.00",
     "precio1": "230.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 2066,
@@ -25485,7 +25485,7 @@
     "precio6": "145.00",
     "precio": "190.00",
     "precio1": "190.00",
-    "cantidad_disponible": 19
+    "cantidad_disponible": 16
   },
   {
     "id": 2067,
@@ -25521,7 +25521,7 @@
     "precio6": "37.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 23
+    "cantidad_disponible": 22
   },
   {
     "id": 2069,
@@ -25755,7 +25755,7 @@
     "precio6": "13.00",
     "precio": "40.00",
     "precio1": "40.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 10
   },
   {
     "id": 2082,
@@ -25773,7 +25773,7 @@
     "precio6": "26.00",
     "precio": "70.00",
     "precio1": "70.00",
-    "cantidad_disponible": 14
+    "cantidad_disponible": 12
   },
   {
     "id": 2083,
@@ -25856,14 +25856,14 @@
     "producto": "CORTADORA DE PELO RECARGABLE KNUP QR-071",
     "minimo": 10,
     "estado": 1,
-    "precio2": "105.00",
-    "precio3": "100.00",
-    "precio4": "95.00",
-    "precio5": "68.00",
-    "precio6": "65.00",
-    "precio": "110.00",
-    "precio1": "110.00",
-    "cantidad_disponible": 15
+    "precio2": "95.00",
+    "precio3": "90.00",
+    "precio4": "85.00",
+    "precio5": "65.00",
+    "precio6": "62.00",
+    "precio": "100.00",
+    "precio1": "100.00",
+    "cantidad_disponible": 14
   },
   {
     "id": 2088,
@@ -25899,7 +25899,7 @@
     "precio6": "70.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 2090,
@@ -25935,7 +25935,7 @@
     "precio6": "48.00",
     "precio": "75.00",
     "precio1": "75.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 2092,
@@ -26097,7 +26097,7 @@
     "precio6": "325.00",
     "precio": "370.00",
     "precio1": "370.00",
-    "cantidad_disponible": 24
+    "cantidad_disponible": 20
   },
   {
     "id": 2101,
@@ -26115,7 +26115,7 @@
     "precio6": "185.00",
     "precio": "220.00",
     "precio1": "220.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 2
   },
   {
     "id": 2102,
@@ -26126,13 +26126,13 @@
     "producto": "IMPRESORA TERMICA DE ETIQUETAS TOMATE T-IM5001",
     "minimo": 10,
     "estado": 1,
-    "precio2": "375.00",
-    "precio3": "370.00",
-    "precio4": "365.00",
-    "precio5": "340.00",
-    "precio6": "335.00",
-    "precio": "380.00",
-    "precio1": "380.00",
+    "precio2": "405.00",
+    "precio3": "400.00",
+    "precio4": "395.00",
+    "precio5": "350.00",
+    "precio6": "345.00",
+    "precio": "410.00",
+    "precio1": "410.00",
     "cantidad_disponible": 15
   },
   {
@@ -26205,7 +26205,7 @@
     "precio6": "35.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 5
+    "cantidad_disponible": 3
   },
   {
     "id": 2107,
@@ -26223,7 +26223,7 @@
     "precio6": "190.00",
     "precio": "250.00",
     "precio1": "250.00",
-    "cantidad_disponible": 24
+    "cantidad_disponible": 26
   },
   {
     "id": 2108,
@@ -26241,7 +26241,7 @@
     "precio6": "16.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 15
+    "cantidad_disponible": 14
   },
   {
     "id": 2109,
@@ -26277,7 +26277,7 @@
     "precio6": "16.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 14
+    "cantidad_disponible": 13
   },
   {
     "id": 2111,
@@ -26331,7 +26331,7 @@
     "precio6": "65.00",
     "precio": "110.00",
     "precio1": "110.00",
-    "cantidad_disponible": 47
+    "cantidad_disponible": 45
   },
   {
     "id": 2114,
@@ -26385,7 +26385,7 @@
     "precio6": "205.00",
     "precio": "270.00",
     "precio1": "270.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 5
   },
   {
     "id": 2117,
@@ -26403,7 +26403,7 @@
     "precio6": "108.00",
     "precio": "150.00",
     "precio1": "150.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 19
   },
   {
     "id": 2118,
@@ -26529,7 +26529,7 @@
     "precio6": "95.00",
     "precio": "145.00",
     "precio1": "145.00",
-    "cantidad_disponible": 0
+    "cantidad_disponible": 2
   },
   {
     "id": 2125,
@@ -26547,7 +26547,7 @@
     "precio6": "145.00",
     "precio": "185.00",
     "precio1": "185.00",
-    "cantidad_disponible": 22
+    "cantidad_disponible": 17
   },
   {
     "id": 2126,
@@ -26601,7 +26601,7 @@
     "precio6": "500.00",
     "precio": "580.00",
     "precio1": "580.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 5
   },
   {
     "id": 2129,
@@ -26655,7 +26655,7 @@
     "precio6": "117.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 17
+    "cantidad_disponible": 16
   },
   {
     "id": 2132,
@@ -26673,7 +26673,7 @@
     "precio6": "145.00",
     "precio": "185.00",
     "precio1": "185.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 6
   },
   {
     "id": 2133,
@@ -26691,7 +26691,7 @@
     "precio6": "25.00",
     "precio": "70.00",
     "precio1": "70.00",
-    "cantidad_disponible": 30
+    "cantidad_disponible": 14
   },
   {
     "id": 2134,
@@ -26835,7 +26835,7 @@
     "precio6": "88.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 11
   },
   {
     "id": 2142,
@@ -26889,7 +26889,7 @@
     "precio6": "352.00",
     "precio": "390.00",
     "precio1": "390.00",
-    "cantidad_disponible": 9
+    "cantidad_disponible": 8
   },
   {
     "id": 2145,
@@ -26925,7 +26925,7 @@
     "precio6": "290.00",
     "precio": "350.00",
     "precio1": "350.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 16
   },
   {
     "id": 2147,
@@ -26961,7 +26961,7 @@
     "precio6": "42.00",
     "precio": "85.00",
     "precio1": "85.00",
-    "cantidad_disponible": 11
+    "cantidad_disponible": 6
   },
   {
     "id": 2149,
@@ -27267,7 +27267,7 @@
     "precio6": "405.00",
     "precio": "470.00",
     "precio1": "470.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 2167,
@@ -27299,11 +27299,11 @@
     "precio2": "485.00",
     "precio3": "480.00",
     "precio4": "475.00",
-    "precio5": "455.00",
-    "precio6": "450.00",
+    "precio5": "450.00",
+    "precio6": "445.00",
     "precio": "490.00",
     "precio1": "490.00",
-    "cantidad_disponible": 45
+    "cantidad_disponible": 54
   },
   {
     "id": 2169,
@@ -27335,8 +27335,8 @@
     "precio2": "8060.00",
     "precio3": "8050.00",
     "precio4": "8040.00",
-    "precio5": "8000.00",
-    "precio6": "7990.00",
+    "precio5": "7980.00",
+    "precio6": "7970.00",
     "precio": "8070.00",
     "precio1": "8070.00",
     "cantidad_disponible": 0
@@ -27375,7 +27375,7 @@
     "precio6": "102.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 3
   },
   {
     "id": 2173,
@@ -27393,7 +27393,7 @@
     "precio6": "95.00",
     "precio": "150.00",
     "precio1": "150.00",
-    "cantidad_disponible": 36
+    "cantidad_disponible": 35
   },
   {
     "id": 2174,
@@ -27429,7 +27429,7 @@
     "precio6": "45.00",
     "precio": "110.00",
     "precio1": "110.00",
-    "cantidad_disponible": 21
+    "cantidad_disponible": 20
   },
   {
     "id": 2176,
@@ -27447,7 +27447,7 @@
     "precio6": "95.00",
     "precio": "155.00",
     "precio1": "155.00",
-    "cantidad_disponible": 21
+    "cantidad_disponible": 23
   },
   {
     "id": 2177,
@@ -27465,7 +27465,7 @@
     "precio6": "85.00",
     "precio": "130.00",
     "precio1": "130.00",
-    "cantidad_disponible": 13
+    "cantidad_disponible": 11
   },
   {
     "id": 2178,
@@ -27483,7 +27483,7 @@
     "precio6": "80.00",
     "precio": "150.00",
     "precio1": "150.00",
-    "cantidad_disponible": 37
+    "cantidad_disponible": 36
   },
   {
     "id": 2179,
@@ -27591,7 +27591,7 @@
     "precio6": "73.00",
     "precio": "110.00",
     "precio1": "110.00",
-    "cantidad_disponible": 45
+    "cantidad_disponible": 44
   },
   {
     "id": 2185,
@@ -27602,14 +27602,14 @@
     "producto": "MI TV STICK XIAOMI FHD 2da GENERACION",
     "minimo": 10,
     "estado": 1,
-    "precio2": "550.00",
-    "precio3": "545.00",
-    "precio4": "540.00",
-    "precio5": "527.00",
-    "precio6": "524.00",
-    "precio": "555.00",
-    "precio1": "555.00",
-    "cantidad_disponible": 16
+    "precio2": "545.00",
+    "precio3": "540.00",
+    "precio4": "535.00",
+    "precio5": "520.00",
+    "precio6": "518.00",
+    "precio": "550.00",
+    "precio1": "550.00",
+    "cantidad_disponible": 9
   },
   {
     "id": 2186,
@@ -27699,7 +27699,7 @@
     "precio6": "250.00",
     "precio": "310.00",
     "precio1": "310.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 11
   },
   {
     "id": 2191,
@@ -27735,7 +27735,7 @@
     "precio6": "15.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 77
+    "cantidad_disponible": 76
   },
   {
     "id": 2193,
@@ -27753,7 +27753,7 @@
     "precio6": "230.00",
     "precio": "300.00",
     "precio1": "300.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 2
   },
   {
     "id": 2194,
@@ -27789,7 +27789,7 @@
     "precio6": "56.00",
     "precio": "110.00",
     "precio1": "110.00",
-    "cantidad_disponible": 15
+    "cantidad_disponible": 13
   },
   {
     "id": 2196,
@@ -27807,7 +27807,7 @@
     "precio6": "28.00",
     "precio": "75.00",
     "precio1": "75.00",
-    "cantidad_disponible": 34
+    "cantidad_disponible": 32
   },
   {
     "id": 2197,
@@ -27836,14 +27836,14 @@
     "producto": "SMARTWATCH A CHIP SUPER AMOLED TOMATE T-TA0011",
     "minimo": 10,
     "estado": 1,
-    "precio2": "595.00",
-    "precio3": "590.00",
-    "precio4": "585.00",
-    "precio5": "565.00",
-    "precio6": "560.00",
-    "precio": "600.00",
-    "precio1": "600.00",
-    "cantidad_disponible": 60
+    "precio2": "585.00",
+    "precio3": "580.00",
+    "precio4": "575.00",
+    "precio5": "560.00",
+    "precio6": "555.00",
+    "precio": "590.00",
+    "precio1": "590.00",
+    "cantidad_disponible": 51
   },
   {
     "id": 2200,
@@ -27861,7 +27861,7 @@
     "precio6": "58.00",
     "precio": "80.00",
     "precio1": "80.00",
-    "cantidad_disponible": 19
+    "cantidad_disponible": 18
   },
   {
     "id": 2201,
@@ -27879,7 +27879,7 @@
     "precio6": "75.00",
     "precio": "125.00",
     "precio1": "125.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 8
   },
   {
     "id": 2202,
@@ -27897,7 +27897,7 @@
     "precio6": "77.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 37
+    "cantidad_disponible": 34
   },
   {
     "id": 2203,
@@ -27915,7 +27915,7 @@
     "precio6": "290.00",
     "precio": "335.00",
     "precio1": "335.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 2204,
@@ -27951,7 +27951,7 @@
     "precio6": "46.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 0
+    "cantidad_disponible": 1
   },
   {
     "id": 2206,
@@ -27969,7 +27969,7 @@
     "precio6": "25.00",
     "precio": "75.00",
     "precio1": "75.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 4
   },
   {
     "id": 2207,
@@ -28005,7 +28005,7 @@
     "precio6": "115.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 17
+    "cantidad_disponible": 13
   },
   {
     "id": 2209,
@@ -28023,7 +28023,7 @@
     "precio6": "45.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 17
+    "cantidad_disponible": 26
   },
   {
     "id": 2210,
@@ -28059,7 +28059,7 @@
     "precio6": "56.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 10
   },
   {
     "id": 2212,
@@ -28077,7 +28077,7 @@
     "precio6": "53.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 39
+    "cantidad_disponible": 36
   },
   {
     "id": 2213,
@@ -28095,7 +28095,7 @@
     "precio6": "83.00",
     "precio": "140.00",
     "precio1": "140.00",
-    "cantidad_disponible": 22
+    "cantidad_disponible": 14
   },
   {
     "id": 2214,
@@ -28239,7 +28239,7 @@
     "precio6": "865.00",
     "precio": "920.00",
     "precio1": "920.00",
-    "cantidad_disponible": 5
+    "cantidad_disponible": 3
   },
   {
     "id": 2222,
@@ -28311,7 +28311,7 @@
     "precio6": "855.00",
     "precio": "920.00",
     "precio1": "920.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 2226,
@@ -28329,7 +28329,7 @@
     "precio6": "320.00",
     "precio": "355.00",
     "precio1": "355.00",
-    "cantidad_disponible": 11
+    "cantidad_disponible": 9
   },
   {
     "id": 2227,
@@ -28365,7 +28365,7 @@
     "precio6": "505.00",
     "precio": "565.00",
     "precio1": "565.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 2229,
@@ -28383,7 +28383,7 @@
     "precio6": "202.00",
     "precio": "260.00",
     "precio1": "260.00",
-    "cantidad_disponible": 9
+    "cantidad_disponible": 7
   },
   {
     "id": 2230,
@@ -28430,13 +28430,13 @@
     "producto": "SMARTWATCH XIAOMI S5 46mm",
     "minimo": 10,
     "estado": 1,
-    "precio2": "1855.00",
-    "precio3": "1850.00",
-    "precio4": "1845.00",
-    "precio5": "1810.00",
-    "precio6": "1805.00",
-    "precio": "1860.00",
-    "precio1": "1860.00",
+    "precio2": "1840.00",
+    "precio3": "1830.00",
+    "precio4": "1820.00",
+    "precio5": "1785.00",
+    "precio6": "1780.00",
+    "precio": "1850.00",
+    "precio1": "1850.00",
     "cantidad_disponible": 1
   },
   {
@@ -28455,7 +28455,7 @@
     "precio6": "87.00",
     "precio": "145.00",
     "precio1": "145.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 21
   },
   {
     "id": 2234,
@@ -28484,13 +28484,13 @@
     "producto": "AUDIFONO BLUETOOTH TRONSMART SOUNFII Q20S HYBRID",
     "minimo": 10,
     "estado": 1,
-    "precio2": "325.00",
-    "precio3": "320.00",
-    "precio4": "315.00",
-    "precio5": "268.00",
-    "precio6": "265.00",
-    "precio": "330.00",
-    "precio1": "330.00",
+    "precio2": "305.00",
+    "precio3": "300.00",
+    "precio4": "295.00",
+    "precio5": "265.00",
+    "precio6": "262.00",
+    "precio": "310.00",
+    "precio1": "310.00",
     "cantidad_disponible": 10
   },
   {
@@ -28556,14 +28556,14 @@
     "producto": "SMARTWATCH XIAOMI REDMI WATCH 6 ACTIVE",
     "minimo": 10,
     "estado": 1,
-    "precio2": "465.00",
-    "precio3": "460.00",
-    "precio4": "455.00",
-    "precio5": "435.00",
-    "precio6": "430.00",
-    "precio": "470.00",
-    "precio1": "470.00",
-    "cantidad_disponible": 6
+    "precio2": "460.00",
+    "precio3": "455.00",
+    "precio4": "450.00",
+    "precio5": "430.00",
+    "precio6": "425.00",
+    "precio": "465.00",
+    "precio1": "465.00",
+    "cantidad_disponible": 12
   },
   {
     "id": 2240,
@@ -28574,14 +28574,14 @@
     "producto": "SMARTWATCH XIAOMI REDMI WATCH 6 LITE",
     "minimo": 10,
     "estado": 1,
-    "precio2": "675.00",
-    "precio3": "670.00",
-    "precio4": "665.00",
-    "precio5": "645.00",
-    "precio6": "640.00",
-    "precio": "680.00",
-    "precio1": "680.00",
-    "cantidad_disponible": 16
+    "precio2": "665.00",
+    "precio3": "660.00",
+    "precio4": "655.00",
+    "precio5": "640.00",
+    "precio6": "635.00",
+    "precio": "670.00",
+    "precio1": "670.00",
+    "cantidad_disponible": 12
   },
   {
     "id": 2241,
@@ -28635,7 +28635,7 @@
     "precio6": "65.00",
     "precio": "115.00",
     "precio1": "115.00",
-    "cantidad_disponible": 21
+    "cantidad_disponible": 20
   },
   {
     "id": 2244,
@@ -28653,7 +28653,7 @@
     "precio6": "435.00",
     "precio": "480.00",
     "precio1": "480.00",
-    "cantidad_disponible": 10
+    "cantidad_disponible": 9
   },
   {
     "id": 2245,
@@ -28671,7 +28671,7 @@
     "precio6": "360.00",
     "precio": "400.00",
     "precio1": "400.00",
-    "cantidad_disponible": 10
+    "cantidad_disponible": 9
   },
   {
     "id": 2246,
@@ -28689,7 +28689,7 @@
     "precio6": "228.00",
     "precio": "275.00",
     "precio1": "275.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 9
   },
   {
     "id": 2247,
@@ -28731,7 +28731,7 @@
     "id": 2249,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6aa8ceb164da0.png",
     "imagen2": "https://apiback.aswin-smart.com/images/productos/6aa8ceb18bc58_2.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aa8ceb1c6ec0_3.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac167f2e6c703.png",
     "codigo": "SAS C108",
     "producto": "CARGADOR RAPIDO PARA MOTOCICLETA 60W SAS C108",
     "minimo": 10,
@@ -28748,8 +28748,8 @@
   {
     "id": 2250,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6aa8d0477b688.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aa8d0479fa64_2.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aa8d047c5368_3.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac1697b9c9e42.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac1697ce565f3.png",
     "codigo": "LC922C-240W",
     "producto": "CABLE PD TIPO C A TIPO C 240W 2 METROS SAS LC922C-240W",
     "minimo": 10,
@@ -28766,10 +28766,10 @@
   {
     "id": 2251,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6aa8d7c178d93.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aa8d7c19becd_2.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aa8d7c1c9fcc_3.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac16cf1dd7d92.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac16d441d6853.png",
     "codigo": "DS-18H",
-    "producto": "HUB USB TIPO C 8 EN 1 SAS DS-18H",
+    "producto": "HUB USB TIPO C Y USB 8 EN 1 SAS DS-18H",
     "minimo": 10,
     "estado": 1,
     "precio2": "0.00",
@@ -28784,8 +28784,8 @@
   {
     "id": 2252,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6aa9e745a056a.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aa9e745c7b4e_2.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aa9e745ea2e9_3.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac18e963d5a82.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac18e97258fe3.png",
     "codigo": "LS901",
     "producto": "CABLE V8 DATOS Y CARGA 25W 1 METRO SAS LS901",
     "minimo": 10,
@@ -28802,7 +28802,7 @@
   {
     "id": 2253,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6aab206cc9a71.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aab206d3ef68_2.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac1681b5ad0d2.png",
     "imagen3": "https://apiback.aswin-smart.com/images/productos/6aab206d612e2_3.png",
     "codigo": "SAS LC150",
     "producto": "ADAPTADOR TIPO C HEMBRA A USB MACHO SAS LC150",
@@ -28820,8 +28820,8 @@
   {
     "id": 2254,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6aab23ff15089.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aab23ff375e4_2.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aab23ff57143_3.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac16e9b1bf1c2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac16e9bc74d73.png",
     "codigo": "SAS RJ-01UC",
     "producto": "ADAPTADOR TIPO C Y USB A RED GIGABIT 10M/100M/1000M SAS RJ-01UC",
     "minimo": 10,
@@ -28838,8 +28838,8 @@
   {
     "id": 2255,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6aab26a8d676c.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aab26a90fe35_2.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aab26a934ffd_3.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac16be5342172.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac16be6220703.png",
     "codigo": "DS-144UC",
     "producto": "ADAPTADOR TIPO C Y USB A RED Y 3 X USB 3.0 4 EN 1 SAS DS-144UC",
     "minimo": 10,
@@ -28869,7 +28869,7 @@
     "precio6": "100.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 0
   },
   {
     "id": 2257,
@@ -28905,7 +28905,7 @@
     "precio6": "54.00",
     "precio": "85.00",
     "precio1": "85.00",
-    "cantidad_disponible": 49
+    "cantidad_disponible": 47
   },
   {
     "id": 2259,
@@ -28941,7 +28941,7 @@
     "precio6": "68.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 28
+    "cantidad_disponible": 19
   },
   {
     "id": 2261,
@@ -28977,7 +28977,7 @@
     "precio6": "180.00",
     "precio": "240.00",
     "precio1": "240.00",
-    "cantidad_disponible": 11
+    "cantidad_disponible": 10
   },
   {
     "id": 2263,
@@ -29019,7 +29019,7 @@
     "id": 2265,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6ab324a467094.png",
     "imagen2": "https://apiback.aswin-smart.com/images/productos/6ab324a494a48_2.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ab324a4ac249_3.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac169a8a08543.png",
     "codigo": "LS602",
     "producto": "CABLE TIPO C DE 2 METRO SAS LS602",
     "minimo": 10,
@@ -29037,7 +29037,7 @@
     "id": 2266,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6abc54335bcd9.png",
     "imagen2": "https://apiback.aswin-smart.com/images/productos/6abc54337d7ed_2.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/productos/6abc5433afa7b_3.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac18d76ee4af3.png",
     "codigo": "LS341",
     "producto": "CABLE TIPO C DE 1 METRO DE 50W SAS LS341",
     "minimo": 10,
@@ -29054,7 +29054,7 @@
   {
     "id": 2267,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6abc572eb8fee.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/productos/6abc572ee187a_2.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac18aa00e6302.png",
     "imagen3": "https://apiback.aswin-smart.com/images/productos/6abc572f15540_3.png",
     "codigo": "SAS LC901c",
     "producto": "CABLE PD TIPO C A TIPO C DE 1 METRO 65W SAS LC901c",
@@ -29072,8 +29072,8 @@
   {
     "id": 2268,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6abc5a2ca6166.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/productos/6abc5a2cdee6b_2.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/productos/6abc5a2d15df9_3.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac18c2bbf3ca2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac18c2c765fb3.png",
     "codigo": "SAS LC441c",
     "producto": "CABLE PD TIPO C A TIPO C DE 1 METRO 65W SAS LC441c",
     "minimo": 10,
@@ -29090,10 +29090,208 @@
   {
     "id": 2269,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6abc5dcc5b3e8.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/productos/6abc5d63a0a852.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac16d9f5d9e32.png",
     "imagen3": "https://apiback.aswin-smart.com/images/productos/6abc5cb7cb289_3.png",
     "codigo": "SAS Y6-1",
     "producto": "BARRA DE LUZ MAGNETICA RECARGABLE CON SENSOR DE MOVIMIENTO SAS Y6-1",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "0.00",
+    "precio3": "0.00",
+    "precio4": "0.00",
+    "precio5": "0.00",
+    "precio6": "0.00",
+    "precio": "0.00",
+    "precio1": "0.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2270,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ac15a4edcbe3.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac18b6a5f7592.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac18b6b1f2993.png",
+    "codigo": "LC341c",
+    "producto": "CABLE PD TIPO C A TIPO C DE 1 METRO 65W SAS LC341c",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "0.00",
+    "precio3": "0.00",
+    "precio4": "0.00",
+    "precio5": "0.00",
+    "precio6": "0.00",
+    "precio": "0.00",
+    "precio1": "0.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2271,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ac15d8386fbe.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac15d83bc3b3_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac16df1dbd9d3.png",
+    "codigo": "SAS Q1",
+    "producto": "CARGADOR RAPIDO USB QC3.0 Y PD DE 20W SAS Q1",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "0.00",
+    "precio3": "0.00",
+    "precio4": "0.00",
+    "precio5": "0.00",
+    "precio6": "0.00",
+    "precio": "0.00",
+    "precio1": "0.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2272,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ac15f7969d0b.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac177e882ce82.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac177e9620ab3.png",
+    "codigo": "SAS LS351",
+    "producto": "CABLE V8 DATOS Y CARGA 50W 1 METRO SAS LS351",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "0.00",
+    "precio3": "0.00",
+    "precio4": "0.00",
+    "precio5": "0.00",
+    "precio6": "0.00",
+    "precio": "0.00",
+    "precio1": "0.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2273,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ac163c61af54.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac163c64bcfd_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac163c66eccb_3.png",
+    "codigo": "SAS LS852",
+    "producto": "CABLE TIPO C DE 2 METRO DE 25W SAS LS852",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "0.00",
+    "precio3": "0.00",
+    "precio4": "0.00",
+    "precio5": "0.00",
+    "precio6": "0.00",
+    "precio": "0.00",
+    "precio1": "0.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2274,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ac17069792c9.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac1706a56c47_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac1706b19dad_3.png",
+    "codigo": "LS-Y90C",
+    "producto": "ADAPTADOR TIPO C A JACK 3.5 SAS LS-Y90C",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "0.00",
+    "precio3": "0.00",
+    "precio4": "0.00",
+    "precio5": "0.00",
+    "precio6": "0.00",
+    "precio": "0.00",
+    "precio1": "0.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2275,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ac172c52fc03.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac172c5531bf_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac172c620c4a_3.png",
+    "codigo": "SAS Q3",
+    "producto": "CARGADOR SUPER RAPIDO USB QC3.0 Y PD DE 45W SAS Q3",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "0.00",
+    "precio3": "0.00",
+    "precio4": "0.00",
+    "precio5": "0.00",
+    "precio6": "0.00",
+    "precio": "0.00",
+    "precio1": "0.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2276,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ac17592efe59.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac17593ea4bb_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac17594e6c32_3.png",
+    "codigo": "SAS DS-134uc",
+    "producto": "HUB USB TIPO C Y USB CON 4 PUERTOS USB 3.0 SAS DS-134uc",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "0.00",
+    "precio3": "0.00",
+    "precio4": "0.00",
+    "precio5": "0.00",
+    "precio6": "0.00",
+    "precio": "0.00",
+    "precio1": "0.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2277,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ac17bbbbf1ed.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac17bbc950b5_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac17bbca2f04_3.png",
+    "codigo": "SAS C103",
+    "producto": "CARGADOR CIGARRERA 60W SALIDA TIPO A Y TIPO C SAS C103",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "0.00",
+    "precio3": "0.00",
+    "precio4": "0.00",
+    "precio5": "0.00",
+    "precio6": "0.00",
+    "precio": "0.00",
+    "precio1": "0.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2278,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ac1815e5eee9.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac1815fdbe33_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac181609108b_3.png",
+    "codigo": "SAS MA30-1",
+    "producto": "CARGADOR INALAMBRICO PARA AUTO DE 15W SAS MA30-1",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "0.00",
+    "precio3": "0.00",
+    "precio4": "0.00",
+    "precio5": "0.00",
+    "precio6": "0.00",
+    "precio": "0.00",
+    "precio1": "0.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2279,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ac185cb65416.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac185cc6a899_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac185cd1fc7b_3.png",
+    "codigo": "SAS LC25",
+    "producto": "CABLE PD TIPO C A TIPO C DE 1.20 METRO 100W SAS LC25",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "0.00",
+    "precio3": "0.00",
+    "precio4": "0.00",
+    "precio5": "0.00",
+    "precio6": "0.00",
+    "precio": "0.00",
+    "precio1": "0.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2280,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ac1897edf3c0.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac1897fa2b17_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac189806c632_3.png",
+    "codigo": "SAS SC4407C",
+    "producto": "CORTA PICOS SOCKET UNIVERSAL DE 45W/2500W SAS SC4407C",
     "minimo": 10,
     "estado": 1,
     "precio2": "0.00",

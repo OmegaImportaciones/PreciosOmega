@@ -213,7 +213,7 @@
     "precio6": "77.00",
     "precio": "115.00",
     "precio1": "115.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 32,
@@ -231,7 +231,7 @@
     "precio6": "44.00",
     "precio": "75.00",
     "precio1": "75.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 10
   },
   {
     "id": 38,
@@ -242,14 +242,14 @@
     "producto": "FLASH HP 64GB USB 2.0",
     "minimo": 5,
     "estado": 1,
-    "precio2": "155.00",
-    "precio3": "150.00",
-    "precio4": "145.00",
-    "precio5": "115.00",
-    "precio6": "113.00",
-    "precio": "160.00",
-    "precio1": "160.00",
-    "cantidad_disponible": 9
+    "precio2": "160.00",
+    "precio3": "155.00",
+    "precio4": "150.00",
+    "precio5": "120.00",
+    "precio6": "118.00",
+    "precio": "165.00",
+    "precio1": "165.00",
+    "cantidad_disponible": 10
   },
   {
     "id": 41,
@@ -263,11 +263,11 @@
     "precio2": "83.00",
     "precio3": "80.00",
     "precio4": "80.00",
-    "precio5": "56.00",
-    "precio6": "55.00",
+    "precio5": "57.00",
+    "precio6": "56.00",
     "precio": "85.00",
     "precio1": "85.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 10
   },
   {
     "id": 42,
@@ -321,7 +321,7 @@
     "precio6": "69.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 12
   },
   {
     "id": 45,
@@ -404,14 +404,14 @@
     "producto": "MSD SAMSUNG EVO PLUS 128GB",
     "minimo": 5,
     "estado": 1,
-    "precio2": "275.00",
-    "precio3": "270.00",
-    "precio4": "265.00",
-    "precio5": "215.00",
-    "precio6": "210.00",
-    "precio": "280.00",
-    "precio1": "280.00",
-    "cantidad_disponible": 5
+    "precio2": "300.00",
+    "precio3": "295.00",
+    "precio4": "290.00",
+    "precio5": "235.00",
+    "precio6": "233.00",
+    "precio": "305.00",
+    "precio1": "305.00",
+    "cantidad_disponible": 9
   },
   {
     "id": 56,
@@ -519,7 +519,7 @@
     "precio6": "25.00",
     "precio": "55.00",
     "precio1": "55.00",
-    "cantidad_disponible": 19
+    "cantidad_disponible": 13
   },
   {
     "id": 80,
@@ -861,7 +861,7 @@
     "precio6": "8.00",
     "precio": "20.00",
     "precio1": "20.00",
-    "cantidad_disponible": 15
+    "cantidad_disponible": 13
   },
   {
     "id": 110,
@@ -879,7 +879,7 @@
     "precio6": "15.00",
     "precio": "30.00",
     "precio1": "30.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 1
   },
   {
     "id": 111,
@@ -897,7 +897,7 @@
     "precio6": "18.00",
     "precio": "55.00",
     "precio1": "55.00",
-    "cantidad_disponible": 17
+    "cantidad_disponible": 16
   },
   {
     "id": 112,
@@ -1077,7 +1077,7 @@
     "precio6": "102.00",
     "precio": "130.00",
     "precio1": "130.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 0
   },
   {
     "id": 130,
@@ -1599,7 +1599,7 @@
     "precio6": "130.00",
     "precio": "195.00",
     "precio1": "195.00",
-    "cantidad_disponible": 0
+    "cantidad_disponible": 10
   },
   {
     "id": 183,
@@ -1797,7 +1797,7 @@
     "precio6": "29.00",
     "precio": "63.00",
     "precio1": "63.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 221,
@@ -1995,7 +1995,7 @@
     "precio6": "22.00",
     "precio": "45.00",
     "precio1": "45.00",
-    "cantidad_disponible": 41
+    "cantidad_disponible": 40
   },
   {
     "id": 237,
@@ -2085,7 +2085,7 @@
     "precio6": "21.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 7
   },
   {
     "id": 244,
@@ -2157,7 +2157,7 @@
     "precio6": "34.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 2
   },
   {
     "id": 251,
@@ -2229,7 +2229,7 @@
     "precio6": "145.00",
     "precio": "180.00",
     "precio1": "180.00",
-    "cantidad_disponible": 5
+    "cantidad_disponible": 2
   },
   {
     "id": 258,
@@ -2877,7 +2877,7 @@
     "precio6": "51.00",
     "precio": "70.00",
     "precio1": "70.00",
-    "cantidad_disponible": 5
+    "cantidad_disponible": 7
   },
   {
     "id": 325,
@@ -3075,7 +3075,7 @@
     "precio6": "170.00",
     "precio": "210.00",
     "precio1": "210.00",
-    "cantidad_disponible": 19
+    "cantidad_disponible": 18
   },
   {
     "id": 347,
@@ -3093,7 +3093,7 @@
     "precio6": "125.00",
     "precio": "125.00",
     "precio1": "125.00",
-    "cantidad_disponible": 5
+    "cantidad_disponible": 4
   },
   {
     "id": 348,
@@ -3219,7 +3219,7 @@
     "precio6": "13.00",
     "precio": "31.00",
     "precio1": "31.00",
-    "cantidad_disponible": 18
+    "cantidad_disponible": 17
   },
   {
     "id": 377,
@@ -3489,7 +3489,7 @@
     "precio6": "22.00",
     "precio": "75.00",
     "precio1": "75.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 2
   },
   {
     "id": 409,
@@ -3579,7 +3579,7 @@
     "precio6": "87.00",
     "precio": "140.00",
     "precio1": "140.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 423,
@@ -3615,7 +3615,7 @@
     "precio6": "260.00",
     "precio": "315.00",
     "precio1": "315.00",
-    "cantidad_disponible": 0
+    "cantidad_disponible": 6
   },
   {
     "id": 426,
@@ -3705,7 +3705,7 @@
     "precio6": "52.00",
     "precio": "79.00",
     "precio1": "79.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 437,
@@ -3813,7 +3813,7 @@
     "precio6": "1.00",
     "precio": "105.00",
     "precio1": "105.00",
-    "cantidad_disponible": 645
+    "cantidad_disponible": 642
   },
   {
     "id": 452,
@@ -3903,7 +3903,7 @@
     "precio6": "70.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 5
+    "cantidad_disponible": 2
   },
   {
     "id": 467,
@@ -4083,7 +4083,7 @@
     "precio6": "11.00",
     "precio": "31.00",
     "precio1": "31.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 7
   },
   {
     "id": 485,
@@ -4191,7 +4191,7 @@
     "precio6": "115.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 0
   },
   {
     "id": 503,
@@ -4659,7 +4659,7 @@
     "precio6": "21.00",
     "precio": "31.00",
     "precio1": "31.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 2
   },
   {
     "id": 617,
@@ -5145,7 +5145,7 @@
     "precio6": "187.00",
     "precio": "225.00",
     "precio1": "225.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 718,
@@ -5361,7 +5361,7 @@
     "precio6": "9.00",
     "precio": "27.00",
     "precio1": "27.00",
-    "cantidad_disponible": 48
+    "cantidad_disponible": 47
   },
   {
     "id": 745,
@@ -5433,7 +5433,7 @@
     "precio6": "220.00",
     "precio": "265.00",
     "precio1": "265.00",
-    "cantidad_disponible": 14
+    "cantidad_disponible": 12
   },
   {
     "id": 750,
@@ -5711,7 +5711,7 @@
     "imagen2": "https://apiback.aswin-smart.com/images/default.png",
     "imagen3": "https://apiback.aswin-smart.com/images/default.png",
     "codigo": "782",
-    "producto": "CUENTAS MAGIS TV",
+    "producto": "CUENTAS MAGIS TV/ FLUJO TV",
     "minimo": 5,
     "estado": 1,
     "precio2": "55.00",
@@ -5721,7 +5721,7 @@
     "precio6": "28.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 150
+    "cantidad_disponible": 148
   },
   {
     "id": 786,
@@ -5829,7 +5829,7 @@
     "precio6": "12.00",
     "precio": "25.00",
     "precio1": "25.00",
-    "cantidad_disponible": 21
+    "cantidad_disponible": 16
   },
   {
     "id": 796,
@@ -5955,7 +5955,7 @@
     "precio6": "25.00",
     "precio": "50.00",
     "precio1": "50.00",
-    "cantidad_disponible": 30
+    "cantidad_disponible": 29
   },
   {
     "id": 807,
@@ -6063,7 +6063,7 @@
     "precio6": "65.00",
     "precio": "80.00",
     "precio1": "80.00",
-    "cantidad_disponible": 22
+    "cantidad_disponible": 21
   },
   {
     "id": 815,
@@ -6459,7 +6459,7 @@
     "precio6": "155.00",
     "precio": "195.00",
     "precio1": "195.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 852,
@@ -6797,11 +6797,11 @@
     "precio2": "275.00",
     "precio3": "270.00",
     "precio4": "265.00",
-    "precio5": "245.00",
-    "precio6": "243.00",
+    "precio5": "247.00",
+    "precio6": "245.00",
     "precio": "280.00",
     "precio1": "280.00",
-    "cantidad_disponible": 11
+    "cantidad_disponible": 10
   },
   {
     "id": 878,
@@ -6837,7 +6837,7 @@
     "precio6": "1.00",
     "precio": "3.00",
     "precio1": "3.00",
-    "cantidad_disponible": 824
+    "cantidad_disponible": 764
   },
   {
     "id": 880,
@@ -7431,7 +7431,7 @@
     "precio6": "940.00",
     "precio": "1070.00",
     "precio1": "1070.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 928,
@@ -7863,7 +7863,7 @@
     "precio6": "22.00",
     "precio": "50.00",
     "precio1": "50.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 2
   },
   {
     "id": 967,
@@ -8252,13 +8252,13 @@
     "producto": "MODEM WIFI PORTATIL A CHIP HUAWEI E5576-508",
     "minimo": 5,
     "estado": 1,
-    "precio2": "398.00",
-    "precio3": "385.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "438.00",
-    "precio1": "438.00",
+    "precio2": "555.00",
+    "precio3": "550.00",
+    "precio4": "545.00",
+    "precio5": "485.00",
+    "precio6": "480.00",
+    "precio": "560.00",
+    "precio1": "560.00",
     "cantidad_disponible": 0
   },
   {
@@ -8871,7 +8871,7 @@
     "precio6": "215.00",
     "precio": "250.00",
     "precio1": "250.00",
-    "cantidad_disponible": 0
+    "cantidad_disponible": 6
   },
   {
     "id": 1037,
@@ -9195,7 +9195,7 @@
     "precio6": "193.00",
     "precio": "215.00",
     "precio1": "215.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 1058,
@@ -9555,7 +9555,7 @@
     "precio6": "40.00",
     "precio": "70.00",
     "precio1": "70.00",
-    "cantidad_disponible": 24
+    "cantidad_disponible": 30
   },
   {
     "id": 1080,
@@ -9861,7 +9861,7 @@
     "precio6": "32.00",
     "precio": "85.00",
     "precio1": "85.00",
-    "cantidad_disponible": 23
+    "cantidad_disponible": 14
   },
   {
     "id": 1103,
@@ -9915,7 +9915,7 @@
     "precio6": "30.00",
     "precio": "55.00",
     "precio1": "55.00",
-    "cantidad_disponible": 23
+    "cantidad_disponible": 15
   },
   {
     "id": 1107,
@@ -9987,7 +9987,7 @@
     "precio6": "115.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 6
   },
   {
     "id": 1115,
@@ -11348,13 +11348,13 @@
     "producto": "ALEXA ECHO DOT 5 GENERACION SIN RELOJ",
     "minimo": 5,
     "estado": 1,
-    "precio2": "685.00",
-    "precio3": "680.00",
-    "precio4": "675.00",
-    "precio5": "665.00",
-    "precio6": "660.00",
-    "precio": "690.00",
-    "precio1": "690.00",
+    "precio2": "695.00",
+    "precio3": "690.00",
+    "precio4": "685.00",
+    "precio5": "655.00",
+    "precio6": "650.00",
+    "precio": "700.00",
+    "precio1": "700.00",
     "cantidad_disponible": 0
   },
   {
@@ -11445,7 +11445,7 @@
     "precio6": "60.00",
     "precio": "115.00",
     "precio1": "115.00",
-    "cantidad_disponible": 9
+    "cantidad_disponible": 7
   },
   {
     "id": 1234,
@@ -11517,7 +11517,7 @@
     "precio6": "3075.00",
     "precio": "3150.00",
     "precio1": "3150.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 2
   },
   {
     "id": 1240,
@@ -11931,7 +11931,7 @@
     "precio6": "16.00",
     "precio": "50.00",
     "precio1": "50.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 5
   },
   {
     "id": 1272,
@@ -12021,7 +12021,7 @@
     "precio6": "34.00",
     "precio": "84.00",
     "precio1": "84.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 2
   },
   {
     "id": 1278,
@@ -12741,7 +12741,7 @@
     "precio6": "87.00",
     "precio": "115.00",
     "precio1": "115.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 0
   },
   {
     "id": 1328,
@@ -12849,7 +12849,7 @@
     "precio6": "23.00",
     "precio": "65.00",
     "precio1": "65.00",
-    "cantidad_disponible": 23
+    "cantidad_disponible": 21
   },
   {
     "id": 1336,
@@ -12867,7 +12867,7 @@
     "precio6": "2.00",
     "precio": "5.00",
     "precio1": "5.00",
-    "cantidad_disponible": 1235
+    "cantidad_disponible": 1217
   },
   {
     "id": 1337,
@@ -13245,7 +13245,7 @@
     "precio6": "44.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 1364,
@@ -13353,7 +13353,7 @@
     "precio6": "12.00",
     "precio": "30.00",
     "precio1": "30.00",
-    "cantidad_disponible": 23
+    "cantidad_disponible": 22
   },
   {
     "id": 1371,
@@ -13371,7 +13371,7 @@
     "precio6": "248.00",
     "precio": "300.00",
     "precio1": "300.00",
-    "cantidad_disponible": 22
+    "cantidad_disponible": 15
   },
   {
     "id": 1372,
@@ -13587,7 +13587,7 @@
     "precio6": "610.00",
     "precio": "660.00",
     "precio1": "660.00",
-    "cantidad_disponible": 15
+    "cantidad_disponible": 16
   },
   {
     "id": 1385,
@@ -14415,7 +14415,7 @@
     "precio6": "18.00",
     "precio": "42.00",
     "precio1": "42.00",
-    "cantidad_disponible": 27
+    "cantidad_disponible": 26
   },
   {
     "id": 1434,
@@ -14433,7 +14433,7 @@
     "precio6": "100.00",
     "precio": "146.00",
     "precio1": "146.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1435,
@@ -14595,7 +14595,7 @@
     "precio6": "215.00",
     "precio": "260.00",
     "precio1": "260.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 2
   },
   {
     "id": 1447,
@@ -14937,7 +14937,7 @@
     "precio6": "8.00",
     "precio": "25.00",
     "precio1": "25.00",
-    "cantidad_disponible": 33
+    "cantidad_disponible": 22
   },
   {
     "id": 1468,
@@ -14973,7 +14973,7 @@
     "precio6": "58.00",
     "precio": "134.00",
     "precio1": "134.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 4
   },
   {
     "id": 1470,
@@ -15027,7 +15027,7 @@
     "precio6": "19.00",
     "precio": "45.00",
     "precio1": "45.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 7
   },
   {
     "id": 1473,
@@ -15153,7 +15153,7 @@
     "precio6": "28.00",
     "precio": "57.00",
     "precio1": "57.00",
-    "cantidad_disponible": 17
+    "cantidad_disponible": 18
   },
   {
     "id": 1480,
@@ -15279,7 +15279,7 @@
     "precio6": "125.00",
     "precio": "167.00",
     "precio1": "167.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 1489,
@@ -15578,13 +15578,13 @@
     "producto": "PARLANTE BLUETOOTH XIAOMI SOUND POCKET 5W MDZ-37-DB",
     "minimo": 10,
     "estado": 1,
-    "precio2": "185.00",
-    "precio3": "180.00",
-    "precio4": "175.00",
-    "precio5": "145.00",
-    "precio6": "143.00",
-    "precio": "190.00",
-    "precio1": "190.00",
+    "precio2": "240.00",
+    "precio3": "235.00",
+    "precio4": "230.00",
+    "precio5": "190.00",
+    "precio6": "185.00",
+    "precio": "245.00",
+    "precio1": "245.00",
     "cantidad_disponible": 0
   },
   {
@@ -15765,7 +15765,7 @@
     "precio6": "270.00",
     "precio": "290.00",
     "precio1": "290.00",
-    "cantidad_disponible": 0
+    "cantidad_disponible": 1
   },
   {
     "id": 1520,
@@ -15920,14 +15920,14 @@
     "producto": "CAMARA SEGURIDAD XIAOMI EXTERIOR PTZ CW400",
     "minimo": 10,
     "estado": 1,
-    "precio2": "605.00",
-    "precio3": "600.00",
-    "precio4": "595.00",
-    "precio5": "575.00",
-    "precio6": "570.00",
-    "precio": "610.00",
-    "precio1": "610.00",
-    "cantidad_disponible": 8
+    "precio2": "640.00",
+    "precio3": "630.00",
+    "precio4": "625.00",
+    "precio5": "585.00",
+    "precio6": "580.00",
+    "precio": "650.00",
+    "precio1": "650.00",
+    "cantidad_disponible": 0
   },
   {
     "id": 1529,
@@ -16377,7 +16377,7 @@
     "precio6": "725.00",
     "precio": "770.00",
     "precio1": "770.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 13
   },
   {
     "id": 1554,
@@ -16431,7 +16431,7 @@
     "precio6": "445.00",
     "precio": "490.00",
     "precio1": "490.00",
-    "cantidad_disponible": 5
+    "cantidad_disponible": 2
   },
   {
     "id": 1557,
@@ -16640,13 +16640,13 @@
     "producto": "ROUTER XIAOMI AX1500 WIFI 6",
     "minimo": 10,
     "estado": 1,
-    "precio2": "295.00",
-    "precio3": "290.00",
-    "precio4": "285.00",
-    "precio5": "255.00",
-    "precio6": "250.00",
-    "precio": "300.00",
-    "precio1": "300.00",
+    "precio2": "435.00",
+    "precio3": "430.00",
+    "precio4": "425.00",
+    "precio5": "385.00",
+    "precio6": "380.00",
+    "precio": "440.00",
+    "precio1": "440.00",
     "cantidad_disponible": 0
   },
   {
@@ -16730,13 +16730,13 @@
     "producto": "AUDIFONO BLUETOOTH REDMI BUDS 6 PLAY BT 5.4",
     "minimo": 10,
     "estado": 1,
-    "precio2": "165.00",
-    "precio3": "160.00",
-    "precio4": "155.00",
-    "precio5": "125.00",
-    "precio6": "120.00",
-    "precio": "170.00",
-    "precio1": "170.00",
+    "precio2": "175.00",
+    "precio3": "170.00",
+    "precio4": "170.00",
+    "precio5": "139.00",
+    "precio6": "135.00",
+    "precio": "180.00",
+    "precio1": "180.00",
     "cantidad_disponible": 0
   },
   {
@@ -16881,7 +16881,7 @@
     "precio6": "149.00",
     "precio": "226.00",
     "precio1": "226.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 2
   },
   {
     "id": 1583,
@@ -16953,7 +16953,7 @@
     "precio6": "400.00",
     "precio": "440.00",
     "precio1": "440.00",
-    "cantidad_disponible": 11
+    "cantidad_disponible": 10
   },
   {
     "id": 1588,
@@ -17169,7 +17169,7 @@
     "precio6": "295.00",
     "precio": "330.00",
     "precio1": "330.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1601,
@@ -17241,7 +17241,7 @@
     "precio6": "310.00",
     "precio": "360.00",
     "precio1": "360.00",
-    "cantidad_disponible": 17
+    "cantidad_disponible": 11
   },
   {
     "id": 1605,
@@ -17511,7 +17511,7 @@
     "precio6": "155.00",
     "precio": "200.00",
     "precio1": "200.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 0
   },
   {
     "id": 1620,
@@ -17655,7 +17655,7 @@
     "precio6": "84.00",
     "precio": "115.00",
     "precio1": "115.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1628,
@@ -18141,7 +18141,7 @@
     "precio6": "59.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 21
+    "cantidad_disponible": 20
   },
   {
     "id": 1655,
@@ -18267,7 +18267,7 @@
     "precio6": "75.00",
     "precio": "110.00",
     "precio1": "110.00",
-    "cantidad_disponible": 57
+    "cantidad_disponible": 56
   },
   {
     "id": 1662,
@@ -18321,7 +18321,7 @@
     "precio6": "127.00",
     "precio": "167.00",
     "precio1": "167.00",
-    "cantidad_disponible": 13
+    "cantidad_disponible": 10
   },
   {
     "id": 1665,
@@ -18357,7 +18357,7 @@
     "precio6": "130.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 13
+    "cantidad_disponible": 12
   },
   {
     "id": 1667,
@@ -18627,7 +18627,7 @@
     "precio6": "20.00",
     "precio": "63.00",
     "precio1": "63.00",
-    "cantidad_disponible": 39
+    "cantidad_disponible": 36
   },
   {
     "id": 1682,
@@ -18746,13 +18746,13 @@
     "producto": "PARLANTE BLUETOOTH TRONSMART S100 DE 50W",
     "minimo": 10,
     "estado": 1,
-    "precio2": "650.00",
-    "precio3": "645.00",
-    "precio4": "645.00",
-    "precio5": "645.00",
-    "precio6": "645.00",
-    "precio": "650.00",
-    "precio1": "650.00",
+    "precio2": "670.00",
+    "precio3": "660.00",
+    "precio4": "650.00",
+    "precio5": "605.00",
+    "precio6": "600.00",
+    "precio": "680.00",
+    "precio1": "680.00",
     "cantidad_disponible": 0
   },
   {
@@ -18771,7 +18771,7 @@
     "precio6": "6.00",
     "precio": "21.00",
     "precio1": "21.00",
-    "cantidad_disponible": 206
+    "cantidad_disponible": 205
   },
   {
     "id": 1690,
@@ -18825,7 +18825,7 @@
     "precio6": "30.00",
     "precio": "55.00",
     "precio1": "55.00",
-    "cantidad_disponible": 33
+    "cantidad_disponible": 32
   },
   {
     "id": 1693,
@@ -18897,7 +18897,7 @@
     "precio6": "85.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 1697,
@@ -18915,7 +18915,7 @@
     "precio6": "145.00",
     "precio": "180.00",
     "precio1": "180.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1698,
@@ -19023,7 +19023,7 @@
     "precio6": "105.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 38
+    "cantidad_disponible": 31
   },
   {
     "id": 1704,
@@ -19131,7 +19131,7 @@
     "precio6": "250.00",
     "precio": "300.00",
     "precio1": "300.00",
-    "cantidad_disponible": 11
+    "cantidad_disponible": 10
   },
   {
     "id": 1710,
@@ -19214,13 +19214,13 @@
     "producto": "POWER BANK XIAOMI DE 20000MAH 33W",
     "minimo": 10,
     "estado": 1,
-    "precio2": "345.00",
-    "precio3": "340.00",
-    "precio4": "335.00",
-    "precio5": "280.00",
-    "precio6": "275.00",
-    "precio": "350.00",
-    "precio1": "350.00",
+    "precio2": "405.00",
+    "precio3": "400.00",
+    "precio4": "395.00",
+    "precio5": "325.00",
+    "precio6": "325.00",
+    "precio": "410.00",
+    "precio1": "410.00",
     "cantidad_disponible": 0
   },
   {
@@ -19329,7 +19329,7 @@
     "precio6": "564.00",
     "precio": "610.00",
     "precio1": "610.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 0
   },
   {
     "id": 1721,
@@ -19347,7 +19347,7 @@
     "precio6": "475.00",
     "precio": "515.00",
     "precio1": "515.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 1
   },
   {
     "id": 1722,
@@ -19455,7 +19455,7 @@
     "precio6": "100.00",
     "precio": "135.00",
     "precio1": "135.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 0
   },
   {
     "id": 1728,
@@ -19581,7 +19581,7 @@
     "precio6": "25.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 13
+    "cantidad_disponible": 12
   },
   {
     "id": 1735,
@@ -19653,7 +19653,7 @@
     "precio6": "30.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 15
   },
   {
     "id": 1739,
@@ -20096,13 +20096,13 @@
     "producto": "PARLANTE BLUETOOTH XIAOMI 40W",
     "minimo": 10,
     "estado": 1,
-    "precio2": "585.00",
-    "precio3": "580.00",
-    "precio4": "575.00",
-    "precio5": "570.00",
-    "precio6": "570.00",
-    "precio": "590.00",
-    "precio1": "590.00",
+    "precio2": "675.00",
+    "precio3": "670.00",
+    "precio4": "665.00",
+    "precio5": "630.00",
+    "precio6": "625.00",
+    "precio": "680.00",
+    "precio1": "680.00",
     "cantidad_disponible": 0
   },
   {
@@ -20265,7 +20265,7 @@
     "precio6": "490.00",
     "precio": "560.00",
     "precio1": "560.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1774,
@@ -20294,14 +20294,14 @@
     "producto": "XIAOMI MI BOX S 3RA GENERACION",
     "minimo": 10,
     "estado": 1,
-    "precio2": "845.00",
-    "precio3": "840.00",
-    "precio4": "835.00",
-    "precio5": "830.00",
-    "precio6": "825.00",
-    "precio": "850.00",
-    "precio1": "850.00",
-    "cantidad_disponible": 0
+    "precio2": "875.00",
+    "precio3": "870.00",
+    "precio4": "870.00",
+    "precio5": "850.00",
+    "precio6": "848.00",
+    "precio": "880.00",
+    "precio1": "880.00",
+    "cantidad_disponible": 1
   },
   {
     "id": 1776,
@@ -20330,13 +20330,13 @@
     "producto": "AUDIFONO BLUETOOTH QCY CROSSKY C30",
     "minimo": 10,
     "estado": 1,
-    "precio2": "405.00",
-    "precio3": "400.00",
-    "precio4": "395.00",
-    "precio5": "375.00",
-    "precio6": "372.00",
-    "precio": "410.00",
-    "precio1": "410.00",
+    "precio2": "320.00",
+    "precio3": "315.00",
+    "precio4": "310.00",
+    "precio5": "285.00",
+    "precio6": "280.00",
+    "precio": "325.00",
+    "precio1": "325.00",
     "cantidad_disponible": 2
   },
   {
@@ -20391,7 +20391,7 @@
     "precio6": "85.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 5
   },
   {
     "id": 1781,
@@ -20427,7 +20427,7 @@
     "precio6": "163.00",
     "precio": "185.00",
     "precio1": "185.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 6
   },
   {
     "id": 1783,
@@ -20445,7 +20445,7 @@
     "precio6": "198.00",
     "precio": "210.00",
     "precio1": "210.00",
-    "cantidad_disponible": 20
+    "cantidad_disponible": 19
   },
   {
     "id": 1784,
@@ -20535,7 +20535,7 @@
     "precio6": "140.00",
     "precio": "180.00",
     "precio1": "180.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 2
   },
   {
     "id": 1789,
@@ -20769,7 +20769,7 @@
     "precio6": "395.00",
     "precio": "470.00",
     "precio1": "470.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1802,
@@ -20823,7 +20823,7 @@
     "precio6": "16.00",
     "precio": "40.00",
     "precio1": "40.00",
-    "cantidad_disponible": 15
+    "cantidad_disponible": 14
   },
   {
     "id": 1805,
@@ -20834,14 +20834,14 @@
     "producto": "PARLANTE BLUETOOTH JBL CHARGE 6",
     "minimo": 10,
     "estado": 1,
-    "precio2": "1480.00",
-    "precio3": "1470.00",
-    "precio4": "1460.00",
-    "precio5": "1430.00",
-    "precio6": "1425.00",
-    "precio": "1490.00",
-    "precio1": "1490.00",
-    "cantidad_disponible": 10
+    "precio2": "1460.00",
+    "precio3": "1450.00",
+    "precio4": "1440.00",
+    "precio5": "1410.00",
+    "precio6": "1400.00",
+    "precio": "1470.00",
+    "precio1": "1470.00",
+    "cantidad_disponible": 1
   },
   {
     "id": 1806,
@@ -20895,7 +20895,7 @@
     "precio6": "29.00",
     "precio": "70.00",
     "precio1": "70.00",
-    "cantidad_disponible": 14
+    "cantidad_disponible": 7
   },
   {
     "id": 1809,
@@ -20960,13 +20960,13 @@
     "producto": "ALEXA ECHO SPOT",
     "minimo": 10,
     "estado": 1,
-    "precio2": "790.00",
-    "precio3": "780.00",
-    "precio4": "770.00",
-    "precio5": "740.00",
-    "precio6": "735.00",
-    "precio": "800.00",
-    "precio1": "800.00",
+    "precio2": "765.00",
+    "precio3": "760.00",
+    "precio4": "755.00",
+    "precio5": "735.00",
+    "precio6": "730.00",
+    "precio": "770.00",
+    "precio1": "770.00",
     "cantidad_disponible": 0
   },
   {
@@ -21111,7 +21111,7 @@
     "precio6": "870.00",
     "precio": "960.00",
     "precio1": "960.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 0
   },
   {
     "id": 1821,
@@ -21291,7 +21291,7 @@
     "precio6": "2380.00",
     "precio": "2460.00",
     "precio1": "2460.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1831,
@@ -21327,7 +21327,7 @@
     "precio6": "270.00",
     "precio": "300.00",
     "precio1": "300.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 1833,
@@ -21363,7 +21363,7 @@
     "precio6": "105.00",
     "precio": "140.00",
     "precio1": "140.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 5
   },
   {
     "id": 1835,
@@ -21551,7 +21551,7 @@
     "imagen2": "https://apiback.aswin-smart.com/images/default.png",
     "imagen3": "https://apiback.aswin-smart.com/images/default.png",
     "codigo": "MIC 2TX",
-    "producto": "MICROFONO CANDC DUAL CON BT TIPOC Y IPHONE MIC 2TX",
+    "producto": "MICROFONO CANDC DUAL CON BT TIPO C Y IPHONE MIC 2TX",
     "minimo": 10,
     "estado": 1,
     "precio2": "690.00",
@@ -21698,14 +21698,14 @@
     "producto": "XIAOMI TV STICK 2ND GENERACION 4K",
     "minimo": 10,
     "estado": 1,
-    "precio2": "655.00",
-    "precio3": "650.00",
-    "precio4": "645.00",
-    "precio5": "633.00",
-    "precio6": "630.00",
-    "precio": "660.00",
-    "precio1": "660.00",
-    "cantidad_disponible": 13
+    "precio2": "690.00",
+    "precio3": "685.00",
+    "precio4": "680.00",
+    "precio5": "645.00",
+    "precio6": "640.00",
+    "precio": "695.00",
+    "precio1": "695.00",
+    "cantidad_disponible": 1
   },
   {
     "id": 1854,
@@ -21723,7 +21723,7 @@
     "precio6": "3060.00",
     "precio": "3120.00",
     "precio1": "3120.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1855,
@@ -21759,7 +21759,7 @@
     "precio6": "220.00",
     "precio": "255.00",
     "precio1": "255.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 3
   },
   {
     "id": 1857,
@@ -21885,7 +21885,7 @@
     "precio6": "148.00",
     "precio": "190.00",
     "precio1": "190.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 3
   },
   {
     "id": 1864,
@@ -21914,13 +21914,13 @@
     "producto": "GAMEPAD INALAMBRICO BLACK SHARK MAGICIAN INALAMBRICO/ BT/ CABLE",
     "minimo": 10,
     "estado": 1,
-    "precio2": "480.00",
-    "precio3": "470.00",
-    "precio4": "460.00",
-    "precio5": "425.00",
-    "precio6": "420.00",
-    "precio": "490.00",
-    "precio1": "490.00",
+    "precio2": "445.00",
+    "precio3": "440.00",
+    "precio4": "435.00",
+    "precio5": "380.00",
+    "precio6": "375.00",
+    "precio": "450.00",
+    "precio1": "450.00",
     "cantidad_disponible": 0
   },
   {
@@ -21957,7 +21957,7 @@
     "precio6": "155.00",
     "precio": "200.00",
     "precio1": "200.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 6
   },
   {
     "id": 1868,
@@ -22191,7 +22191,7 @@
     "precio6": "230.00",
     "precio": "250.00",
     "precio1": "250.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 2
   },
   {
     "id": 1882,
@@ -22299,7 +22299,7 @@
     "precio6": "68.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 12
   },
   {
     "id": 1888,
@@ -22425,7 +22425,7 @@
     "precio6": "288.00",
     "precio": "334.00",
     "precio1": "334.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 2
   },
   {
     "id": 1896,
@@ -22569,7 +22569,7 @@
     "precio6": "48.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 27
+    "cantidad_disponible": 25
   },
   {
     "id": 1904,
@@ -22641,7 +22641,7 @@
     "precio6": "10.00",
     "precio": "35.00",
     "precio1": "35.00",
-    "cantidad_disponible": 334
+    "cantidad_disponible": 330
   },
   {
     "id": 1908,
@@ -22659,7 +22659,7 @@
     "precio6": "13.00",
     "precio": "30.00",
     "precio1": "30.00",
-    "cantidad_disponible": 184
+    "cantidad_disponible": 176
   },
   {
     "id": 1909,
@@ -22677,7 +22677,7 @@
     "precio6": "418.00",
     "precio": "440.00",
     "precio1": "440.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 3
   },
   {
     "id": 1910,
@@ -22713,7 +22713,7 @@
     "precio6": "18.00",
     "precio": "30.00",
     "precio1": "30.00",
-    "cantidad_disponible": 136
+    "cantidad_disponible": 103
   },
   {
     "id": 1912,
@@ -22785,7 +22785,7 @@
     "precio6": "90.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 54
+    "cantidad_disponible": 52
   },
   {
     "id": 1916,
@@ -22821,7 +22821,7 @@
     "precio6": "415.00",
     "precio": "450.00",
     "precio1": "450.00",
-    "cantidad_disponible": 11
+    "cantidad_disponible": 10
   },
   {
     "id": 1918,
@@ -22839,7 +22839,7 @@
     "precio6": "320.00",
     "precio": "360.00",
     "precio1": "360.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 10
   },
   {
     "id": 1919,
@@ -22893,7 +22893,7 @@
     "precio6": "108.00",
     "precio": "130.00",
     "precio1": "130.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 3
   },
   {
     "id": 1922,
@@ -23084,13 +23084,13 @@
     "producto": "PARLANTE BLUETOOTH XIAOMI SOUND PARTY 50W",
     "minimo": 10,
     "estado": 1,
-    "precio2": "940.00",
-    "precio3": "930.00",
-    "precio4": "920.00",
-    "precio5": "900.00",
-    "precio6": "890.00",
-    "precio": "950.00",
-    "precio1": "950.00",
+    "precio2": "1050.00",
+    "precio3": "1040.00",
+    "precio4": "1030.00",
+    "precio5": "945.00",
+    "precio6": "940.00",
+    "precio": "1060.00",
+    "precio1": "1060.00",
     "cantidad_disponible": 0
   },
   {
@@ -23102,13 +23102,13 @@
     "producto": "CAMARA DE SEGURIDAD XIAOMI C201",
     "minimo": 10,
     "estado": 1,
-    "precio2": "295.00",
-    "precio3": "290.00",
-    "precio4": "285.00",
-    "precio5": "265.00",
-    "precio6": "263.00",
-    "precio": "300.00",
-    "precio1": "300.00",
+    "precio2": "305.00",
+    "precio3": "300.00",
+    "precio4": "295.00",
+    "precio5": "270.00",
+    "precio6": "265.00",
+    "precio": "310.00",
+    "precio1": "310.00",
     "cantidad_disponible": 0
   },
   {
@@ -23235,7 +23235,7 @@
     "precio6": "140.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 8
   },
   {
     "id": 1941,
@@ -23325,7 +23325,7 @@
     "precio6": "98.00",
     "precio": "150.00",
     "precio1": "150.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 4
   },
   {
     "id": 1946,
@@ -23343,7 +23343,7 @@
     "precio6": "90.00",
     "precio": "115.00",
     "precio1": "115.00",
-    "cantidad_disponible": 25
+    "cantidad_disponible": 23
   },
   {
     "id": 1947,
@@ -23361,7 +23361,7 @@
     "precio6": "132.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 1
   },
   {
     "id": 1948,
@@ -23415,7 +23415,7 @@
     "precio6": "465.00",
     "precio": "510.00",
     "precio1": "510.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1951,
@@ -23469,7 +23469,7 @@
     "precio6": "145.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 5
   },
   {
     "id": 1954,
@@ -23487,7 +23487,7 @@
     "precio6": "223.00",
     "precio": "260.00",
     "precio1": "260.00",
-    "cantidad_disponible": 11
+    "cantidad_disponible": 7
   },
   {
     "id": 1955,
@@ -23523,7 +23523,7 @@
     "precio6": "44.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 0
   },
   {
     "id": 1957,
@@ -23786,14 +23786,14 @@
     "producto": "PROYECTOR EPSON FLEX PORTABLE CO-W01 3000LM",
     "minimo": 10,
     "estado": 1,
-    "precio2": "4080.00",
-    "precio3": "4070.00",
-    "precio4": "4060.00",
-    "precio5": "4030.00",
-    "precio6": "4025.00",
-    "precio": "4090.00",
-    "precio1": "4090.00",
-    "cantidad_disponible": 3
+    "precio2": "4060.00",
+    "precio3": "4050.00",
+    "precio4": "4040.00",
+    "precio5": "4010.00",
+    "precio6": "4000.00",
+    "precio": "4070.00",
+    "precio1": "4070.00",
+    "cantidad_disponible": 1
   },
   {
     "id": 1973,
@@ -23829,7 +23829,7 @@
     "precio6": "4510.00",
     "precio": "4560.00",
     "precio1": "4560.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 1975,
@@ -24009,7 +24009,7 @@
     "precio6": "38.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 24
+    "cantidad_disponible": 6
   },
   {
     "id": 1985,
@@ -24027,7 +24027,7 @@
     "precio6": "27.00",
     "precio": "50.00",
     "precio1": "50.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 2
   },
   {
     "id": 1986,
@@ -24099,7 +24099,7 @@
     "precio6": "90.00",
     "precio": "110.00",
     "precio1": "110.00",
-    "cantidad_disponible": 26
+    "cantidad_disponible": 16
   },
   {
     "id": 1990,
@@ -24153,7 +24153,7 @@
     "precio6": "605.00",
     "precio": "670.00",
     "precio1": "670.00",
-    "cantidad_disponible": 13
+    "cantidad_disponible": 12
   },
   {
     "id": 1993,
@@ -24218,14 +24218,14 @@
     "producto": "CARGADOR V8 5A SAMSUNG SAM-CH-NOTE8P",
     "minimo": 10,
     "estado": 1,
-    "precio2": "48.00",
-    "precio3": "42.00",
+    "precio2": "50.00",
+    "precio3": "45.00",
     "precio4": "42.00",
     "precio5": "18.00",
     "precio6": "17.00",
-    "precio": "52.00",
-    "precio1": "52.00",
-    "cantidad_disponible": 1
+    "precio": "55.00",
+    "precio1": "55.00",
+    "cantidad_disponible": 10
   },
   {
     "id": 1997,
@@ -24243,7 +24243,7 @@
     "precio6": "760.00",
     "precio": "810.00",
     "precio1": "810.00",
-    "cantidad_disponible": 20
+    "cantidad_disponible": 17
   },
   {
     "id": 1998,
@@ -24261,7 +24261,7 @@
     "precio6": "52.00",
     "precio": "80.00",
     "precio1": "80.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 6
   },
   {
     "id": 1999,
@@ -24495,7 +24495,7 @@
     "precio6": "78.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 10
+    "cantidad_disponible": 14
   },
   {
     "id": 2012,
@@ -24585,7 +24585,7 @@
     "precio6": "52.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 1
   },
   {
     "id": 2017,
@@ -24596,13 +24596,13 @@
     "producto": "POWER BANK XIAOMI 25000MAH 212W HYPERCHARGER",
     "minimo": 10,
     "estado": 1,
-    "precio2": "760.00",
-    "precio3": "750.00",
-    "precio4": "740.00",
-    "precio5": "715.00",
-    "precio6": "710.00",
-    "precio": "770.00",
-    "precio1": "770.00",
+    "precio2": "915.00",
+    "precio3": "910.00",
+    "precio4": "905.00",
+    "precio5": "860.00",
+    "precio6": "855.00",
+    "precio": "920.00",
+    "precio1": "920.00",
     "cantidad_disponible": 0
   },
   {
@@ -24650,13 +24650,13 @@
     "producto": "AUDIFONO BLUETOOTH HAYLOU S40",
     "minimo": 10,
     "estado": 1,
-    "precio2": "580.00",
-    "precio3": "575.00",
-    "precio4": "570.00",
-    "precio5": "525.00",
-    "precio6": "520.00",
-    "precio": "585.00",
-    "precio1": "585.00",
+    "precio2": "515.00",
+    "precio3": "510.00",
+    "precio4": "505.00",
+    "precio5": "465.00",
+    "precio6": "460.00",
+    "precio": "520.00",
+    "precio1": "520.00",
     "cantidad_disponible": 0
   },
   {
@@ -24668,13 +24668,13 @@
     "producto": "AUDIFONO BLUETOOTH QCY H3S",
     "minimo": 10,
     "estado": 1,
-    "precio2": "375.00",
-    "precio3": "370.00",
-    "precio4": "365.00",
-    "precio5": "335.00",
-    "precio6": "333.00",
-    "precio": "380.00",
-    "precio1": "380.00",
+    "precio2": "435.00",
+    "precio3": "430.00",
+    "precio4": "425.00",
+    "precio5": "400.00",
+    "precio6": "395.00",
+    "precio": "440.00",
+    "precio1": "440.00",
     "cantidad_disponible": 0
   },
   {
@@ -24866,13 +24866,13 @@
     "producto": "AUDIFONO BLUETOOTH REDMI BUDS 8 LITE",
     "minimo": 10,
     "estado": 1,
-    "precio2": "260.00",
-    "precio3": "255.00",
-    "precio4": "250.00",
-    "precio5": "230.00",
-    "precio6": "225.00",
-    "precio": "265.00",
-    "precio1": "265.00",
+    "precio2": "280.00",
+    "precio3": "275.00",
+    "precio4": "270.00",
+    "precio5": "237.00",
+    "precio6": "235.00",
+    "precio": "285.00",
+    "precio1": "285.00",
     "cantidad_disponible": 1
   },
   {
@@ -25053,7 +25053,7 @@
     "precio6": "225.00",
     "precio": "255.00",
     "precio1": "255.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 5
   },
   {
     "id": 2043,
@@ -25071,7 +25071,7 @@
     "precio6": "62.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 23
+    "cantidad_disponible": 18
   },
   {
     "id": 2044,
@@ -25085,8 +25085,8 @@
     "precio2": "165.00",
     "precio3": "160.00",
     "precio4": "155.00",
-    "precio5": "140.00",
-    "precio6": "135.00",
+    "precio5": "145.00",
+    "precio6": "140.00",
     "precio": "170.00",
     "precio1": "170.00",
     "cantidad_disponible": 16
@@ -25251,7 +25251,7 @@
     "precio6": "20.00",
     "precio": "50.00",
     "precio1": "50.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 1
   },
   {
     "id": 2054,
@@ -25269,7 +25269,7 @@
     "precio6": "27.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 15
+    "cantidad_disponible": 12
   },
   {
     "id": 2055,
@@ -25287,7 +25287,7 @@
     "precio6": "82.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 34
+    "cantidad_disponible": 30
   },
   {
     "id": 2056,
@@ -25305,7 +25305,7 @@
     "precio6": "75.00",
     "precio": "110.00",
     "precio1": "110.00",
-    "cantidad_disponible": 37
+    "cantidad_disponible": 32
   },
   {
     "id": 2057,
@@ -25323,7 +25323,7 @@
     "precio6": "180.00",
     "precio": "230.00",
     "precio1": "230.00",
-    "cantidad_disponible": 18
+    "cantidad_disponible": 2
   },
   {
     "id": 2058,
@@ -25341,7 +25341,7 @@
     "precio6": "230.00",
     "precio": "260.00",
     "precio1": "260.00",
-    "cantidad_disponible": 9
+    "cantidad_disponible": 2
   },
   {
     "id": 2059,
@@ -25442,14 +25442,14 @@
     "producto": "CARGADOR XIAOMI HYPERCHARGE COMBO TIPO C 67W",
     "minimo": 10,
     "estado": 1,
-    "precio2": "195.00",
-    "precio3": "190.00",
-    "precio4": "185.00",
-    "precio5": "180.00",
-    "precio6": "175.00",
-    "precio": "200.00",
-    "precio1": "200.00",
-    "cantidad_disponible": 4
+    "precio2": "225.00",
+    "precio3": "220.00",
+    "precio4": "215.00",
+    "precio5": "188.00",
+    "precio6": "185.00",
+    "precio": "230.00",
+    "precio1": "230.00",
+    "cantidad_disponible": 7
   },
   {
     "id": 2065,
@@ -25460,14 +25460,14 @@
     "producto": "CARGADOR XIAOMI HYPERCHARGE COMBO TIPO C 120W",
     "minimo": 10,
     "estado": 1,
-    "precio2": "225.00",
-    "precio3": "220.00",
-    "precio4": "215.00",
-    "precio5": "190.00",
-    "precio6": "185.00",
-    "precio": "230.00",
-    "precio1": "230.00",
-    "cantidad_disponible": 1
+    "precio2": "270.00",
+    "precio3": "265.00",
+    "precio4": "260.00",
+    "precio5": "230.00",
+    "precio6": "228.00",
+    "precio": "275.00",
+    "precio1": "275.00",
+    "cantidad_disponible": 12
   },
   {
     "id": 2066,
@@ -25485,7 +25485,7 @@
     "precio6": "145.00",
     "precio": "190.00",
     "precio1": "190.00",
-    "cantidad_disponible": 23
+    "cantidad_disponible": 11
   },
   {
     "id": 2067,
@@ -25521,7 +25521,7 @@
     "precio6": "37.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 21
+    "cantidad_disponible": 20
   },
   {
     "id": 2069,
@@ -25568,13 +25568,13 @@
     "producto": "MODEM WIFI A CHIP HUAWEI 4G MOBILE WIFI 5",
     "minimo": 10,
     "estado": 1,
-    "precio2": "490.00",
-    "precio3": "480.00",
-    "precio4": "470.00",
-    "precio5": "430.00",
-    "precio6": "425.00",
-    "precio": "500.00",
-    "precio1": "500.00",
+    "precio2": "555.00",
+    "precio3": "550.00",
+    "precio4": "545.00",
+    "precio5": "485.00",
+    "precio6": "480.00",
+    "precio": "560.00",
+    "precio1": "560.00",
     "cantidad_disponible": 0
   },
   {
@@ -25622,13 +25622,13 @@
     "producto": "NOTEBOOK DELL 15255 4W04Y 15.6 RYZEN 5 7520U 16RAM 512GB SSD W11 SILVER TECLADO ESPAÑOL",
     "minimo": 10,
     "estado": 1,
-    "precio2": "6190.00",
-    "precio3": "6180.00",
-    "precio4": "6170.00",
-    "precio5": "6130.00",
-    "precio6": "6120.00",
-    "precio": "6200.00",
-    "precio1": "6200.00",
+    "precio2": "6140.00",
+    "precio3": "6130.00",
+    "precio4": "6120.00",
+    "precio5": "6070.00",
+    "precio6": "6060.00",
+    "precio": "6150.00",
+    "precio1": "6150.00",
     "cantidad_disponible": 0
   },
   {
@@ -25640,14 +25640,14 @@
     "producto": "NOTEBOOK DELL 15255 VYY17 RYZEN 7 7730 15.6 16RAM 1TB SSD W11 SILVER TECLADO ESPAÑOL",
     "minimo": 10,
     "estado": 1,
-    "precio2": "7390.00",
-    "precio3": "7380.00",
-    "precio4": "7370.00",
-    "precio5": "7310.00",
-    "precio6": "7300.00",
-    "precio": "7400.00",
-    "precio1": "7400.00",
-    "cantidad_disponible": 3
+    "precio2": "7340.00",
+    "precio3": "7330.00",
+    "precio4": "7320.00",
+    "precio5": "7280.00",
+    "precio6": "7270.00",
+    "precio": "7350.00",
+    "precio1": "7350.00",
+    "cantidad_disponible": 2
   },
   {
     "id": 2076,
@@ -25755,7 +25755,7 @@
     "precio6": "13.00",
     "precio": "40.00",
     "precio1": "40.00",
-    "cantidad_disponible": 10
+    "cantidad_disponible": 8
   },
   {
     "id": 2082,
@@ -25845,7 +25845,7 @@
     "precio6": "119.00",
     "precio": "180.00",
     "precio1": "180.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 1
   },
   {
     "id": 2087,
@@ -25863,7 +25863,7 @@
     "precio6": "62.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 14
   },
   {
     "id": 2088,
@@ -25881,7 +25881,7 @@
     "precio6": "68.00",
     "precio": "110.00",
     "precio1": "110.00",
-    "cantidad_disponible": 14
+    "cantidad_disponible": 12
   },
   {
     "id": 2089,
@@ -25899,7 +25899,7 @@
     "precio6": "70.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 4
   },
   {
     "id": 2090,
@@ -26072,13 +26072,13 @@
     "producto": "POWER BANK XIAOMI CABLE INTEGRADO DE 20000MAH 67W",
     "minimo": 10,
     "estado": 1,
-    "precio2": "330.00",
-    "precio3": "325.00",
-    "precio4": "320.00",
-    "precio5": "295.00",
-    "precio6": "290.00",
-    "precio": "335.00",
-    "precio1": "335.00",
+    "precio2": "495.00",
+    "precio3": "490.00",
+    "precio4": "485.00",
+    "precio5": "415.00",
+    "precio6": "410.00",
+    "precio": "500.00",
+    "precio1": "500.00",
     "cantidad_disponible": 0
   },
   {
@@ -26097,7 +26097,7 @@
     "precio6": "325.00",
     "precio": "370.00",
     "precio1": "370.00",
-    "cantidad_disponible": 9
+    "cantidad_disponible": 2
   },
   {
     "id": 2101,
@@ -26133,7 +26133,7 @@
     "precio6": "345.00",
     "precio": "410.00",
     "precio1": "410.00",
-    "cantidad_disponible": 15
+    "cantidad_disponible": 14
   },
   {
     "id": 2103,
@@ -26187,7 +26187,7 @@
     "precio6": "290.00",
     "precio": "330.00",
     "precio1": "330.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 2106,
@@ -26223,7 +26223,7 @@
     "precio6": "190.00",
     "precio": "250.00",
     "precio1": "250.00",
-    "cantidad_disponible": 21
+    "cantidad_disponible": 17
   },
   {
     "id": 2108,
@@ -26241,7 +26241,7 @@
     "precio6": "16.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 14
+    "cantidad_disponible": 11
   },
   {
     "id": 2109,
@@ -26277,7 +26277,7 @@
     "precio6": "16.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 13
+    "cantidad_disponible": 12
   },
   {
     "id": 2111,
@@ -26331,7 +26331,7 @@
     "precio6": "65.00",
     "precio": "110.00",
     "precio1": "110.00",
-    "cantidad_disponible": 45
+    "cantidad_disponible": 43
   },
   {
     "id": 2114,
@@ -26385,7 +26385,7 @@
     "precio6": "205.00",
     "precio": "270.00",
     "precio1": "270.00",
-    "cantidad_disponible": 5
+    "cantidad_disponible": 3
   },
   {
     "id": 2117,
@@ -26457,7 +26457,7 @@
     "precio6": "150.00",
     "precio": "200.00",
     "precio1": "200.00",
-    "cantidad_disponible": 7
+    "cantidad_disponible": 6
   },
   {
     "id": 2121,
@@ -26547,7 +26547,7 @@
     "precio6": "145.00",
     "precio": "185.00",
     "precio1": "185.00",
-    "cantidad_disponible": 17
+    "cantidad_disponible": 9
   },
   {
     "id": 2126,
@@ -26565,7 +26565,7 @@
     "precio6": "318.00",
     "precio": "370.00",
     "precio1": "370.00",
-    "cantidad_disponible": 21
+    "cantidad_disponible": 17
   },
   {
     "id": 2127,
@@ -26655,7 +26655,7 @@
     "precio6": "117.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 15
+    "cantidad_disponible": 5
   },
   {
     "id": 2132,
@@ -26673,7 +26673,7 @@
     "precio6": "145.00",
     "precio": "185.00",
     "precio1": "185.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 3
   },
   {
     "id": 2133,
@@ -26691,7 +26691,7 @@
     "precio6": "25.00",
     "precio": "70.00",
     "precio1": "70.00",
-    "cantidad_disponible": 14
+    "cantidad_disponible": 11
   },
   {
     "id": 2134,
@@ -26720,14 +26720,14 @@
     "producto": "DISCO SSD PORTABLE EXTERNO TIPO C LENOVO PS85 1TB",
     "minimo": 10,
     "estado": 1,
-    "precio2": "1710.00",
-    "precio3": "1700.00",
-    "precio4": "1695.00",
-    "precio5": "1655.00",
-    "precio6": "1650.00",
-    "precio": "1720.00",
-    "precio1": "1720.00",
-    "cantidad_disponible": 13
+    "precio2": "1970.00",
+    "precio3": "1960.00",
+    "precio4": "1950.00",
+    "precio5": "1870.00",
+    "precio6": "1865.00",
+    "precio": "1980.00",
+    "precio1": "1980.00",
+    "cantidad_disponible": 2
   },
   {
     "id": 2136,
@@ -26745,7 +26745,7 @@
     "precio6": "137.00",
     "precio": "190.00",
     "precio1": "190.00",
-    "cantidad_disponible": 5
+    "cantidad_disponible": 4
   },
   {
     "id": 2137,
@@ -26835,7 +26835,7 @@
     "precio6": "88.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 11
+    "cantidad_disponible": 8
   },
   {
     "id": 2142,
@@ -26882,14 +26882,14 @@
     "producto": "POWER BANK XIAOMI MAGNETICO 10000MAH 33W Y 15W INALAMBRICO",
     "minimo": 10,
     "estado": 1,
-    "precio2": "385.00",
-    "precio3": "380.00",
-    "precio4": "375.00",
-    "precio5": "355.00",
-    "precio6": "352.00",
-    "precio": "390.00",
-    "precio1": "390.00",
-    "cantidad_disponible": 6
+    "precio2": "395.00",
+    "precio3": "390.00",
+    "precio4": "385.00",
+    "precio5": "360.00",
+    "precio6": "355.00",
+    "precio": "400.00",
+    "precio1": "400.00",
+    "cantidad_disponible": 9
   },
   {
     "id": 2145,
@@ -26907,7 +26907,7 @@
     "precio6": "24.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 11
+    "cantidad_disponible": 0
   },
   {
     "id": 2146,
@@ -26925,7 +26925,7 @@
     "precio6": "290.00",
     "precio": "350.00",
     "precio1": "350.00",
-    "cantidad_disponible": 13
+    "cantidad_disponible": 11
   },
   {
     "id": 2147,
@@ -26997,7 +26997,7 @@
     "precio6": "30.00",
     "precio": "70.00",
     "precio1": "70.00",
-    "cantidad_disponible": 23
+    "cantidad_disponible": 12
   },
   {
     "id": 2152,
@@ -27213,7 +27213,7 @@
     "precio6": "65.00",
     "precio": "130.00",
     "precio1": "130.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 15
   },
   {
     "id": 2164,
@@ -27296,14 +27296,14 @@
     "producto": "PARLANTE BLUETOOTH JBL GO 5",
     "minimo": 10,
     "estado": 1,
-    "precio2": "485.00",
-    "precio3": "480.00",
-    "precio4": "475.00",
-    "precio5": "450.00",
-    "precio6": "445.00",
-    "precio": "490.00",
-    "precio1": "490.00",
-    "cantidad_disponible": 50
+    "precio2": "445.00",
+    "precio3": "440.00",
+    "precio4": "435.00",
+    "precio5": "420.00",
+    "precio6": "415.00",
+    "precio": "450.00",
+    "precio1": "450.00",
+    "cantidad_disponible": 20
   },
   {
     "id": 2169,
@@ -27314,14 +27314,14 @@
     "producto": "PARLANTE BLUETOOTH JBL PARTYBOX 520",
     "minimo": 10,
     "estado": 1,
-    "precio2": "6280.00",
-    "precio3": "6270.00",
-    "precio4": "6260.00",
-    "precio5": "6200.00",
-    "precio6": "6190.00",
-    "precio": "6290.00",
-    "precio1": "6290.00",
-    "cantidad_disponible": 1
+    "precio2": "6040.00",
+    "precio3": "6030.00",
+    "precio4": "6020.00",
+    "precio5": "5940.00",
+    "precio6": "5930.00",
+    "precio": "6050.00",
+    "precio1": "6050.00",
+    "cantidad_disponible": 0
   },
   {
     "id": 2170,
@@ -27375,7 +27375,7 @@
     "precio6": "102.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 1
   },
   {
     "id": 2173,
@@ -27411,7 +27411,7 @@
     "precio6": "97.00",
     "precio": "170.00",
     "precio1": "170.00",
-    "cantidad_disponible": 13
+    "cantidad_disponible": 9
   },
   {
     "id": 2175,
@@ -27429,7 +27429,7 @@
     "precio6": "45.00",
     "precio": "110.00",
     "precio1": "110.00",
-    "cantidad_disponible": 20
+    "cantidad_disponible": 18
   },
   {
     "id": 2176,
@@ -27483,7 +27483,7 @@
     "precio6": "80.00",
     "precio": "150.00",
     "precio1": "150.00",
-    "cantidad_disponible": 36
+    "cantidad_disponible": 33
   },
   {
     "id": 2179,
@@ -27537,7 +27537,7 @@
     "precio6": "85.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 3
   },
   {
     "id": 2182,
@@ -27555,7 +27555,7 @@
     "precio6": "115.00",
     "precio": "210.00",
     "precio1": "210.00",
-    "cantidad_disponible": 10
+    "cantidad_disponible": 8
   },
   {
     "id": 2183,
@@ -27602,14 +27602,14 @@
     "producto": "MI TV STICK XIAOMI FHD 2da GENERACION",
     "minimo": 10,
     "estado": 1,
-    "precio2": "545.00",
-    "precio3": "540.00",
-    "precio4": "535.00",
-    "precio5": "520.00",
-    "precio6": "518.00",
-    "precio": "550.00",
-    "precio1": "550.00",
-    "cantidad_disponible": 1
+    "precio2": "565.00",
+    "precio3": "560.00",
+    "precio4": "555.00",
+    "precio5": "530.00",
+    "precio6": "525.00",
+    "precio": "570.00",
+    "precio1": "570.00",
+    "cantidad_disponible": 0
   },
   {
     "id": 2186,
@@ -27699,7 +27699,7 @@
     "precio6": "250.00",
     "precio": "310.00",
     "precio1": "310.00",
-    "cantidad_disponible": 5
+    "cantidad_disponible": 0
   },
   {
     "id": 2191,
@@ -27735,7 +27735,7 @@
     "precio6": "15.00",
     "precio": "60.00",
     "precio1": "60.00",
-    "cantidad_disponible": 76
+    "cantidad_disponible": 71
   },
   {
     "id": 2193,
@@ -27789,7 +27789,7 @@
     "precio6": "56.00",
     "precio": "110.00",
     "precio1": "110.00",
-    "cantidad_disponible": 13
+    "cantidad_disponible": 9
   },
   {
     "id": 2196,
@@ -27807,7 +27807,7 @@
     "precio6": "28.00",
     "precio": "75.00",
     "precio1": "75.00",
-    "cantidad_disponible": 22
+    "cantidad_disponible": 6
   },
   {
     "id": 2197,
@@ -27825,7 +27825,7 @@
     "precio6": "45.00",
     "precio": "110.00",
     "precio1": "110.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 7
   },
   {
     "id": 2198,
@@ -27843,7 +27843,7 @@
     "precio6": "555.00",
     "precio": "590.00",
     "precio1": "590.00",
-    "cantidad_disponible": 48
+    "cantidad_disponible": 11
   },
   {
     "id": 2200,
@@ -27861,7 +27861,7 @@
     "precio6": "58.00",
     "precio": "80.00",
     "precio1": "80.00",
-    "cantidad_disponible": 16
+    "cantidad_disponible": 15
   },
   {
     "id": 2201,
@@ -27897,7 +27897,7 @@
     "precio6": "77.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 33
+    "cantidad_disponible": 30
   },
   {
     "id": 2203,
@@ -27933,7 +27933,7 @@
     "precio6": "60.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 5
+    "cantidad_disponible": 3
   },
   {
     "id": 2205,
@@ -27951,7 +27951,7 @@
     "precio6": "46.00",
     "precio": "100.00",
     "precio1": "100.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 2206,
@@ -27969,7 +27969,7 @@
     "precio6": "25.00",
     "precio": "75.00",
     "precio1": "75.00",
-    "cantidad_disponible": 2
+    "cantidad_disponible": 0
   },
   {
     "id": 2207,
@@ -28005,7 +28005,7 @@
     "precio6": "115.00",
     "precio": "160.00",
     "precio1": "160.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 9
   },
   {
     "id": 2209,
@@ -28023,7 +28023,7 @@
     "precio6": "45.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 25
+    "cantidad_disponible": 20
   },
   {
     "id": 2210,
@@ -28059,7 +28059,7 @@
     "precio6": "56.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 9
+    "cantidad_disponible": 6
   },
   {
     "id": 2212,
@@ -28095,7 +28095,7 @@
     "precio6": "83.00",
     "precio": "140.00",
     "precio1": "140.00",
-    "cantidad_disponible": 18
+    "cantidad_disponible": 2
   },
   {
     "id": 2214,
@@ -28167,7 +28167,7 @@
     "precio6": "52.00",
     "precio": "90.00",
     "precio1": "90.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 3
   },
   {
     "id": 2218,
@@ -28239,7 +28239,7 @@
     "precio6": "865.00",
     "precio": "920.00",
     "precio1": "920.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 2
   },
   {
     "id": 2222,
@@ -28275,7 +28275,7 @@
     "precio6": "535.00",
     "precio": "590.00",
     "precio1": "590.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 3
   },
   {
     "id": 2224,
@@ -28329,7 +28329,7 @@
     "precio6": "320.00",
     "precio": "355.00",
     "precio1": "355.00",
-    "cantidad_disponible": 8
+    "cantidad_disponible": 2
   },
   {
     "id": 2227,
@@ -28365,7 +28365,7 @@
     "precio6": "505.00",
     "precio": "565.00",
     "precio1": "565.00",
-    "cantidad_disponible": 1
+    "cantidad_disponible": 0
   },
   {
     "id": 2229,
@@ -28383,7 +28383,7 @@
     "precio6": "202.00",
     "precio": "260.00",
     "precio1": "260.00",
-    "cantidad_disponible": 9
+    "cantidad_disponible": 7
   },
   {
     "id": 2230,
@@ -28401,7 +28401,7 @@
     "precio6": "220.00",
     "precio": "260.00",
     "precio1": "260.00",
-    "cantidad_disponible": 6
+    "cantidad_disponible": 8
   },
   {
     "id": 2231,
@@ -28419,7 +28419,7 @@
     "precio6": "365.00",
     "precio": "420.00",
     "precio1": "420.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 2
   },
   {
     "id": 2232,
@@ -28455,7 +28455,7 @@
     "precio6": "87.00",
     "precio": "145.00",
     "precio1": "145.00",
-    "cantidad_disponible": 17
+    "cantidad_disponible": 12
   },
   {
     "id": 2234,
@@ -28491,7 +28491,7 @@
     "precio6": "262.00",
     "precio": "310.00",
     "precio1": "310.00",
-    "cantidad_disponible": 9
+    "cantidad_disponible": 8
   },
   {
     "id": 2236,
@@ -28556,14 +28556,14 @@
     "producto": "SMARTWATCH XIAOMI REDMI WATCH 6 ACTIVE",
     "minimo": 10,
     "estado": 1,
-    "precio2": "460.00",
-    "precio3": "455.00",
-    "precio4": "450.00",
+    "precio2": "475.00",
+    "precio3": "470.00",
+    "precio4": "465.00",
     "precio5": "430.00",
-    "precio6": "425.00",
-    "precio": "465.00",
-    "precio1": "465.00",
-    "cantidad_disponible": 5
+    "precio6": "430.00",
+    "precio": "480.00",
+    "precio1": "480.00",
+    "cantidad_disponible": 10
   },
   {
     "id": 2240,
@@ -28581,7 +28581,7 @@
     "precio6": "635.00",
     "precio": "670.00",
     "precio1": "670.00",
-    "cantidad_disponible": 9
+    "cantidad_disponible": 10
   },
   {
     "id": 2241,
@@ -28599,7 +28599,7 @@
     "precio6": "1030.00",
     "precio": "1100.00",
     "precio1": "1100.00",
-    "cantidad_disponible": 4
+    "cantidad_disponible": 2
   },
   {
     "id": 2242,
@@ -28617,7 +28617,7 @@
     "precio6": "1530.00",
     "precio": "1590.00",
     "precio1": "1590.00",
-    "cantidad_disponible": 3
+    "cantidad_disponible": 1
   },
   {
     "id": 2243,
@@ -28635,7 +28635,7 @@
     "precio6": "65.00",
     "precio": "115.00",
     "precio1": "115.00",
-    "cantidad_disponible": 28
+    "cantidad_disponible": 27
   },
   {
     "id": 2244,
@@ -28646,14 +28646,14 @@
     "producto": "POWER BANK UGREEN ROBOT 30W 10000MAH",
     "minimo": 10,
     "estado": 1,
-    "precio2": "475.00",
-    "precio3": "470.00",
-    "precio4": "465.00",
-    "precio5": "438.00",
-    "precio6": "435.00",
-    "precio": "480.00",
-    "precio1": "480.00",
-    "cantidad_disponible": 13
+    "precio2": "455.00",
+    "precio3": "450.00",
+    "precio4": "445.00",
+    "precio5": "435.00",
+    "precio6": "430.00",
+    "precio": "460.00",
+    "precio1": "460.00",
+    "cantidad_disponible": 10
   },
   {
     "id": 2245,
@@ -28671,7 +28671,7 @@
     "precio6": "360.00",
     "precio": "400.00",
     "precio1": "400.00",
-    "cantidad_disponible": 9
+    "cantidad_disponible": 11
   },
   {
     "id": 2246,
@@ -28707,7 +28707,7 @@
     "precio6": "155.00",
     "precio": "190.00",
     "precio1": "190.00",
-    "cantidad_disponible": 12
+    "cantidad_disponible": 11
   },
   {
     "id": 2248,
@@ -28725,7 +28725,7 @@
     "precio6": "185.00",
     "precio": "230.00",
     "precio1": "230.00",
-    "cantidad_disponible": 15
+    "cantidad_disponible": 11
   },
   {
     "id": 2249,
@@ -28736,14 +28736,14 @@
     "producto": "CARGADOR RAPIDO PARA MOTOCICLETA 60W SAS C108",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "205.00",
+    "precio3": "200.00",
+    "precio4": "195.00",
+    "precio5": "130.00",
+    "precio6": "128.00",
+    "precio": "210.00",
+    "precio1": "210.00",
+    "cantidad_disponible": 82
   },
   {
     "id": 2250,
@@ -28754,68 +28754,68 @@
     "producto": "CABLE PD TIPO C A TIPO C 240W 2 METROS SAS LC922C-240W",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "125.00",
+    "precio3": "120.00",
+    "precio4": "115.00",
+    "precio5": "75.00",
+    "precio6": "70.00",
+    "precio": "130.00",
+    "precio1": "130.00",
+    "cantidad_disponible": 27
   },
   {
     "id": 2251,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6aa8d7c178d93.png",
     "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac16cf1dd7d92.png",
     "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac16d441d6853.png",
-    "codigo": "DS-18H",
-    "producto": "HUB USB TIPO C Y USB 8 EN 1 SAS DS-18H",
+    "codigo": "SAS DS-18H",
+    "producto": "HUB USB TIPO C Y USB 8 EN 1 GIGABIT 17CM SAS DS-18H",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "285.00",
+    "precio3": "280.00",
+    "precio4": "275.00",
+    "precio5": "220.00",
+    "precio6": "215.00",
+    "precio": "290.00",
+    "precio1": "290.00",
+    "cantidad_disponible": 71
   },
   {
     "id": 2252,
-    "imagen": "https://apiback.aswin-smart.com/images/productos/6aa9e745a056a.png",
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea7cc5b0fa9.png",
     "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac18e963d5a82.png",
     "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac18e97258fe3.png",
-    "codigo": "LS901",
-    "producto": "CABLE V8 DATOS Y CARGA 25W 1 METRO SAS LS901",
+    "codigo": "SAS LS901S",
+    "producto": "CABLE V8 MICRO USB DATOS Y CARGA 25W 1 METRO SAS LS901S",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "23.00",
+    "precio3": "20.00",
+    "precio4": "20.00",
+    "precio5": "12.00",
+    "precio6": "11.00",
+    "precio": "25.00",
+    "precio1": "25.00",
+    "cantidad_disponible": 71
   },
   {
     "id": 2253,
-    "imagen": "https://apiback.aswin-smart.com/images/productos/6aab206cc9a71.png",
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea8542d2ac9.png",
     "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac1681b5ad0d2.png",
     "imagen3": "https://apiback.aswin-smart.com/images/productos/6aab206d612e2_3.png",
     "codigo": "SAS LC150",
     "producto": "ADAPTADOR TIPO C HEMBRA A USB MACHO SAS LC150",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "40.00",
+    "precio3": "35.00",
+    "precio4": "33.00",
+    "precio5": "16.00",
+    "precio6": "14.00",
+    "precio": "45.00",
+    "precio1": "45.00",
+    "cantidad_disponible": 96
   },
   {
     "id": 2254,
@@ -28826,32 +28826,32 @@
     "producto": "ADAPTADOR TIPO C Y USB A RED GIGABIT 10M/100M/1000M SAS RJ-01UC",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "140.00",
+    "precio3": "135.00",
+    "precio4": "130.00",
+    "precio5": "105.00",
+    "precio6": "100.00",
+    "precio": "145.00",
+    "precio1": "145.00",
+    "cantidad_disponible": 110
   },
   {
     "id": 2255,
-    "imagen": "https://apiback.aswin-smart.com/images/productos/6aab26a8d676c.png",
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea603b10885.png",
     "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac16be5342172.png",
     "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac16be6220703.png",
-    "codigo": "DS-144UC",
-    "producto": "ADAPTADOR TIPO C Y USB A RED Y 3 X USB 3.0 4 EN 1 SAS DS-144UC",
+    "codigo": "SAS DS-144UC",
+    "producto": "ADAPTADOR TIPO C Y USB A RED GIGABIT 4 EN 1 SAS DS-144UC 14CM",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "175.00",
+    "precio3": "170.00",
+    "precio4": "165.00",
+    "precio5": "135.00",
+    "precio6": "133.00",
+    "precio": "180.00",
+    "precio1": "180.00",
+    "cantidad_disponible": 44
   },
   {
     "id": 2256,
@@ -28905,7 +28905,7 @@
     "precio6": "54.00",
     "precio": "85.00",
     "precio1": "85.00",
-    "cantidad_disponible": 47
+    "cantidad_disponible": 45
   },
   {
     "id": 2259,
@@ -28923,7 +28923,7 @@
     "precio6": "195.00",
     "precio": "250.00",
     "precio1": "250.00",
-    "cantidad_disponible": 36
+    "cantidad_disponible": 32
   },
   {
     "id": 2260,
@@ -28941,7 +28941,7 @@
     "precio6": "68.00",
     "precio": "120.00",
     "precio1": "120.00",
-    "cantidad_disponible": 19
+    "cantidad_disponible": 25
   },
   {
     "id": 2261,
@@ -28959,7 +28959,7 @@
     "precio6": "315.00",
     "precio": "350.00",
     "precio1": "350.00",
-    "cantidad_disponible": 10
+    "cantidad_disponible": 9
   },
   {
     "id": 2262,
@@ -28977,7 +28977,7 @@
     "precio6": "180.00",
     "precio": "240.00",
     "precio1": "240.00",
-    "cantidad_disponible": 13
+    "cantidad_disponible": 0
   },
   {
     "id": 2263,
@@ -28988,50 +28988,50 @@
     "producto": "CABLE TIPO C DE 1 METRO SAS LS601",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "48.00",
+    "precio3": "45.00",
+    "precio4": "43.00",
+    "precio5": "22.00",
+    "precio6": "21.00",
+    "precio": "50.00",
+    "precio1": "50.00",
+    "cantidad_disponible": 104
   },
   {
     "id": 2264,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6ab3233ba5595.png",
     "imagen2": "https://apiback.aswin-smart.com/images/productos/6ab3233bcf410_2.png",
     "imagen3": "https://apiback.aswin-smart.com/images/default.png",
-    "codigo": "LS603",
-    "producto": "CABLE TIPO C DE 3 METRO SAS LS603",
+    "codigo": "SAS LS603",
+    "producto": "CABLE USB A TIPO C DE 3 METRO SAS LS603",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "68.00",
+    "precio3": "65.00",
+    "precio4": "63.00",
+    "precio5": "31.00",
+    "precio6": "30.00",
+    "precio": "70.00",
+    "precio1": "70.00",
+    "cantidad_disponible": 39
   },
   {
     "id": 2265,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6ab324a467094.png",
     "imagen2": "https://apiback.aswin-smart.com/images/productos/6ab324a494a48_2.png",
     "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac169a8a08543.png",
-    "codigo": "LS602",
-    "producto": "CABLE TIPO C DE 2 METRO SAS LS602",
+    "codigo": "SAS LS602",
+    "producto": "CABLE USB A TIPO C DE 2 METRO SAS LS602",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "58.00",
+    "precio3": "55.00",
+    "precio4": "53.00",
+    "precio5": "27.00",
+    "precio6": "26.00",
+    "precio": "60.00",
+    "precio1": "60.00",
+    "cantidad_disponible": 75
   },
   {
     "id": 2266,
@@ -29042,14 +29042,14 @@
     "producto": "CABLE TIPO C DE 1 METRO DE 50W SAS LS341",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "70.00",
+    "precio3": "65.00",
+    "precio4": "63.00",
+    "precio5": "28.00",
+    "precio6": "27.00",
+    "precio": "75.00",
+    "precio1": "75.00",
+    "cantidad_disponible": 99
   },
   {
     "id": 2267,
@@ -29060,14 +29060,14 @@
     "producto": "CABLE PD TIPO C A TIPO C DE 1 METRO 65W SAS LC901c",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "68.00",
+    "precio3": "65.00",
+    "precio4": "63.00",
+    "precio5": "18.00",
+    "precio6": "17.00",
+    "precio": "70.00",
+    "precio1": "70.00",
+    "cantidad_disponible": 105
   },
   {
     "id": 2268,
@@ -29078,32 +29078,32 @@
     "producto": "CABLE PD TIPO C A TIPO C DE 1 METRO 65W SAS LC441c",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "68.00",
+    "precio3": "65.00",
+    "precio4": "63.00",
+    "precio5": "20.00",
+    "precio6": "19.00",
+    "precio": "70.00",
+    "precio1": "70.00",
+    "cantidad_disponible": 103
   },
   {
     "id": 2269,
-    "imagen": "https://apiback.aswin-smart.com/images/productos/6abc5dcc5b3e8.png",
-    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac16d9f5d9e32.png",
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea6597edeb3.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea6598dafb92.png",
     "imagen3": "https://apiback.aswin-smart.com/images/productos/6abc5cb7cb289_3.png",
     "codigo": "SAS Y6-1",
-    "producto": "BARRA DE LUZ MAGNETICA RECARGABLE CON SENSOR DE MOVIMIENTO SAS Y6-1",
+    "producto": "BARRA DE LUZ MAGNETICA RECARGABLE CON SENSOR DE MOVIMIENTO SAS Y6-1 220MM",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "135.00",
+    "precio3": "130.00",
+    "precio4": "125.00",
+    "precio5": "83.00",
+    "precio6": "80.00",
+    "precio": "140.00",
+    "precio1": "140.00",
+    "cantidad_disponible": 68
   },
   {
     "id": 2270,
@@ -29114,14 +29114,14 @@
     "producto": "CABLE PD TIPO C A TIPO C DE 1 METRO 65W SAS LC341c",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "80.00",
+    "precio3": "75.00",
+    "precio4": "73.00",
+    "precio5": "35.00",
+    "precio6": "33.00",
+    "precio": "85.00",
+    "precio1": "85.00",
+    "cantidad_disponible": 100
   },
   {
     "id": 2271,
@@ -29132,32 +29132,32 @@
     "producto": "CARGADOR RAPIDO USB QC3.0 Y PD DE 20W SAS Q1",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "85.00",
+    "precio3": "80.00",
+    "precio4": "75.00",
+    "precio5": "48.00",
+    "precio6": "45.00",
+    "precio": "90.00",
+    "precio1": "90.00",
+    "cantidad_disponible": 193
   },
   {
     "id": 2272,
-    "imagen": "https://apiback.aswin-smart.com/images/productos/6ac15f7969d0b.png",
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea75da511c5.png",
     "imagen2": "https://apiback.aswin-smart.com/images/productos/6ac177e882ce82.png",
     "imagen3": "https://apiback.aswin-smart.com/images/productos/6ac177e9620ab3.png",
-    "codigo": "SAS LS351",
-    "producto": "CABLE V8 DATOS Y CARGA 50W 1 METRO SAS LS351",
+    "codigo": "SAS LS351S",
+    "producto": "CABLE USB A V8 MICRO USB DATOS Y CARGA 50W 1 METRO SAS LS351S",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "38.00",
+    "precio3": "35.00",
+    "precio4": "33.00",
+    "precio5": "23.00",
+    "precio6": "22.00",
+    "precio": "40.00",
+    "precio1": "40.00",
+    "cantidad_disponible": 105
   },
   {
     "id": 2273,
@@ -29168,14 +29168,14 @@
     "producto": "CABLE TIPO C DE 2 METRO DE 25W SAS LS852",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "38.00",
+    "precio3": "35.00",
+    "precio4": "33.00",
+    "precio5": "15.00",
+    "precio6": "14.00",
+    "precio": "40.00",
+    "precio1": "40.00",
+    "cantidad_disponible": 72
   },
   {
     "id": 2274,
@@ -29186,14 +29186,14 @@
     "producto": "ADAPTADOR TIPO C A JACK 3.5 SAS LS-Y90C",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "75.00",
+    "precio3": "70.00",
+    "precio4": "65.00",
+    "precio5": "36.00",
+    "precio6": "34.00",
+    "precio": "80.00",
+    "precio1": "80.00",
+    "cantidad_disponible": 90
   },
   {
     "id": 2275,
@@ -29204,14 +29204,14 @@
     "producto": "CARGADOR SUPER RAPIDO USB QC3.0 Y PD DE 45W SAS Q3",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "120.00",
+    "precio3": "115.00",
+    "precio4": "110.00",
+    "precio5": "77.00",
+    "precio6": "75.00",
+    "precio": "125.00",
+    "precio1": "125.00",
+    "cantidad_disponible": 188
   },
   {
     "id": 2276,
@@ -29222,14 +29222,14 @@
     "producto": "HUB USB TIPO C Y USB CON 4 PUERTOS USB 3.0 SAS DS-134uc",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "105.00",
+    "precio3": "100.00",
+    "precio4": "95.00",
+    "precio5": "80.00",
+    "precio6": "78.00",
+    "precio": "110.00",
+    "precio1": "110.00",
+    "cantidad_disponible": 88
   },
   {
     "id": 2277,
@@ -29240,14 +29240,14 @@
     "producto": "CARGADOR CIGARRERA 60W SALIDA TIPO A Y TIPO C SAS C103",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "115.00",
+    "precio3": "110.00",
+    "precio4": "105.00",
+    "precio5": "65.00",
+    "precio6": "63.00",
+    "precio": "120.00",
+    "precio1": "120.00",
+    "cantidad_disponible": 91
   },
   {
     "id": 2278,
@@ -29258,14 +29258,14 @@
     "producto": "CARGADOR INALAMBRICO PARA AUTO DE 15W SAS MA30-1",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "225.00",
+    "precio3": "220.00",
+    "precio4": "215.00",
+    "precio5": "145.00",
+    "precio6": "140.00",
+    "precio": "230.00",
+    "precio1": "230.00",
+    "cantidad_disponible": 76
   },
   {
     "id": 2279,
@@ -29276,14 +29276,14 @@
     "producto": "CABLE PD TIPO C A TIPO C DE 1.20 METRO 100W SAS LC25",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "105.00",
+    "precio3": "100.00",
+    "precio4": "95.00",
+    "precio5": "58.00",
+    "precio6": "56.00",
+    "precio": "110.00",
+    "precio1": "110.00",
+    "cantidad_disponible": 97
   },
   {
     "id": 2280,
@@ -29294,14 +29294,14 @@
     "producto": "CORTA PICOS SOCKET UNIVERSAL DE 45W/2500W SAS SC4407C",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "175.00",
+    "precio3": "170.00",
+    "precio4": "165.00",
+    "precio5": "135.00",
+    "precio6": "130.00",
+    "precio": "180.00",
+    "precio1": "180.00",
+    "cantidad_disponible": 80
   },
   {
     "id": 2281,
@@ -29312,14 +29312,14 @@
     "producto": "CABLE AUXILIAR JACK 3.5 MM DE 1.5 METROS SAS SAX1",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "28.00",
+    "precio3": "25.00",
+    "precio4": "23.00",
+    "precio5": "9.00",
+    "precio6": "8.00",
+    "precio": "30.00",
+    "precio1": "30.00",
+    "cantidad_disponible": 55
   },
   {
     "id": 2282,
@@ -29330,14 +29330,14 @@
     "producto": "CABLE CONVERSOR DE HDMI A VGA CON AUXILIAR SAS SHV1",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "60.00",
+    "precio3": "55.00",
+    "precio4": "50.00",
+    "precio5": "20.00",
+    "precio6": "19.00",
+    "precio": "65.00",
+    "precio1": "65.00",
+    "cantidad_disponible": 39
   },
   {
     "id": 2283,
@@ -29348,14 +29348,14 @@
     "producto": "CONVERSOR DISPLAY PORT DP A HDMI SAS SDH1",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "75.00",
+    "precio3": "70.00",
+    "precio4": "65.00",
+    "precio5": "27.00",
+    "precio6": "25.00",
+    "precio": "80.00",
+    "precio1": "80.00",
+    "cantidad_disponible": 24
   },
   {
     "id": 2284,
@@ -29366,14 +29366,14 @@
     "producto": "CONVERSOR DISPLAY PORT DP A HDMI/ DVI /VGA SAS SDP1X3",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "75.00",
+    "precio3": "70.00",
+    "precio4": "68.00",
+    "precio5": "47.00",
+    "precio6": "45.00",
+    "precio": "80.00",
+    "precio1": "80.00",
+    "cantidad_disponible": 41
   },
   {
     "id": 2285,
@@ -29384,32 +29384,32 @@
     "producto": "CABLE PODER PARA PC/ CPU DE 1.2 METROS SAS SPC1",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "30.00",
+    "precio3": "28.00",
+    "precio4": "25.00",
+    "precio5": "10.00",
+    "precio6": "9.00",
+    "precio": "32.00",
+    "precio1": "32.00",
+    "cantidad_disponible": 29
   },
   {
     "id": 2286,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6acfbca80eee1.png",
     "imagen2": "https://apiback.aswin-smart.com/images/productos/6acfbca831eb0_2.png",
     "imagen3": "https://apiback.aswin-smart.com/images/productos/6acfbca84cf8d_3.png",
-    "codigo": "SAS SCF3",
-    "producto": "CABLE  DE FIBRA OPTICA SC/SC PATCH CORD DE 3 METROS SAS SCF3",
+    "codigo": "SAS SFB3",
+    "producto": "CABLE  DE FIBRA OPTICA SC/SC PATCH CORD DE 3 METROS SAS SFB3",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "43.00",
+    "precio3": "40.00",
+    "precio4": "38.00",
+    "precio5": "13.00",
+    "precio6": "12.00",
+    "precio": "45.00",
+    "precio1": "45.00",
+    "cantidad_disponible": 57
   },
   {
     "id": 2287,
@@ -29420,32 +29420,32 @@
     "producto": "CABLE PODER LAPTOP SAS SPL1",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "30.00",
+    "precio3": "28.00",
+    "precio4": "25.00",
+    "precio5": "10.00",
+    "precio6": "9.00",
+    "precio": "32.00",
+    "precio1": "32.00",
+    "cantidad_disponible": 43
   },
   {
     "id": 2288,
-    "imagen": "https://apiback.aswin-smart.com/images/productos/6acfc29d5c891.png",
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea51b9c12f5.png",
     "imagen2": "https://apiback.aswin-smart.com/images/productos/6acfc29d83b05_2.png",
     "imagen3": "https://apiback.aswin-smart.com/images/productos/6acfc29da0ead_3.png",
-    "codigo": "OD SAS SCF3",
-    "producto": "CABLE OPTICO DIGITAL DE 1.5 METROS SAS SCF3",
+    "codigo": "SAS SCF3",
+    "producto": "CABLE OPTICO DIGITAL DE 3 METROS SAS SCF3",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "83.00",
+    "precio3": "80.00",
+    "precio4": "78.00",
+    "precio5": "37.00",
+    "precio6": "35.00",
+    "precio": "85.00",
+    "precio1": "85.00",
+    "cantidad_disponible": 26
   },
   {
     "id": 2289,
@@ -29456,14 +29456,14 @@
     "producto": "CABLE DE AUDIO JACK 3.5 MM A 2RCA SAS SAR1",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "33.00",
+    "precio3": "30.00",
+    "precio4": "28.00",
+    "precio5": "12.00",
+    "precio6": "11.00",
+    "precio": "35.00",
+    "precio1": "35.00",
+    "cantidad_disponible": 34
   },
   {
     "id": 2290,
@@ -29474,14 +29474,14 @@
     "producto": "SPLITTER HDMI 1X8 UHD 4K X 2K SAS SUT8",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "205.00",
+    "precio3": "200.00",
+    "precio4": "195.00",
+    "precio5": "145.00",
+    "precio6": "140.00",
+    "precio": "210.00",
+    "precio1": "210.00",
+    "cantidad_disponible": 28
   },
   {
     "id": 2291,
@@ -29492,14 +29492,14 @@
     "producto": "SPLITTER HDMI 1X2 UHD 4K X 2K SAS SS1X2",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "95.00",
+    "precio3": "90.00",
+    "precio4": "85.00",
+    "precio5": "57.00",
+    "precio6": "55.00",
+    "precio": "100.00",
+    "precio1": "100.00",
+    "cantidad_disponible": 54
   },
   {
     "id": 2292,
@@ -29510,50 +29510,50 @@
     "producto": "SPLITTER HDMI 1X4 UHD 4K X 2K SAS SUT4",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "135.00",
+    "precio3": "130.00",
+    "precio4": "125.00",
+    "precio5": "72.00",
+    "precio6": "70.00",
+    "precio": "140.00",
+    "precio1": "140.00",
+    "cantidad_disponible": 33
   },
   {
     "id": 2293,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6ad01d958b1b9.png",
     "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad01d95aa15c_2.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad01d95c25ba_3.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad16f80127563.png",
     "codigo": "SAS SUT3",
     "producto": "CABLE UTP PATCH CORD CAT 6 DE 3 METROS SAS SUT3",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "23.00",
+    "precio3": "20.00",
+    "precio4": "20.00",
+    "precio5": "14.00",
+    "precio6": "13.00",
+    "precio": "25.00",
+    "precio1": "25.00",
+    "cantidad_disponible": 41
   },
   {
     "id": 2294,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6ad01fb0a2cb6.png",
     "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad01fb0b7b61_2.png",
-    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad01fb0ce024_3.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad16f619c5f23.png",
     "codigo": "SAS SUT5",
-    "producto": "CABLE UTP PATCH CORD CAT 6 DE 3 METROS SAS SUT5",
+    "producto": "CABLE UTP PATCH CORD CAT 6 DE 5 METROS SAS SUT5",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "33.00",
+    "precio3": "30.00",
+    "precio4": "30.00",
+    "precio5": "17.00",
+    "precio6": "16.00",
+    "precio": "35.00",
+    "precio1": "35.00",
+    "cantidad_disponible": 40
   },
   {
     "id": 2295,
@@ -29564,14 +29564,14 @@
     "producto": "CABLE DE IMPRESORA USB 2.0 DE 1.5 METROS SAS SIM1",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "30.00",
+    "precio3": "28.00",
+    "precio4": "25.00",
+    "precio5": "11.00",
+    "precio6": "10.00",
+    "precio": "35.00",
+    "precio1": "35.00",
+    "cantidad_disponible": 50
   },
   {
     "id": 2296,
@@ -29582,50 +29582,50 @@
     "producto": "CONVERSOR DE USB 3.0 A VGA SAS SUV1",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "105.00",
+    "precio3": "100.00",
+    "precio4": "95.00",
+    "precio5": "70.00",
+    "precio6": "68.00",
+    "precio": "110.00",
+    "precio1": "110.00",
+    "cantidad_disponible": 28
   },
   {
     "id": 2297,
     "imagen": "https://apiback.aswin-smart.com/images/productos/6ad05315a2366.png",
     "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad05315cff6c_2.png",
     "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad05316376fa_3.png",
-    "codigo": "SAS SMUSB1.5M",
-    "producto": "CABLE DISCOS DUROS USB 3.0 A MICRO-B DE 1.5 M SAS SMUSB1.5M",
+    "codigo": "SAS SMUSB 1.5M",
+    "producto": "CABLE DISCOS DUROS USB 3.0 A MICRO-B DE 1.5 M SAS SMUSB 1.5M",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "48.00",
+    "precio3": "45.00",
+    "precio4": "43.00",
+    "precio5": "21.00",
+    "precio6": "20.00",
+    "precio": "50.00",
+    "precio1": "50.00",
+    "cantidad_disponible": 47
   },
   {
     "id": 2298,
-    "imagen": "https://apiback.aswin-smart.com/images/productos/6ad0552dabe29.png",
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea6ae71d3a8.png",
     "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad0552dc004f_2.png",
     "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad0552dd2e18_3.png",
-    "codigo": "SAS SVGA1.5M",
-    "producto": "CABLE VGA DE 1.5 METROS SAS SVGA1.5M",
+    "codigo": "SAS SVGA 1.5M",
+    "producto": "CABLE VGA DE 1.5 METROS SAS SVGA 1.5M",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "33.00",
+    "precio3": "30.00",
+    "precio4": "28.00",
+    "precio5": "10.00",
+    "precio6": "9.00",
+    "precio": "35.00",
+    "precio1": "35.00",
+    "cantidad_disponible": 42
   },
   {
     "id": 2299,
@@ -29636,14 +29636,14 @@
     "producto": "CONVERSOR OPTICO DIGITAL A ANALOGO AV SAS SAD1",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
-    "cantidad_disponible": 0
+    "precio2": "73.00",
+    "precio3": "70.00",
+    "precio4": "68.00",
+    "precio5": "39.00",
+    "precio6": "38.00",
+    "precio": "75.00",
+    "precio1": "75.00",
+    "cantidad_disponible": 24
   },
   {
     "id": 2300,
@@ -29654,13 +29654,1687 @@
     "producto": "CABLE HDMI 1.4V DE 1.5 METROS SAS SFH1",
     "minimo": 10,
     "estado": 1,
-    "precio2": "0.00",
-    "precio3": "0.00",
-    "precio4": "0.00",
-    "precio5": "0.00",
-    "precio6": "0.00",
-    "precio": "0.00",
-    "precio1": "0.00",
+    "precio2": "33.00",
+    "precio3": "30.00",
+    "precio4": "28.00",
+    "precio5": "12.00",
+    "precio6": "11.00",
+    "precio": "35.00",
+    "precio1": "35.00",
+    "cantidad_disponible": 24
+  },
+  {
+    "id": 2301,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea55c32d4af.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad1016358b482.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad1016373b583.png",
+    "codigo": "SAS SFH3",
+    "producto": "CABLE HDMI 1.4V DE 3 METROS SAS SFH3",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "43.00",
+    "precio3": "40.00",
+    "precio4": "38.00",
+    "precio5": "17.00",
+    "precio6": "16.00",
+    "precio": "45.00",
+    "precio1": "45.00",
+    "cantidad_disponible": 27
+  },
+  {
+    "id": 2302,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea564504dff.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad101544e7b6_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad10154618bc_3.png",
+    "codigo": "SAS SFH5",
+    "producto": "CABLE HDMI 1.4V DE 5 METROS SAS SFH5",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "55.00",
+    "precio3": "50.00",
+    "precio4": "48.00",
+    "precio5": "24.00",
+    "precio6": "22.00",
+    "precio": "60.00",
+    "precio1": "60.00",
+    "cantidad_disponible": 37
+  },
+  {
+    "id": 2303,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea55ea658ee.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad101c2edb9e_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad101c30e1be_3.png",
+    "codigo": "SAS SFH10",
+    "producto": "CABLE HDMI 1.4V DE 10 METROS SAS SFH10",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "80.00",
+    "precio3": "75.00",
+    "precio4": "70.00",
+    "precio5": "35.00",
+    "precio6": "33.00",
+    "precio": "85.00",
+    "precio1": "85.00",
+    "cantidad_disponible": 18
+  },
+  {
+    "id": 2304,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea56a4f13bf.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad101f547390_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad101f55cff0_3.png",
+    "codigo": "SAS SFH20",
+    "producto": "CABLE HDMI 1.4V DE 20 METROS SAS SFH20",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "125.00",
+    "precio3": "120.00",
+    "precio4": "115.00",
+    "precio5": "52.00",
+    "precio6": "50.00",
+    "precio": "130.00",
+    "precio1": "130.00",
+    "cantidad_disponible": 16
+  },
+  {
+    "id": 2305,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea56653ed25.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad102932a022_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad10293402c6_3.png",
+    "codigo": "SAS SFH30",
+    "producto": "CABLE HDMI 1.4V DE 30 METROS SAS SFH30",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "155.00",
+    "precio3": "150.00",
+    "precio4": "145.00",
+    "precio5": "90.00",
+    "precio6": "87.00",
+    "precio": "160.00",
+    "precio1": "160.00",
+    "cantidad_disponible": 19
+  },
+  {
+    "id": 2306,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ad9593d841c2.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad103dd0b946_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad103dd1f479_3.png",
+    "codigo": "SAS S2K1",
+    "producto": "CABLE HDMI 2.0V DE 1.5 METROS SAS S2K1",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "43.00",
+    "precio3": "40.00",
+    "precio4": "40.00",
+    "precio5": "17.00",
+    "precio6": "16.00",
+    "precio": "45.00",
+    "precio1": "45.00",
+    "cantidad_disponible": 36
+  },
+  {
+    "id": 2307,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea5d99d51ee.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad10531cb527_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad10531df10d_3.png",
+    "codigo": "SAS S2K3",
+    "producto": "CABLE HDMI 2.0V DE 3 METROS SAS S2K3",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "58.00",
+    "precio3": "55.00",
+    "precio4": "55.00",
+    "precio5": "24.00",
+    "precio6": "22.00",
+    "precio": "60.00",
+    "precio1": "60.00",
+    "cantidad_disponible": 36
+  },
+  {
+    "id": 2308,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ad95aace33f3.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad1069ec1dca_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad1069ed7205_3.png",
+    "codigo": "SAS S2K5",
+    "producto": "CABLE HDMI 2.0V DE 5 METROS SAS S2K5",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "78.00",
+    "precio3": "75.00",
+    "precio4": "73.00",
+    "precio5": "32.00",
+    "precio6": "30.00",
+    "precio": "80.00",
+    "precio1": "80.00",
+    "cantidad_disponible": 21
+  },
+  {
+    "id": 2309,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ad95a558ca65.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad106e6ecf62_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad106e70a95a_3.png",
+    "codigo": "SAS S2K10",
+    "producto": "CABLE HDMI 2.0V DE 10 METROS SAS S2K10",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "125.00",
+    "precio3": "120.00",
+    "precio4": "115.00",
+    "precio5": "63.00",
+    "precio6": "60.00",
+    "precio": "130.00",
+    "precio1": "130.00",
+    "cantidad_disponible": 13
+  },
+  {
+    "id": 2310,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aeba7aca7bb1.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad10726684ae_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad107267bba4_3.png",
+    "codigo": "SAS S2K20",
+    "producto": "CABLE HDMI 2.0V DE 20 METROS SAS S2K20",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "175.00",
+    "precio3": "170.00",
+    "precio4": "165.00",
+    "precio5": "93.00",
+    "precio6": "90.00",
+    "precio": "180.00",
+    "precio1": "180.00",
+    "cantidad_disponible": 9
+  },
+  {
+    "id": 2311,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea5a3caf47e.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad10794c9dc1_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad10794dedf5_3.png",
+    "codigo": "SAS S2K30",
+    "producto": "CABLE HDMI 2.0V DE 30 METROS SAS S2K30",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "215.00",
+    "precio3": "210.00",
+    "precio4": "205.00",
+    "precio5": "125.00",
+    "precio6": "120.00",
+    "precio": "220.00",
+    "precio1": "220.00",
+    "cantidad_disponible": 6
+  },
+  {
+    "id": 2312,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea5a7b7af3a.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad10b6d0e233_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad10b6d2c0b2_3.png",
+    "codigo": "SAS S8K1",
+    "producto": "CABLE HDMI 2.1V DE 1.5 METROS SAS S8K1",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "53.00",
+    "precio3": "50.00",
+    "precio4": "48.00",
+    "precio5": "25.00",
+    "precio6": "23.00",
+    "precio": "55.00",
+    "precio1": "55.00",
+    "cantidad_disponible": 39
+  },
+  {
+    "id": 2313,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea574cbf9e8.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad10ba7dda51_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad10ba80686f_3.png",
+    "codigo": "SAS S8K3",
+    "producto": "CABLE HDMI 2.1V DE 3 METROS SAS S8K3",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "68.00",
+    "precio3": "65.00",
+    "precio4": "63.00",
+    "precio5": "32.00",
+    "precio6": "30.00",
+    "precio": "70.00",
+    "precio1": "70.00",
+    "cantidad_disponible": 14
+  },
+  {
+    "id": 2314,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea5ca3e277a.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad10bdd28731_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad10bdd4a57e_3.png",
+    "codigo": "SAS S8K5",
+    "producto": "CABLE HDMI 2.1V DE 5 METROS SAS S8K5",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "105.00",
+    "precio3": "100.00",
+    "precio4": "95.00",
+    "precio5": "57.00",
+    "precio6": "54.00",
+    "precio": "110.00",
+    "precio1": "110.00",
+    "cantidad_disponible": 8
+  },
+  {
+    "id": 2315,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aeb7fa28c054.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad10d340de38_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad10d342dafd_3.png",
+    "codigo": "SAS S8K10",
+    "producto": "CABLE HDMI 2.1V DE 10 METROS SAS S8K10",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "155.00",
+    "precio3": "150.00",
+    "precio4": "145.00",
+    "precio5": "95.00",
+    "precio6": "93.00",
+    "precio": "160.00",
+    "precio1": "160.00",
+    "cantidad_disponible": 12
+  },
+  {
+    "id": 2316,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ad959b341d22.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad10e9d20afb_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad10e9d4fd49_3.png",
+    "codigo": "SAS S8K20",
+    "producto": "CABLE HDMI 2.1V FIBRA OPTICA DE 20 METROS SAS S8K20",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "285.00",
+    "precio3": "280.00",
+    "precio4": "275.00",
+    "precio5": "215.00",
+    "precio6": "210.00",
+    "precio": "290.00",
+    "precio1": "290.00",
+    "cantidad_disponible": 10
+  },
+  {
+    "id": 2317,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea55571d6d6.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea55579bf212.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea5557ad8783.png",
+    "codigo": "SAS S8K30",
+    "producto": "CABLE HDMI 2.1V FIBRA OPTICA DE 30 METROS SAS S8K30",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "335.00",
+    "precio3": "330.00",
+    "precio4": "325.00",
+    "precio5": "275.00",
+    "precio6": "270.00",
+    "precio": "340.00",
+    "precio1": "340.00",
+    "cantidad_disponible": 11
+  },
+  {
+    "id": 2318,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ad95990cd8b3.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad10fc69d76a_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad10fc6d5c4a_3.png",
+    "codigo": "SAS S8K50",
+    "producto": "CABLE HDMI 2.1V FIBRA OPTICA DE 50 METROS SAS S8K50",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "415.00",
+    "precio3": "410.00",
+    "precio4": "405.00",
+    "precio5": "340.00",
+    "precio6": "335.00",
+    "precio": "420.00",
+    "precio1": "420.00",
+    "cantidad_disponible": 18
+  },
+  {
+    "id": 2319,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ad95878f18ba.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad1392334176_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad13923510eb_3.png",
+    "codigo": "SAS SEU21",
+    "producto": "CABLE EXTENSOR DE USB 2.0 DE 1.5 METROS SAS SEU21",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "33.00",
+    "precio3": "30.00",
+    "precio4": "28.00",
+    "precio5": "9.00",
+    "precio6": "8.00",
+    "precio": "35.00",
+    "precio1": "35.00",
+    "cantidad_disponible": 41
+  },
+  {
+    "id": 2320,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ad9589a18925.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad1496aaffc1_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad1496ad23cb_3.png",
+    "codigo": "SAS SEU25",
+    "producto": "CABLE EXTENSOR DE USB 2.0 DE 5 METROS SAS SEU25",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "63.00",
+    "precio3": "60.00",
+    "precio4": "58.00",
+    "precio5": "22.00",
+    "precio6": "21.00",
+    "precio": "65.00",
+    "precio1": "65.00",
+    "cantidad_disponible": 35
+  },
+  {
+    "id": 2321,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea56ec96506.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad16834cb24d_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad16834f2f2f_3.png",
+    "codigo": "SAS SEU210",
+    "producto": "CABLE EXTENSOR DE USB 2.0 DE 10 METROS SAS SEU210",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "95.00",
+    "precio3": "90.00",
+    "precio4": "85.00",
+    "precio5": "50.00",
+    "precio6": "48.00",
+    "precio": "100.00",
+    "precio1": "100.00",
+    "cantidad_disponible": 29
+  },
+  {
+    "id": 2322,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea6b391c015.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad16c5805d49_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad16c5818695_3.png",
+    "codigo": "SAS SEU35",
+    "producto": "CABLE EXTENSOR DE USB 3.0 DE 5 METROS SAS SEU35",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "85.00",
+    "precio3": "80.00",
+    "precio4": "75.00",
+    "precio5": "40.00",
+    "precio6": "39.00",
+    "precio": "90.00",
+    "precio1": "90.00",
+    "cantidad_disponible": 35
+  },
+  {
+    "id": 2323,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aebd32b63587.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aebd32ba126a2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aebd32bbc2893.png",
+    "codigo": "SAS SEU310",
+    "producto": "CABLE EXTENSOR DE USB 3.0 DE 10 METROS SAS SEU310",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "235.00",
+    "precio3": "230.00",
+    "precio4": "225.00",
+    "precio5": "190.00",
+    "precio6": "185.00",
+    "precio": "240.00",
+    "precio1": "240.00",
+    "cantidad_disponible": 29
+  },
+  {
+    "id": 2324,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea5c0e80edc.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea5c0f036772.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea5c0f26a423.png",
+    "codigo": "SAS SKVM120",
+    "producto": "EXTENSOR INALAMBRICO DE VIDEO HDMI HDTV OVER EXTENDER SAS SKVM120",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "415.00",
+    "precio3": "410.00",
+    "precio4": "405.00",
+    "precio5": "350.00",
+    "precio6": "345.00",
+    "precio": "420.00",
+    "precio1": "420.00",
+    "cantidad_disponible": 34
+  },
+  {
+    "id": 2325,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea5d469f8e9.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad16f4e39882_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad16f4e4b7fe_3.png",
+    "codigo": "SAS SUT1",
+    "producto": "CABLE UTP PATCH CORD CAT 6 DE 1 METROS SAS SUT1",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "13.00",
+    "precio3": "12.00",
+    "precio4": "12.00",
+    "precio5": "9.00",
+    "precio6": "8.00",
+    "precio": "15.00",
+    "precio1": "15.00",
+    "cantidad_disponible": 41
+  },
+  {
+    "id": 2326,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea5d284b175.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad170588ceb4_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad17058adc93_3.png",
+    "codigo": "SAS SUT2",
+    "producto": "CABLE UTP PATCH CORD CAT 6 DE 2 METROS SAS SUT2",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "18.00",
+    "precio3": "15.00",
+    "precio4": "15.00",
+    "precio5": "11.00",
+    "precio6": "10.00",
+    "precio": "20.00",
+    "precio1": "20.00",
+    "cantidad_disponible": 42
+  },
+  {
+    "id": 2327,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ad9578a47c3f.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad172279b133_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad17227b5037_3.png",
+    "codigo": "SAS SUT10",
+    "producto": "CABLE UTP PATCH CORD CAT 6 DE 10 METROS SAS SUT10",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "53.00",
+    "precio3": "50.00",
+    "precio4": "48.00",
+    "precio5": "23.00",
+    "precio6": "22.00",
+    "precio": "55.00",
+    "precio1": "55.00",
+    "cantidad_disponible": 21
+  },
+  {
+    "id": 2328,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ad957b119f1d.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad172626e4c4_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad172628f763_3.png",
+    "codigo": "SAS SUT15",
+    "producto": "CABLE UTP PATCH CORD CAT 6 DE 15 METROS SAS SUT15",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "68.00",
+    "precio3": "65.00",
+    "precio4": "63.00",
+    "precio5": "30.00",
+    "precio6": "29.00",
+    "precio": "70.00",
+    "precio1": "70.00",
+    "cantidad_disponible": 25
+  },
+  {
+    "id": 2329,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea5aa038a8a.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad17298540cd_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad172986f509_3.png",
+    "codigo": "SAS SUT30",
+    "producto": "CABLE UTP PATCH CORD CAT 6 DE 30 METROS SAS SUT30",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "105.00",
+    "precio3": "100.00",
+    "precio4": "95.00",
+    "precio5": "50.00",
+    "precio6": "48.00",
+    "precio": "110.00",
+    "precio1": "110.00",
+    "cantidad_disponible": 29
+  },
+  {
+    "id": 2330,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ad9576b2c274.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad172bdec77c_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad172be12634_3.png",
+    "codigo": "SAS SUT50",
+    "producto": "CABLE UTP PATCH CORD CAT 6 DE 50 METROS SAS SUT50",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "145.00",
+    "precio3": "140.00",
+    "precio4": "135.00",
+    "precio5": "78.00",
+    "precio6": "76.00",
+    "precio": "150.00",
+    "precio1": "150.00",
+    "cantidad_disponible": 31
+  },
+  {
+    "id": 2331,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea511a37a53.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad1739d9c7ec_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad1739dabd2b_3.png",
+    "codigo": "SAS SDH18",
+    "producto": "CABLE CONVERSOR DE DISPLAYPORT A HDMI DE 1.8 METROS SAS SDH18",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "70.00",
+    "precio3": "65.00",
+    "precio4": "60.00",
+    "precio5": "34.00",
+    "precio6": "32.00",
+    "precio": "75.00",
+    "precio1": "75.00",
+    "cantidad_disponible": 14
+  },
+  {
+    "id": 2332,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ad95a1a13b8d.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad1747f8f93f2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad1746c41c38_3.png",
+    "codigo": "SAS SAH1",
+    "producto": "CONVERSOR RCA O AV2 A HDMI SAS SAH1",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "80.00",
+    "precio3": "75.00",
+    "precio4": "70.00",
+    "precio5": "40.00",
+    "precio6": "38.00",
+    "precio": "85.00",
+    "precio1": "85.00",
+    "cantidad_disponible": 19
+  },
+  {
+    "id": 2333,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae1279ae325c.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ae1279b3dea02.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad17652e32e9_3.png",
+    "codigo": "SAS SUH4",
+    "producto": "CONVERSOR USB 3.0 A HDMI 4K SAS SUH4",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "115.00",
+    "precio3": "110.00",
+    "precio4": "105.00",
+    "precio5": "85.00",
+    "precio6": "83.00",
+    "precio": "120.00",
+    "precio1": "120.00",
+    "cantidad_disponible": 36
+  },
+  {
+    "id": 2334,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ad952c99b619.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad952ca343122.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad952ca4c3793.png",
+    "codigo": "SAS SCF1",
+    "producto": "CABLE OPTICO DIGITAL DE 1.5 METROS SAS SCF1",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "53.00",
+    "precio3": "50.00",
+    "precio4": "48.00",
+    "precio5": "29.00",
+    "precio6": "27.00",
+    "precio": "55.00",
+    "precio1": "55.00",
+    "cantidad_disponible": 32
+  },
+  {
+    "id": 2335,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea828501287.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea82856d1042.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea82858e6153.png",
+    "codigo": "SAS LS851S",
+    "producto": "CABLE V8 MICRO USB DATOS Y CARGA 1 METRO SAS LS851S",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "25.00",
+    "precio3": "23.00",
+    "precio4": "20.00",
+    "precio5": "11.00",
+    "precio6": "10.00",
+    "precio": "28.00",
+    "precio1": "28.00",
+    "cantidad_disponible": 80
+  },
+  {
+    "id": 2336,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea819edef36.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea81a0603862.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea81a072e863.png",
+    "codigo": "SAS LS851i",
+    "producto": "CABLE LIGHTNING CARGA RAPIDA 25W 1 METRO SAS LS851i",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "33.00",
+    "precio3": "30.00",
+    "precio4": "25.00",
+    "precio5": "12.00",
+    "precio6": "11.50",
+    "precio": "35.00",
+    "precio1": "35.00",
+    "cantidad_disponible": 85
+  },
+  {
+    "id": 2337,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea816194bce.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea8161e90722.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea8162131413.png",
+    "codigo": "SAS LS851C",
+    "producto": "CABLE TIPO C CARGA RAPIDA 25W 1 METRO SAS LS851C",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "28.00",
+    "precio3": "25.00",
+    "precio4": "23.00",
+    "precio5": "12.00",
+    "precio6": "11.50",
+    "precio": "30.00",
+    "precio1": "30.00",
+    "cantidad_disponible": 70
+  },
+  {
+    "id": 2338,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aeba758e62e1.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aeba75943e272.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aeba7595609d3.png",
+    "codigo": "SAS SEU33",
+    "producto": "CABLE EXTENSOR DE USB 3.0 DE 3 METROS SAS SEU33",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "48.00",
+    "precio3": "45.00",
+    "precio4": "43.00",
+    "precio5": "27.00",
+    "precio6": "26.00",
+    "precio": "50.00",
+    "precio1": "50.00",
+    "cantidad_disponible": 32
+  },
+  {
+    "id": 2339,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aeb7ea5e78f9.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ad56aa8704d1_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ad56aa889a96_3.png",
+    "codigo": "SAS SHA1",
+    "producto": "CONVERSOR HDMI A RCA O AV2 SAS SHA1",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "80.00",
+    "precio3": "75.00",
+    "precio4": "70.00",
+    "precio5": "40.00",
+    "precio6": "38.00",
+    "precio": "85.00",
+    "precio1": "85.00",
+    "cantidad_disponible": 41
+  },
+  {
+    "id": 2340,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae148a8e0a18.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ae148a94f9952.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ae148a9809da3.png",
+    "codigo": "SAS S-M41S",
+    "producto": "CASE ENCLOSURE SSD M.2 NVME USB 3.2 SAS S-M41S",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "145.00",
+    "precio3": "140.00",
+    "precio4": "135.00",
+    "precio5": "113.00",
+    "precio6": "110.00",
+    "precio": "150.00",
+    "precio1": "150.00",
+    "cantidad_disponible": 92
+  },
+  {
+    "id": 2341,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae147fdb509d.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ae147fe82a462.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ae147fecef433.png",
+    "codigo": "SAS S-M42S",
+    "producto": "CASE ENCLOSURE SSD M.2 NVME USB 3.2 SAS S-M42S",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "145.00",
+    "precio3": "140.00",
+    "precio4": "135.00",
+    "precio5": "113.00",
+    "precio6": "110.00",
+    "precio": "150.00",
+    "precio1": "150.00",
+    "cantidad_disponible": 92
+  },
+  {
+    "id": 2342,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aeba6d42b379.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6adad4c4522562.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aeba6d45a9803.png",
+    "codigo": "SAS S-Y583",
+    "producto": "ADAPTADOR DE USB 3.0 A SATA DATOS Y CARGA SAS S-Y583",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "80.00",
+    "precio3": "75.00",
+    "precio4": "70.00",
+    "precio5": "33.00",
+    "precio6": "32.00",
+    "precio": "85.00",
+    "precio1": "85.00",
+    "cantidad_disponible": 90
+  },
+  {
+    "id": 2343,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae4efd11c54c.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6adad4aac6b852.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ae4efd14e77e3.png",
+    "codigo": "SAS S-Y553",
+    "producto": "ADAPTADOR DE USB 3.0 A SATA SAS S-Y553",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "75.00",
+    "precio3": "70.00",
+    "precio4": "65.00",
+    "precio5": "32.00",
+    "precio6": "31.00",
+    "precio": "80.00",
+    "precio1": "80.00",
+    "cantidad_disponible": 89
+  },
+  {
+    "id": 2344,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae1449ce6a90.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6adad3259d4192.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6adad325b03573.png",
+    "codigo": "SAS S-H31U",
+    "producto": "CASE 2.5 PULG TRANSPARENTE USB 3.0 SAS S-H31U",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "63.00",
+    "precio3": "60.00",
+    "precio4": "58.00",
+    "precio5": "31.00",
+    "precio6": "30.00",
+    "precio": "65.00",
+    "precio1": "65.00",
+    "cantidad_disponible": 83
+  },
+  {
+    "id": 2345,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae1423160d66.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ae142321279a2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ae14232596613.png",
+    "codigo": "SAS S-H33U",
+    "producto": "CASE 2.5 PULG ALUMINIO USB 3.0 SAS S-H33U",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "63.00",
+    "precio3": "60.00",
+    "precio4": "58.00",
+    "precio5": "32.00",
+    "precio6": "31.00",
+    "precio": "65.00",
+    "precio1": "65.00",
+    "cantidad_disponible": 84
+  },
+  {
+    "id": 2346,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae14f4b3c811.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ae14f4bef95d2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ae14f4c1f1d33.png",
+    "codigo": "SAS S-H30U",
+    "producto": "CASE 2.5 PULG ELIPTICA ALUMINIO USB 3.0 SAS S-H30U",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "73.00",
+    "precio3": "70.00",
+    "precio4": "68.00",
+    "precio5": "43.00",
+    "precio6": "42.00",
+    "precio": "75.00",
+    "precio1": "75.00",
+    "cantidad_disponible": 90
+  },
+  {
+    "id": 2347,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae1438a1ac66.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6adad16f966832.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ae1438a86c793.png",
+    "codigo": "SAS S-H32U",
+    "producto": "CASE 2.5 PULG ALUMINIO USB 3.0 SAS S-H32U",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "73.00",
+    "precio3": "70.00",
+    "precio4": "68.00",
+    "precio5": "41.00",
+    "precio6": "40.00",
+    "precio": "75.00",
+    "precio1": "75.00",
+    "cantidad_disponible": 90
+  },
+  {
+    "id": 2348,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae37c18a2b21.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ae37c19735312.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ae37c19cf10f3.png",
+    "codigo": "SAS S-H27U",
+    "producto": "CASE 3.5 PULG ALUMINIO USB 3.0 SAS S-H27U",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "145.00",
+    "precio3": "140.00",
+    "precio4": "135.00",
+    "precio5": "97.00",
+    "precio6": "95.00",
+    "precio": "150.00",
+    "precio1": "150.00",
+    "cantidad_disponible": 90
+  },
+  {
+    "id": 2349,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae37d8d75d4b.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ae37d8de27c82.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ae37d8e15ffe3.png",
+    "codigo": "SAS S-H26U",
+    "producto": "CASE 3.5 PULG ALUMINIO USB 3.0 SAS S-H26U",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "145.00",
+    "precio3": "140.00",
+    "precio4": "135.00",
+    "precio5": "102.00",
+    "precio6": "100.00",
+    "precio": "150.00",
+    "precio1": "150.00",
+    "cantidad_disponible": 87
+  },
+  {
+    "id": 2350,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae29765e7a4e.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6adad666ae8da_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ae2976650cc03.png",
+    "codigo": "SAS S-G13R",
+    "producto": "LECTOR QUEMADOR CD/DVD USB Y TIPO C SAS S-G13R",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "195.00",
+    "precio3": "190.00",
+    "precio4": "185.00",
+    "precio5": "155.00",
+    "precio6": "153.00",
+    "precio": "200.00",
+    "precio1": "200.00",
+    "cantidad_disponible": 90
+  },
+  {
+    "id": 2351,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae29a0f29c22.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ae29a0f755852.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ae29a0f8f0c53.png",
+    "codigo": "SAS S-G12R",
+    "producto": "LECTOR QUEMADOR CD/DVD CON LECTOR DE MEMORIAS USB Y TIPO C SAS S-G12R",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "205.00",
+    "precio3": "200.00",
+    "precio4": "195.00",
+    "precio5": "157.00",
+    "precio6": "155.00",
+    "precio": "210.00",
+    "precio1": "210.00",
+    "cantidad_disponible": 90
+  },
+  {
+    "id": 2352,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae37aa47b12e.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ae37aa5128a32.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ae37aa57155d3.png",
+    "codigo": "SAS S-G11R",
+    "producto": "LECTOR QUEMADOR CD/DVD USB Y TIPO C 7 EN 1 SAS S-G11R",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "215.00",
+    "precio3": "210.00",
+    "precio4": "205.00",
+    "precio5": "165.00",
+    "precio6": "160.00",
+    "precio": "220.00",
+    "precio1": "220.00",
+    "cantidad_disponible": 90
+  },
+  {
+    "id": 2353,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae29bacc2769.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ae29bad28f7e2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ae29bad41e093.png",
+    "codigo": "SAS S-G12L",
+    "producto": "LECTOR QUEMADOR BLU-RAY MULTIFUNCIONAL USB Y TIPO C SAS S-G12L",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "655.00",
+    "precio3": "650.00",
+    "precio4": "645.00",
+    "precio5": "575.00",
+    "precio6": "570.00",
+    "precio": "660.00",
+    "precio1": "660.00",
+    "cantidad_disponible": 84
+  },
+  {
+    "id": 2354,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae37924ae7db.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ae37924f13922.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ae3792507e983.png",
+    "codigo": "SAS S-G11L",
+    "producto": "LECTOR QUEMADOR BLU-RAY USB Y TIPO C 7 EN 1 SAS S-G11L",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "655.00",
+    "precio3": "650.00",
+    "precio4": "645.00",
+    "precio5": "575.00",
+    "precio6": "570.00",
+    "precio": "660.00",
+    "precio1": "660.00",
+    "cantidad_disponible": 84
+  },
+  {
+    "id": 2355,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae12699c1697.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6adad9969066b_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ae1269a54fc33.png",
+    "codigo": "SAS S-T31W",
+    "producto": "HUB TIPO C A HDMI/ USB/ TIPO C CARGA SAS S-T31W",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "95.00",
+    "precio3": "90.00",
+    "precio4": "85.00",
+    "precio5": "50.00",
+    "precio6": "48.00",
+    "precio": "100.00",
+    "precio1": "100.00",
+    "cantidad_disponible": 87
+  },
+  {
+    "id": 2356,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae298d03c01f.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ae298d0eb20d2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ae298d121f773.png",
+    "codigo": "SAS S-G02R",
+    "producto": "LECTOR QUEMADOR CD/DVD USB Y TIPO C SAS S-G02R",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "165.00",
+    "precio3": "160.00",
+    "precio4": "160.00",
+    "precio5": "108.00",
+    "precio6": "105.00",
+    "precio": "170.00",
+    "precio1": "170.00",
+    "cantidad_disponible": 94
+  },
+  {
+    "id": 2357,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6ae3772323271.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6ae37723ce3ef2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6ae3772406b6b3.png",
+    "codigo": "SAS S-G04R",
+    "producto": "LECTOR QUEMADOR CD/DVD USB Y TIPO C SAS S-G04R",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "165.00",
+    "precio3": "160.00",
+    "precio4": "160.00",
+    "precio5": "108.00",
+    "precio6": "105.00",
+    "precio": "170.00",
+    "precio1": "170.00",
+    "cantidad_disponible": 93
+  },
+  {
+    "id": 2358,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea6a885b9bc.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea6a88a020c2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea6a88b0f003.png",
+    "codigo": "SAS SEU23",
+    "producto": "CABLE EXTENSOR DE USB 2.0 DE 3 METROS SAS SEU23",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "43.00",
+    "precio3": "40.00",
+    "precio4": "38.00",
+    "precio5": "15.00",
+    "precio6": "14.00",
+    "precio": "45.00",
+    "precio1": "45.00",
+    "cantidad_disponible": 65
+  },
+  {
+    "id": 2359,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea69973bf46.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea69977fc0f2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea699797a143.png",
+    "codigo": "SAS SEU31",
+    "producto": "CABLE EXTENSOR DE USB 3.0 DE 1.5 METROS SAS SEU31",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "38.00",
+    "precio3": "35.00",
+    "precio4": "33.00",
+    "precio5": "20.00",
+    "precio6": "19.00",
+    "precio": "40.00",
+    "precio1": "40.00",
+    "cantidad_disponible": 70
+  },
+  {
+    "id": 2360,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea679a4d418.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea679a966af2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea679abbac33.png",
+    "codigo": "SAS SIM3",
+    "producto": "CABLE DE IMPRESORA USB 2.0 DE 3 METROS SAS SIM3",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "38.00",
+    "precio3": "35.00",
+    "precio4": "35.00",
+    "precio5": "16.00",
+    "precio6": "15.00",
+    "precio": "40.00",
+    "precio1": "40.00",
+    "cantidad_disponible": 50
+  },
+  {
+    "id": 2361,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aeba39b589d9.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aeba39bcc73e2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aeba39c1cb8e3.png",
+    "codigo": "SAS SUOD6100",
+    "producto": "CABLE UTP CAJA CARRETA CAT 6 EXTERIOR DE 100 METROS SAS SUOD6100",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "225.00",
+    "precio3": "220.00",
+    "precio4": "215.00",
+    "precio5": "190.00",
+    "precio6": "185.00",
+    "precio": "230.00",
+    "precio1": "230.00",
+    "cantidad_disponible": 14
+  },
+  {
+    "id": 2362,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aeba4b54f376.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aeba4b626ef42.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aeba4b6959613.png",
+    "codigo": "SAS SUOD6305",
+    "producto": "CABLE UTP CAJA CARRETA CAT 6 EXTERIOR DE 305 METROS SAS SUOD6305",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "555.00",
+    "precio3": "550.00",
+    "precio4": "445.00",
+    "precio5": "495.00",
+    "precio6": "490.00",
+    "precio": "560.00",
+    "precio1": "560.00",
+    "cantidad_disponible": 6
+  },
+  {
+    "id": 2363,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aeba139bbae9.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aeba13a067942.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aeba13a1b8083.png",
+    "codigo": "SAS SUID5100",
+    "producto": "CABLE UTP CAJA CAT 5 INTERIOR DE 100 METROS SAS SUID5100",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "155.00",
+    "precio3": "150.00",
+    "precio4": "150.00",
+    "precio5": "125.00",
+    "precio6": "120.00",
+    "precio": "160.00",
+    "precio1": "160.00",
+    "cantidad_disponible": 10
+  },
+  {
+    "id": 2364,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aeba10fee768.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aeba110533e12.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aeba1106b0ca3.png",
+    "codigo": "SAS SUID5305",
+    "producto": "CABLE UTP CAJA CAT 5 INTERIOR DE 305 METROS SAS SUID5305",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "405.00",
+    "precio3": "400.00",
+    "precio4": "395.00",
+    "precio5": "325.00",
+    "precio6": "320.00",
+    "precio": "410.00",
+    "precio1": "410.00",
+    "cantidad_disponible": 5
+  },
+  {
+    "id": 2365,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aeb9e4a4c8fa.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aeb9e4a862162.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aeb9e4a9b6c03.png",
+    "codigo": "SAS SUID6100",
+    "producto": "CABLE UTP CAJA CAT 6 INTERIOR DE 100 METROS SAS SUID6100",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "205.00",
+    "precio3": "200.00",
+    "precio4": "195.00",
+    "precio5": "160.00",
+    "precio6": "155.00",
+    "precio": "210.00",
+    "precio1": "210.00",
+    "cantidad_disponible": 9
+  },
+  {
+    "id": 2366,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aeb9d51b6a81.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aeb9d51ee6552.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aeb9d521178c3.png",
+    "codigo": "SAS SUID6305",
+    "producto": "CABLE UTP CAJA CAT 6 INTERIOR DE 305 METROS SAS SUID6305",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "455.00",
+    "precio3": "450.00",
+    "precio4": "445.00",
+    "precio5": "415.00",
+    "precio6": "410.00",
+    "precio": "460.00",
+    "precio1": "460.00",
+    "cantidad_disponible": 4
+  },
+  {
+    "id": 2367,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea64ba59dca.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea64bc33bb42.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea64bc523b63.png",
+    "codigo": "SAS Y6",
+    "producto": "BARRA DE LUZ MAGNETICA RECARGABLE CON SENSOR DE MOVIMIENTO 6W SAS Y6 410MM",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "155.00",
+    "precio3": "150.00",
+    "precio4": "145.00",
+    "precio5": "100.00",
+    "precio6": "97.00",
+    "precio": "160.00",
+    "precio1": "160.00",
+    "cantidad_disponible": 66
+  },
+  {
+    "id": 2368,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea84a5d3387.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea84a821a162.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea84a8db4da3.png",
+    "codigo": "SAS WL02",
+    "producto": "CARGADOR POSADOR INALAMBRICO 5 EN 1 25.5W SAS WL02",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "215.00",
+    "precio3": "210.00",
+    "precio4": "205.00",
+    "precio5": "140.00",
+    "precio6": "135.00",
+    "precio": "220.00",
+    "precio1": "220.00",
+    "cantidad_disponible": 76
+  },
+  {
+    "id": 2369,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea609a9d2a9.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea609b6e9122.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea609b9cb733.png",
+    "codigo": "SAS DS-144UC 1M",
+    "producto": "ADAPTADOR TIPO C Y USB A RED GIGABIT 4 EN 1 SAS DS-144UC 1M",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "205.00",
+    "precio3": "200.00",
+    "precio4": "195.00",
+    "precio5": "150.00",
+    "precio6": "145.00",
+    "precio": "210.00",
+    "precio1": "210.00",
+    "cantidad_disponible": 88
+  },
+  {
+    "id": 2370,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea86a00c2f5.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea86a28bf7c2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea86a3421723.png",
+    "codigo": "SAS HD-13C",
+    "producto": "ADAPTADOR CONVERSOR TIPO C A DISPLAY PORT DP 8K SAS HD-13C",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "120.00",
+    "precio3": "115.00",
+    "precio4": "110.00",
+    "precio5": "75.00",
+    "precio6": "70.00",
+    "precio": "125.00",
+    "precio1": "125.00",
+    "cantidad_disponible": 91
+  },
+  {
+    "id": 2371,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea77eabef59.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea77edcd6d42.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea77ee8884f3.png",
+    "codigo": "SAS LS351i",
+    "producto": "CABLE USB A LIGHTNING 50W 1 METRO SAS LS351i",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "58.00",
+    "precio3": "55.00",
+    "precio4": "53.00",
+    "precio5": "25.00",
+    "precio6": "24.00",
+    "precio": "60.00",
+    "precio1": "60.00",
+    "cantidad_disponible": 105
+  },
+  {
+    "id": 2372,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea7921b2b47.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea7924044c42.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea7924af2d93.png",
+    "codigo": "SAS LS351C",
+    "producto": "CABLE USB A TIPO C 50W 1 METRO SAS LS351C",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "58.00",
+    "precio3": "55.00",
+    "precio4": "53.00",
+    "precio5": "25.00",
+    "precio6": "24.00",
+    "precio": "60.00",
+    "precio1": "60.00",
+    "cantidad_disponible": 98
+  },
+  {
+    "id": 2373,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea7db803485.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea7dbb1d65f2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea7dbbe813c3.png",
+    "codigo": "SAS LS901i",
+    "producto": "CABLE USB A LIGHTNING 25W 1 METRO SAS LS901i",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "33.00",
+    "precio3": "30.00",
+    "precio4": "28.00",
+    "precio5": "13.00",
+    "precio6": "12.00",
+    "precio": "35.00",
+    "precio1": "35.00",
+    "cantidad_disponible": 105
+  },
+  {
+    "id": 2374,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea7e3b1e43b.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea7e3d8db8a2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea7e3e392b73.png",
+    "codigo": "SAS LS901C",
+    "producto": "CABLE USB A TIPO C 25W 1 METRO SAS LS901C",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "33.00",
+    "precio3": "30.00",
+    "precio4": "30.00",
+    "precio5": "13.00",
+    "precio6": "12.00",
+    "precio": "35.00",
+    "precio1": "35.00",
+    "cantidad_disponible": 84
+  },
+  {
+    "id": 2375,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea722e67948.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea722eccbc32.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea722ee8f5b3.png",
+    "codigo": "SAS LC442C",
+    "producto": "CABLE PD TIPO C A TIPO C DE 2 METRO 65W SAS LC442C",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "88.00",
+    "precio3": "85.00",
+    "precio4": "83.00",
+    "precio5": "30.00",
+    "precio6": "28.00",
+    "precio": "90.00",
+    "precio1": "90.00",
+    "cantidad_disponible": 102
+  },
+  {
+    "id": 2376,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6aea709033e87.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6aea7090afed02.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6aea765429fe83.png",
+    "codigo": "SAS SC5319",
+    "producto": "CORTA PICOS REGLETA ESTABILIZADOR 5 ENCHUFES 38W CABLE 2 METROS SAS SC5319",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "205.00",
+    "precio3": "200.00",
+    "precio4": "195.00",
+    "precio5": "155.00",
+    "precio6": "150.00",
+    "precio": "210.00",
+    "precio1": "210.00",
+    "cantidad_disponible": 91
+  },
+  {
+    "id": 2377,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6af2a252d5ea9.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6af2a2531cd6d2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6af2a2532fa273.png",
+    "codigo": "MJBXCQBQW",
+    "producto": "XIAOMI MIJIA MINI COMPACT PORTABLE ELECTRIC AIR COMPRESSOR",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "440.00",
+    "precio3": "435.00",
+    "precio4": "430.00",
+    "precio5": "385.00",
+    "precio6": "380.00",
+    "precio": "445.00",
+    "precio1": "445.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2378,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6af2a2ea8c787.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6af2a2eabe7f12.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6af2a2eacf8e93.png",
+    "codigo": "PLAY 18W",
+    "producto": "PARLANTE BLUETOOTH XIAOMI SOUND PLAY 18W",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "595.00",
+    "precio3": "590.00",
+    "precio4": "585.00",
+    "precio5": "555.00",
+    "precio6": "552.00",
+    "precio": "600.00",
+    "precio1": "600.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2379,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6af2a35d41e95.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6af2a35dce64a2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6af2a35e172d03.png",
+    "codigo": "11 ACTIVE",
+    "producto": "XIAOMI SMART BAND 11 ACTIVE",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "385.00",
+    "precio3": "380.00",
+    "precio4": "375.00",
+    "precio5": "330.00",
+    "precio6": "325.00",
+    "precio": "390.00",
+    "precio1": "390.00",
+    "cantidad_disponible": 4
+  },
+  {
+    "id": 2380,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6af2a5c3b390a.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6af2a5c43fdfd2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6af2a648bb6b33.png",
+    "codigo": "XIAOMI C500",
+    "producto": "CAMARA IP WIFI SMART XIAOMI C500",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "545.00",
+    "precio3": "540.00",
+    "precio4": "535.00",
+    "precio5": "465.00",
+    "precio6": "465.00",
+    "precio": "550.00",
+    "precio1": "550.00",
+    "cantidad_disponible": 2
+  },
+  {
+    "id": 2381,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6af2b2650704d.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6af2b2654845f2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6af2b26554cf63.png",
+    "codigo": "BLENDER 45W",
+    "producto": "LICUADORA PORTABLE XIAOMI BLENDER 45W 300 ML",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "345.00",
+    "precio3": "340.00",
+    "precio4": "335.00",
+    "precio5": "280.00",
+    "precio6": "277.00",
+    "precio": "350.00",
+    "precio1": "350.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2382,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6af2a458cff44.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6af2a4592019a2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6af2a459343a43.png",
+    "codigo": "JBL GRIP",
+    "producto": "PARLANTE BLUETOOTH JBL GRIP",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "735.00",
+    "precio3": "730.00",
+    "precio4": "725.00",
+    "precio5": "655.00",
+    "precio6": "650.00",
+    "precio": "740.00",
+    "precio1": "740.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2383,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6af2ac1b1d49b.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6af2ac1b4de592.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6af2ac1b5bb173.png",
+    "codigo": "CEPILLO",
+    "producto": "REPUESTOS CEPILLOS OSCILLATION ELECTRIC TOOTHBRUSH REPLACEMENT HEADS (CLEAN)",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "165.00",
+    "precio3": "160.00",
+    "precio4": "155.00",
+    "precio5": "130.00",
+    "precio6": "125.00",
+    "precio": "170.00",
+    "precio1": "170.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2384,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6af2af72b66a7.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6af2af73134d42.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6af2af7329e5f3.png",
+    "codigo": "S301",
+    "producto": "RASURADORA PORTATIL XIAOMI S301",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "375.00",
+    "precio3": "370.00",
+    "precio4": "365.00",
+    "precio5": "310.00",
+    "precio6": "305.00",
+    "precio": "380.00",
+    "precio1": "380.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2385,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6af2b0d29c573.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6af2b0d2dc8822.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6af2b0d2f3f023.png",
+    "codigo": "TOOTHBRUSH",
+    "producto": "CEPILLO ELECTRICO XIAOMI OSCILLATION ELECTRIC TOOTHBRUSH",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "305.00",
+    "precio3": "300.00",
+    "precio4": "295.00",
+    "precio5": "250.00",
+    "precio6": "245.00",
+    "precio": "310.00",
+    "precio1": "310.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2386,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6af2aa6a1fe9e.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6af2aac9b740a2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6af2aa6a9b7383.png",
+    "codigo": "STRAW MUG",
+    "producto": "TERMO XIAOMI CALIENTE Y FRIO STRAW MUG",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "335.00",
+    "precio3": "330.00",
+    "precio4": "325.00",
+    "precio5": "285.00",
+    "precio6": "280.00",
+    "precio": "340.00",
+    "precio1": "340.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2387,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6af2ad0256176.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6af2ad028eb412.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6af2ad02a5d9c3.png",
+    "codigo": "PAD 8",
+    "producto": "TECLADO XIAOMI PARA PAD 8 Y PAD 8 PRO",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "1040.00",
+    "precio3": "1030.00",
+    "precio4": "1020.00",
+    "precio5": "960.00",
+    "precio6": "955.00",
+    "precio": "1050.00",
+    "precio1": "1050.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2388,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6af2a9af96ce5.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6af2a9afd972e2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6af2a9b0019f63.png",
+    "codigo": "M2413E1",
+    "producto": "AUDIFONO XIAOMI TIPO C EARPHONES",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "105.00",
+    "precio3": "100.00",
+    "precio4": "100.00",
+    "precio5": "72.00",
+    "precio6": "70.00",
+    "precio": "110.00",
+    "precio1": "110.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2389,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6af2aedc107c2.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6af2aedc6f24a2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6af2aedc7cf253.png",
+    "codigo": "FLOSSER 2",
+    "producto": "IRRIGADOR DE DIENTES XIAOMI WATER FLOSSER 2",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "395.00",
+    "precio3": "390.00",
+    "precio4": "385.00",
+    "precio5": "315.00",
+    "precio6": "310.00",
+    "precio": "400.00",
+    "precio1": "400.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2390,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6af2ac7be169a.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6af2ac7c264c42.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6af2ac7c377d73.png",
+    "codigo": "REDMI WATCH 6",
+    "producto": "SMARTWATCH XIAOMI REDMI WATCH 6",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "1040.00",
+    "precio3": "1030.00",
+    "precio4": "1020.00",
+    "precio5": "948.00",
+    "precio6": "945.00",
+    "precio": "1050.00",
+    "precio1": "1050.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2391,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6af2a4e6ba8b2.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6af2a4e7142552.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6af2a4e729b8e3.png",
+    "codigo": "CROSSKY C50",
+    "producto": "AUDIFONO BLUETOOTH QCY CROSSKY C50",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "365.00",
+    "precio3": "360.00",
+    "precio4": "355.00",
+    "precio5": "310.00",
+    "precio6": "325.00",
+    "precio": "370.00",
+    "precio1": "370.00",
+    "cantidad_disponible": 0
+  },
+  {
+    "id": 2392,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6af2b39d90662.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6af2b39df0b2f2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6af2b39e193643.png",
+    "codigo": "COC-TEC-CH-SPARK9",
+    "producto": "CARGADOR V8 TECNO COC-TEC-CH-SPARK9",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "48.00",
+    "precio3": "45.00",
+    "precio4": "40.00",
+    "precio5": "19.00",
+    "precio6": "18.00",
+    "precio": "50.00",
+    "precio1": "50.00",
+    "cantidad_disponible": 9
+  },
+  {
+    "id": 2393,
+    "imagen": "https://apiback.aswin-smart.com/images/productos/6af2a8100ffa6.png",
+    "imagen2": "https://apiback.aswin-smart.com/images/productos/6af2a81028c56_2.png",
+    "imagen3": "https://apiback.aswin-smart.com/images/productos/6af2a8103b182_3.png",
+    "codigo": "DVB4514GL",
+    "producto": "REPETIDOR WIFI XIAOMI WIFI 6 AX1500",
+    "minimo": 10,
+    "estado": 1,
+    "precio2": "435.00",
+    "precio3": "430.00",
+    "precio4": "425.00",
+    "precio5": "385.00",
+    "precio6": "380.00",
+    "precio": "440.00",
+    "precio1": "440.00",
     "cantidad_disponible": 0
   }
 ]
